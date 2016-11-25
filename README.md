@@ -2,7 +2,9 @@
 
 ## Ruby
 
-### 8 KYU
+[8 KYU](#8KYU) | [7 KYU](#7KYU)
+
+### <a name="8KYU">8 KYU</a>
 * [Multiply] (Ruby/8KYU/Multiply.rb)
 * [Broken Greetings] (Ruby/8KYU/BrokenGreetings.rb)
 * [String Repeat] (Ruby/8KYU/StringRepeat.rb)
@@ -28,5 +30,5 @@
 * [Pirates!! Are the Cannons ready!??] (Ruby/8KYU/Pirates.rb)
 * [Do I get a bonus?] (Ruby/8KYU/Bonus.rb)
 
-### 7 KYU
+### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb)
