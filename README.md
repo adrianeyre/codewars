@@ -33,3 +33,4 @@
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb)
 * [Help Suzuki rake his garden!] (Ruby/7KYU/SuzukiGarden.rb)
+* [Case swapping] (Ruby/7KYU/CaseSwap.rb)
