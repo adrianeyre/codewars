@@ -50,3 +50,5 @@
 * [Vowel one] (Ruby/7KYU/VowelOne.rb) - [CodeWars] (https://www.codewars.com/kata/580751a40b5a777a200000a1)
 * [Bumps in the Road] (Ruby/7KYU/BumpRoad.rb) - [CodeWars] (https://www.codewars.com/kata/57ed30dde7728215300005fa)
 * [Switcheroo] (Ruby/7KYU/Switcheroo.rb) - [CodeWars] (https://www.codewars.com/kata/57f759bb664021a30300007d)
+
+### <a name="6KYU">6 KYU</a>
