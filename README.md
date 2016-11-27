@@ -47,3 +47,6 @@
 * [Median fun fun] (Ruby/7KYU/Medium.rb) - [CodeWars] (https://www.codewars.com/kata/582609930626631a9600003e)
 * [Gradually Adding Parameters] (Ruby/7KYU/GradPara.rb) - [CodeWars] (https://www.codewars.com/kata/555b73a81a6285b6ce000047)
 * [New £5 notes collectors!] (Ruby/7KYU/NewFiver.rb) - [CodeWars] (https://www.codewars.com/kata/58029cc9af749f80e3001e34)
+* [Vowel one] (Ruby/7KYU/VowelOne.rb) - [CodeWars] (https://www.codewars.com/kata/580751a40b5a777a200000a1)
+* [Bumps in the Road] (Ruby/7KYU/BumpRoad.rb) - [CodeWars] (https://www.codewars.com/kata/57ed30dde7728215300005fa)
+* [Switcheroo] (Ruby/7KYU/Switcheroo.rb) - [CodeWars] (https://www.codewars.com/kata/57f759bb664021a30300007d)
