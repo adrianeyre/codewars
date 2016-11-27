@@ -1,7 +1,7 @@
 # Code Wars
 
 ## Ruby
-[![JavaScript Style Guide: Good Parts](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "JavaScript The Good Parts")
+[![JavaScript Style Guide: Good Parts](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "My Honor Badge")
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU)
 
@@ -39,3 +39,6 @@
 * [Friend or Foe?] (Ruby/7KYU/FriendorFoe.rb) - [CodeWars] (https://www.codewars.com/kata/55b42574ff091733d900002f)
 * [Descending Order] (Ruby/7KYU/DecOrder.rb) - [CodeWars] (https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 * [Vowel Count] (Ruby/7KYU/VowelCount.rb) - [CodeWars] (https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+* [Don't give me five!] (Ruby/7KYU/DontFive.rb) - [CodeWars] (https://www.codewars.com/kata/5813d19765d81c592200001a)
+* [Keep the Order] (Ruby/7KYU/KeeptheOrder.rb) - [CodeWars] (https://www.codewars.com/kata/582aafca2d44a4a4560000e7)
+* [Mumbling] (Ruby/7KYU/Mumbling.rb) - [CodeWars] (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
