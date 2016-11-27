@@ -42,3 +42,5 @@
 * [Don't give me five!] (Ruby/7KYU/DontFive.rb) - [CodeWars] (https://www.codewars.com/kata/5813d19765d81c592200001a)
 * [Keep the Order] (Ruby/7KYU/KeeptheOrder.rb) - [CodeWars] (https://www.codewars.com/kata/582aafca2d44a4a4560000e7)
 * [Mumbling] (Ruby/7KYU/Mumbling.rb) - [CodeWars] (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+* [Say hello!] (Ruby/7KYU/SayHello.rb) - [CodeWars] (https://www.codewars.com/kata/55955a48a4e9c1a77500005a)
+* [Printer Errors] (Ruby/7KYU/PrinterError.rb) - [CodeWars] (https://www.codewars.com/kata/56541980fa08ab47a0000040)
