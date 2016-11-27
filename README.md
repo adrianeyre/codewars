@@ -29,7 +29,7 @@
 * [Short Long Short] (Ruby/8KYU/ShortLongShort.rb) - [CodeWars] (https://www.codewars.com/kata/50654ddff44f800200000007)
 * [Pirates!! Are the Cannons ready!??] (Ruby/8KYU/Pirates.rb) - [CodeWars] (https://www.codewars.com/kata/5748a883eb737cab000022a6)
 * [Do I get a bonus?] (Ruby/8KYU/Bonus.rb) - [CodeWars] (https://www.codewars.com/kata/56f6ad906b88de513f000d96)
-* [Grasshopper - Combine strings] (Ruby/8KYU) - [CodeWars] (https://www.codewars.com/kata/55f73f66d160f1f1db000059)
+* [Grasshopper - Combine strings] (Ruby/8KYU/GrassCombine.rb) - [CodeWars] (https://www.codewars.com/kata/55f73f66d160f1f1db000059)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
