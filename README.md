@@ -44,3 +44,6 @@
 * [Mumbling] (Ruby/7KYU/Mumbling.rb) - [CodeWars] (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 * [Say hello!] (Ruby/7KYU/SayHello.rb) - [CodeWars] (https://www.codewars.com/kata/55955a48a4e9c1a77500005a)
 * [Printer Errors] (Ruby/7KYU/PrinterError.rb) - [CodeWars] (https://www.codewars.com/kata/56541980fa08ab47a0000040)
+* [Median fun fun] (Ruby/7KYU/Medium.rb) - [CodeWars] (https://www.codewars.com/kata/582609930626631a9600003e)
+* [Gradually Adding Parameters] (Ruby/7KYU/GradPara.rb) - [CodeWars] (https://www.codewars.com/kata/555b73a81a6285b6ce000047)
+* [New £5 notes collectors!] (Ruby/7KYU/NewFiver.rb) - [CodeWars] (https://www.codewars.com/kata/58029cc9af749f80e3001e34)
