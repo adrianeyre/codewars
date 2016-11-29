@@ -57,3 +57,5 @@
 * [Transpose two strings in an array] (Ruby/7KYU/TransString.rb) - [CodeWars] (https://www.codewars.com/kata/581f4ac139dc423f04000b99)
 
 ### <a name="6KYU">6 KYU</a>
+* [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
+* [Find the missing letter] (Ruby/6KYU/FindLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
