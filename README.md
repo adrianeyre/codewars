@@ -63,3 +63,4 @@
 * [Length of missing array] (Ruby/6KYU/LengthMissArray.rb) - [CodeWars] (https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
 * [Find the odd int] (Ruby/6KYU/FindOddInt.rb) - [CodeWars] (https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Framed Reflection] (Ruby/6KYU/FramedReflection.rb) - [CodeWars] (https://www.codewars.com/kata/581331293788bc1702001fa6)
+* [Pair of gloves] (Ruby/6KYU/Gloves.rb) - [CodeWars] (https://www.codewars.com/kata/58235a167a8cb37e1a0000db)
