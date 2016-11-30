@@ -59,3 +59,7 @@
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
 * [Find the missing letter] (Ruby/6KYU/FindLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+* [Master of Files] (Ruby/6KYU/MasterFiles.rb) - [CodeWars] (https://www.codewars.com/kata/574bd867d277832448000adf)
+* [Length of missing array] (Ruby/6KYU/LengthMissArray.rb) - [CodeWars] (https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
+* [Find the odd int] (Ruby/6KYU/FindOddInt.rb) - [CodeWars] (https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* [Framed Reflection] (Ruby/6KYU/FramedReflection.rb) - [CodeWars] (https://www.codewars.com/kata/581331293788bc1702001fa6)
