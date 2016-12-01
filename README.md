@@ -64,3 +64,8 @@
 * [Find the odd int] (Ruby/6KYU/FindOddInt.rb) - [CodeWars] (https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Framed Reflection] (Ruby/6KYU/FramedReflection.rb) - [CodeWars] (https://www.codewars.com/kata/581331293788bc1702001fa6)
 * [Pair of gloves] (Ruby/6KYU/Gloves.rb) - [CodeWars] (https://www.codewars.com/kata/58235a167a8cb37e1a0000db)
+* [Kebabize] (Ruby/6KYU/Kebabsize.rb) - [CodeWars] (https://www.codewars.com/kata/57f8ff867a28db569e000c4a)
+* [Next Version] (Ruby/6KYU/NextVersion.rb) - [CodeWars] (https://www.codewars.com/kata/56c0ca8c6d88fdb61b000f06)
+* [Stop gninnipS My sdroW!] (Ruby/6KYU/SpinWord.rb) - [CodeWars] (https://www.codewars.com/kata/5264d2b162488dc400000001)
+* [Twisted Sum] (Ruby/6KYU/TwistSub.rb) - [CodeWars] (https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f)
+* [Dead Ants] (Ruby/6KYU/DeadAnts.rb) - [CodeWars] (https://www.codewars.com/kata/57d5e850bfcdc545870000b7)
