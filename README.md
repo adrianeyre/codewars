@@ -69,3 +69,4 @@
 * [Stop gninnipS My sdroW!] (Ruby/6KYU/SpinWord.rb) - [CodeWars] (https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Twisted Sum] (Ruby/6KYU/TwistSub.rb) - [CodeWars] (https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f)
 * [Dead Ants] (Ruby/6KYU/DeadAnts.rb) - [CodeWars] (https://www.codewars.com/kata/57d5e850bfcdc545870000b7)
+* [Word Patterns] (Ruby/6KYU/WordPat.rb) - [CodeWars] (https://www.codewars.com/kata/562846dd1f77ab7c00000033)
