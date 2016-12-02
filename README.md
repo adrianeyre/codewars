@@ -70,3 +70,5 @@
 * [Twisted Sum] (Ruby/6KYU/TwistSub.rb) - [CodeWars] (https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f)
 * [Dead Ants] (Ruby/6KYU/DeadAnts.rb) - [CodeWars] (https://www.codewars.com/kata/57d5e850bfcdc545870000b7)
 * [Word Patterns] (Ruby/6KYU/WordPat.rb) - [CodeWars] (https://www.codewars.com/kata/562846dd1f77ab7c00000033)
+* [Turkish National Identity Number] (Ruby/6KYU/IDNum.rb) - [CodeWars] (https://www.codewars.com/kata/556021360863a1708900007b)
+* [Wordify an integer] (Ruby/6KYU/WordInt.rb) - [CodeWars] (https://www.codewars.com/kata/553a2461098c64ae53000041)
