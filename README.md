@@ -78,3 +78,4 @@
 * [First non-repeating letter] (Ruby/5KYU/FirstLet.rb) - [CodeWars] (https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 * [Largest 5 digit number in a series] (Ruby/5KYU/FiveDigit.rb) - [CodeWars] (https://www.codewars.com/kata/51675d17e0c1bed195000001)
 * [Valid Parentheses] (Ruby/5KYU/VaildParen.rb) - [CodeWars] (https://www.codewars.com/kata/52774a314c2333f0a7000688)
+* [Caesar Cipher Helper] (Ruby/5KYU/Caesar.rb) - [CodeWars] (https://www.codewars.com/kata/526d42b6526963598d0004db)
