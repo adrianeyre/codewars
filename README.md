@@ -80,3 +80,4 @@
 * [Valid Parentheses] (Ruby/5KYU/VaildParen.rb) - [CodeWars] (https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * [Caesar Cipher Helper] (Ruby/5KYU/Caesar.rb) - [CodeWars] (https://www.codewars.com/kata/526d42b6526963598d0004db)
 * [Regex Password Validation] (Ruby/5KYU/RegexPass.rb) - [CodeWars] (https://www.codewars.com/kata/52e1476c8147a7547a000811)
+* [#Hashtag] (Ruby/5KYU/hashtags.rb) - [CodeWars] (https://www.codewars.com/kata/52ae2db783f47875d0000064)
