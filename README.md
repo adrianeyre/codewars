@@ -79,3 +79,4 @@
 * [Largest 5 digit number in a series] (Ruby/5KYU/FiveDigit.rb) - [CodeWars] (https://www.codewars.com/kata/51675d17e0c1bed195000001)
 * [Valid Parentheses] (Ruby/5KYU/VaildParen.rb) - [CodeWars] (https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * [Caesar Cipher Helper] (Ruby/5KYU/Caesar.rb) - [CodeWars] (https://www.codewars.com/kata/526d42b6526963598d0004db)
+* [Regex Password Validation] (Ruby/5KYU/RegexPass.rb) - [CodeWars] (https://www.codewars.com/kata/52e1476c8147a7547a000811)
