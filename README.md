@@ -55,6 +55,7 @@
 * [Is every value in the array an array?] (Ruby/7KYU/ValueArray.rb) - [CodeWars] (https://www.codewars.com/kata/582c81d982a0a65424000201)
 * [Return the closest number multiple of 10] (Ruby/7KYU/CloseTen.rb) - [CodeWars] (https://www.codewars.com/kata/58249d08b81f70a2fc0001a4)
 * [Transpose two strings in an array] (Ruby/7KYU/TransString.rb) - [CodeWars] (https://www.codewars.com/kata/581f4ac139dc423f04000b99)
+* [Char Code Calculation] (Ruby/7KYU/CharCodeCal.rb) - [CodeWars] (https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
