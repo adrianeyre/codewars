@@ -72,6 +72,7 @@
 * [Word Patterns] (Ruby/6KYU/WordPat.rb) - [CodeWars] (https://www.codewars.com/kata/562846dd1f77ab7c00000033)
 * [Turkish National Identity Number] (Ruby/6KYU/IDNum.rb) - [CodeWars] (https://www.codewars.com/kata/556021360863a1708900007b)
 * [Wordify an integer] (Ruby/6KYU/WordInt.rb) - [CodeWars] (https://www.codewars.com/kata/553a2461098c64ae53000041)
+* [Playing with passphrases] (Ruby/6KYU/PassPhrase.rb) - [CodeWars] (https://www.codewars.com/kata/559536379512a64472000053)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
