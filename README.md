@@ -35,6 +35,7 @@
 * [Convert a Boolean to a String] (Ruby/8KU/BoolString.rb) - [CodeWars] (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 * [Convert a Boolean to a String] (Ruby/8KYU/BoolYN.rb) - [CodeWars] (https://www.codewars.com/kata/53369039d7ab3ac506000467)
 * [Yield to the Block] (Ruby/8KYU/YieldBlock.rb) - [CodeWars] (https://www.codewars.com/kata/5253d3a24f16f061cd000228)
+* [Convert number to reversed array of digits] (Ruby/8KYU/ConvertDigits.rb) - [CodeWars] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
