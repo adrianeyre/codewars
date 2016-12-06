@@ -32,6 +32,7 @@
 * [Do I get a bonus?] (Ruby/8KYU/Bonus.rb) - [CodeWars] (https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 * [Grasshopper - Combine strings] (Ruby/8KYU/GrassCombine.rb) - [CodeWars] (https://www.codewars.com/kata/55f73f66d160f1f1db000059)
 * [Grasshopper - Make change] (Ruby/8KYU/MakeChange.rb) - [CodeWars] (https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
+* [Convert a Boolean to a String] (Ruby/8KU/BoolString.rb) - [CodeWars] (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
