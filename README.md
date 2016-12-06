@@ -34,6 +34,7 @@
 * [Grasshopper - Make change] (Ruby/8KYU/MakeChange.rb) - [CodeWars] (https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
 * [Convert a Boolean to a String] (Ruby/8KU/BoolString.rb) - [CodeWars] (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 * [Convert a Boolean to a String] (Ruby/8KYU/BoolYN.rb) - [CodeWars] (https://www.codewars.com/kata/53369039d7ab3ac506000467)
+* [Yield to the Block] (Ruby/8KYU/YieldBlock.rb) - [CodeWars] (https://www.codewars.com/kata/5253d3a24f16f061cd000228)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
