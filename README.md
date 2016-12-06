@@ -31,6 +31,7 @@
 * [Pirates!! Are the Cannons ready!??] (Ruby/8KYU/Pirates.rb) - [CodeWars] (https://www.codewars.com/kata/5748a883eb737cab000022a6)
 * [Do I get a bonus?] (Ruby/8KYU/Bonus.rb) - [CodeWars] (https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 * [Grasshopper - Combine strings] (Ruby/8KYU/GrassCombine.rb) - [CodeWars] (https://www.codewars.com/kata/55f73f66d160f1f1db000059)
+* [Grasshopper - Make change] (Ruby/8KYU/MakeChange.rb) - [CodeWars] (https://www.codewars.com/kata/560dab9f8b50f89fd6000070)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -56,6 +57,7 @@
 * [Return the closest number multiple of 10] (Ruby/7KYU/CloseTen.rb) - [CodeWars] (https://www.codewars.com/kata/58249d08b81f70a2fc0001a4)
 * [Transpose two strings in an array] (Ruby/7KYU/TransString.rb) - [CodeWars] (https://www.codewars.com/kata/581f4ac139dc423f04000b99)
 * [Char Code Calculation] (Ruby/7KYU/CharCodeCal.rb) - [CodeWars] (https://www.codewars.com/kata/57f75cc397d62fc93d000059)
+* [Substituting Variables Into Strings: Padded Numbers] (Ruby/7KYU/PadNum.rb) - [CodeWars] (https://www.codewars.com/kata/51c89385ee245d7ddf000001)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -74,6 +76,7 @@
 * [Turkish National Identity Number] (Ruby/6KYU/IDNum.rb) - [CodeWars] (https://www.codewars.com/kata/556021360863a1708900007b)
 * [Wordify an integer] (Ruby/6KYU/WordInt.rb) - [CodeWars] (https://www.codewars.com/kata/553a2461098c64ae53000041)
 * [Playing with passphrases] (Ruby/6KYU/PassPhrase.rb) - [CodeWars] (https://www.codewars.com/kata/559536379512a64472000053)
+* [Write Number in Expanded Form] (Ruby/6KYU/NumExpand.rb) - [CodeWars] (https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
