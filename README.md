@@ -84,6 +84,8 @@
 * [Write Number in Expanded Form] (Ruby/6KYU/NumExpand.rb) - [CodeWars] (https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 * [Regex Tic Tac Toe Win Checker] (Ruby/6KYU/TicTacToe.rb) - [CodeWars] (https://www.codewars.com/kata/582e0450fe38013dbc0002d3)
 * [Balance the arrays] (Ruby/6KYU/BalanceArray.rb) - [CodeWars] (https://www.codewars.com/kata/58429d526312ce1d940000ee)
+* [Min value of each n elements -- Simple version] (Ruby/6KYU/MinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5831c5f8ac6a11e3380002de)
+* [Vowel Shifting] (Ruby/6KYU/VowelShift.rb) - [CodeWars] (https://www.codewars.com/kata/577e277c9fb2a5511c00001d)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
