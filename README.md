@@ -36,6 +36,7 @@
 * [Convert a Boolean to a String] (Ruby/8KYU/BoolYN.rb) - [CodeWars] (https://www.codewars.com/kata/53369039d7ab3ac506000467)
 * [Yield to the Block] (Ruby/8KYU/YieldBlock.rb) - [CodeWars] (https://www.codewars.com/kata/5253d3a24f16f061cd000228)
 * [Convert number to reversed array of digits] (Ruby/8KYU/ConvertDigits.rb) - [CodeWars] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+* [How many lightsabers do you own?] (Ruby/8KYU/Saber.rb) - [CodeWars] (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -81,6 +82,8 @@
 * [Wordify an integer] (Ruby/6KYU/WordInt.rb) - [CodeWars] (https://www.codewars.com/kata/553a2461098c64ae53000041)
 * [Playing with passphrases] (Ruby/6KYU/PassPhrase.rb) - [CodeWars] (https://www.codewars.com/kata/559536379512a64472000053)
 * [Write Number in Expanded Form] (Ruby/6KYU/NumExpand.rb) - [CodeWars] (https://www.codewars.com/kata/5842df8ccbd22792a4000245)
+* [Regex Tic Tac Toe Win Checker] (Ruby/6KYU/TicTacToe.rb) - [CodeWars] (https://www.codewars.com/kata/582e0450fe38013dbc0002d3)
+* [Balance the arrays] (Ruby/6KYU/BalanceArray.rb) - [CodeWars] (https://www.codewars.com/kata/58429d526312ce1d940000ee)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
