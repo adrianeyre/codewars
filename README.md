@@ -96,3 +96,6 @@
 * [Regex Password Validation] (Ruby/5KYU/RegexPass.rb) - [CodeWars] (https://www.codewars.com/kata/52e1476c8147a7547a000811)
 * [#Hashtag] (Ruby/5KYU/hashtags.rb) - [CodeWars] (https://www.codewars.com/kata/52ae2db783f47875d0000064)
 * [The Hashtag Generator] (Ruby/5KYU/HashGen.rb) - [CodeWars] (https://www.codewars.com/kata/52449b062fb80683ec000024)
+
+### <a name="4KYU">4 KYU</a>
+* [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
