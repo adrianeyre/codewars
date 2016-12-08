@@ -39,6 +39,7 @@
 * [How many lightsabers do you own?] (Ruby/8KYU/Saber.rb) - [CodeWars] (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 * [Fake Binary] (Ruby/8KYU/FakeBinary.rb) - [CodeWars] (https://www.codewars.com/kata/57eae65a4321032ce000002d)
 * [Last] (Ruby/8KYU/Last.rb) - [CodeWars] (https://www.codewars.com/kata/541629460b198da04e000bb9)
+* [Count of positives / sum of negatives] (Ruby/8KYU/CountPosNeg.rb) - [CodeWars] (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -68,6 +69,8 @@
 * [Fizz Buzz] (Ruby/7KYU/FizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/5300901726d12b80e8000498)
 * [Make a function that does arithmetic!] (Ruby/7KYU/MakeMaths.rb) - [CodeWars] (https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * [Holiday V - SeaSick Snorkelling] (Ruby/7KYU/SeaSick.rb) - [CodeWars] (https://www.codewars.com/kata/57e90bcc97a0592126000064)
+* [Sum up the random string] (Ruby/7KYU/SumString.rb) - [CodeWars] (https://www.codewars.com/kata/55da6c52a94744b379000036)
+* [String Reversing, Changing case, etc.] (Ruby/7KYU/RevChange.rb) - [CodeWars] (https://www.codewars.com/kata/58305403aeb69a460b00019a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
