@@ -38,6 +38,7 @@
 * [Convert number to reversed array of digits] (Ruby/8KYU/ConvertDigits.rb) - [CodeWars] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 * [How many lightsabers do you own?] (Ruby/8KYU/Saber.rb) - [CodeWars] (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
 * [Fake Binary] (Ruby/8KYU/FakeBinary.rb) - [CodeWars] (https://www.codewars.com/kata/57eae65a4321032ce000002d)
+* [Last] (Ruby/8KYU/Last.rb) - [CodeWars] (https://www.codewars.com/kata/541629460b198da04e000bb9)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -65,6 +66,8 @@
 * [Char Code Calculation] (Ruby/7KYU/CharCodeCal.rb) - [CodeWars] (https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 * [Substituting Variables Into Strings: Padded Numbers] (Ruby/7KYU/PadNum.rb) - [CodeWars] (https://www.codewars.com/kata/51c89385ee245d7ddf000001)
 * [Fizz Buzz] (Ruby/7KYU/FizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/5300901726d12b80e8000498)
+* [Make a function that does arithmetic!] (Ruby/7KYU/MakeMaths.rb) - [CodeWars] (https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
+* [Holiday V - SeaSick Snorkelling] (Ruby/7KYU/SeaSick.rb) - [CodeWars] (https://www.codewars.com/kata/57e90bcc97a0592126000064)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
