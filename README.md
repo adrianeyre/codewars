@@ -37,6 +37,7 @@
 * [Yield to the Block] (Ruby/8KYU/YieldBlock.rb) - [CodeWars] (https://www.codewars.com/kata/5253d3a24f16f061cd000228)
 * [Convert number to reversed array of digits] (Ruby/8KYU/ConvertDigits.rb) - [CodeWars] (https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 * [How many lightsabers do you own?] (Ruby/8KYU/Saber.rb) - [CodeWars] (https://www.codewars.com/kata/51f9d93b4095e0a7200001b8)
+* [Fake Binary] (Ruby/8KYU/FakeBinary.rb) - [CodeWars] (https://www.codewars.com/kata/57eae65a4321032ce000002d)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -63,6 +64,7 @@
 * [Transpose two strings in an array] (Ruby/7KYU/TransString.rb) - [CodeWars] (https://www.codewars.com/kata/581f4ac139dc423f04000b99)
 * [Char Code Calculation] (Ruby/7KYU/CharCodeCal.rb) - [CodeWars] (https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 * [Substituting Variables Into Strings: Padded Numbers] (Ruby/7KYU/PadNum.rb) - [CodeWars] (https://www.codewars.com/kata/51c89385ee245d7ddf000001)
+* [Fizz Buzz] (Ruby/7KYU/FizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/5300901726d12b80e8000498)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -96,6 +98,7 @@
 * [Regex Password Validation] (Ruby/5KYU/RegexPass.rb) - [CodeWars] (https://www.codewars.com/kata/52e1476c8147a7547a000811)
 * [#Hashtag] (Ruby/5KYU/hashtags.rb) - [CodeWars] (https://www.codewars.com/kata/52ae2db783f47875d0000064)
 * [The Hashtag Generator] (Ruby/5KYU/HashGen.rb) - [CodeWars] (https://www.codewars.com/kata/52449b062fb80683ec000024)
+* [Email Validation] (Ruby/5KYU/Email.rb) - [CodeWara] (https://www.codewars.com/kata/52711e5cc961c233d0000048)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
