@@ -76,6 +76,8 @@
 * [String Reversing, Changing case, etc.] (Ruby/7KYU/RevChange.rb) - [CodeWars] (https://www.codewars.com/kata/58305403aeb69a460b00019a)
 * [Identical Elements] (Ruby/7KYU/Elements.rb) - [CodeWars] (https://www.codewars.com/kata/583ebb9328a0c034490001ba)
 * [Convert an array of strings to array of numbers] (Ruby/7KYU/ConvertStrArray.rb) - [CodeWars] (https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
+* [Rotate for a Max] (Ruby/7KYU/RotateMax.rb) - [CodeWars] (https://www.codewars.com/kata/56a4872cbb65f3a610000026)
+* [Round to nearest 0 or 5] (Ruby/7KYU/Near5.rb) - [CodeWars] (https://www.codewars.com/kata/582f52208278c6be55000067)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
