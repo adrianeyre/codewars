@@ -115,3 +115,4 @@
 * [File Path Operations] (Ruby/beta/FileMaster.rb) - [CodeWars] (https://www.codewars.com/kata/5844e0890d3bedc5c5000e54)
 * [Which string is worth more?] (Ruby/beta/HighValue.rb) - [CodeWars] (https://www.codewars.com/kata/5840586b5225616069000001)
 * [Compress string to return letter followed by numbers of times it occurs in a string] (Ruby/beta/Compress.rb) - [CodeWars] (https://www.codewars.com/kata/5830721ffd25e9551a000118)
+* [Count letters in string] (Ruby/beta/CountLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
