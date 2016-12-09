@@ -3,7 +3,7 @@
 ## Ruby
 [![JavaScript Style Guide: Good Parts](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "My Honor Badge")
 
-[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU)
+[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA)
 
 ### <a name="8KYU">8 KYU</a>
 * [Multiply] (Ruby/8KYU/Multiply.rb) - [CodeWars] (https://www.codewars.com/kata/50654ddff44f800200000004)
@@ -109,3 +109,6 @@
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 * [Most frequently used words in a text] (Ruby/4KYU/FreqWord.rb) - [CodeWars] (https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+
+### <a name="BETA">BETA</a>
+* [Fizz Buzz Cuckoo Clock] (Ruby/beta/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6
