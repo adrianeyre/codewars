@@ -40,6 +40,9 @@
 * [Fake Binary] (Ruby/8KYU/FakeBinary.rb) - [CodeWars] (https://www.codewars.com/kata/57eae65a4321032ce000002d)
 * [Last] (Ruby/8KYU/Last.rb) - [CodeWars] (https://www.codewars.com/kata/541629460b198da04e000bb9)
 * [Count of positives / sum of negatives] (Ruby/8KYU/CountPosNeg.rb) - [CodeWars] (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+* [Grasshopper - Basic Function Fixer] (Ruby/8KYU/BasicFunction.rb) - [CodeWars] (https://www.codewars.com/kata/56200d610758762fb0000002)
+* [For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre] (Ruby/8KYU/Fighter.rb) - [CodeWars] (https://www.codewars.com/kata/582dafb611d576b745000b74)
+* [Even or Odd] (Ruby/8KYU/EvenOdd.rb) - [CodeWara] (https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -71,6 +74,8 @@
 * [Holiday V - SeaSick Snorkelling] (Ruby/7KYU/SeaSick.rb) - [CodeWars] (https://www.codewars.com/kata/57e90bcc97a0592126000064)
 * [Sum up the random string] (Ruby/7KYU/SumString.rb) - [CodeWars] (https://www.codewars.com/kata/55da6c52a94744b379000036)
 * [String Reversing, Changing case, etc.] (Ruby/7KYU/RevChange.rb) - [CodeWars] (https://www.codewars.com/kata/58305403aeb69a460b00019a)
+* [Identical Elements] (Ruby/7KYU/Elements.rb) - [CodeWars] (https://www.codewars.com/kata/583ebb9328a0c034490001ba)
+* [Convert an array of strings to array of numbers] (Ruby/7KYU/ConvertStrArray.rb) - [CodeWars] (https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
