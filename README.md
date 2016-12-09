@@ -118,4 +118,4 @@
 * [Count letters in string] (Ruby/beta/CountLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
 * [Convert Symbol to Array] (Ruby/beta/ConvertSymArray.rb) - [CodeWars] (https://www.codewars.com/kata/580b3efd43a6be90aa000104)
 * [National Bath Safety Month] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/57d14a9d95497e9912000267)
-* [Basic Math (Add or Subtract) (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
+* [Basic Math] (Add or Subtract) (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
