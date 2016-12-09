@@ -111,4 +111,4 @@
 * [Most frequently used words in a text] (Ruby/4KYU/FreqWord.rb) - [CodeWars] (https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 
 ### <a name="BETA">BETA</a>
-* [Fizz Buzz Cuckoo Clock] (Ruby/beta/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6
+* [Fizz Buzz Cuckoo Clock] (Ruby/beta/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6)
