@@ -101,6 +101,8 @@
 * [Balance the arrays] (Ruby/6KYU/BalanceArray.rb) - [CodeWars] (https://www.codewars.com/kata/58429d526312ce1d940000ee)
 * [Min value of each n elements (Simple version)] (Ruby/6KYU/MinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5831c5f8ac6a11e3380002de)
 * [Vowel Shifting] (Ruby/6KYU/VowelShift.rb) - [CodeWars] (https://www.codewars.com/kata/577e277c9fb2a5511c00001d)
+* [up AND down] (Ruby/6KYU/upANDdown.rb) - [CodeWars] (https://www.codewars.com/kata/56cac350145912e68b0006f0)
+* [Remove anchor from URL] (Ruby/6KYU/RemoveURL.rb) - [CodeWars] (https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
