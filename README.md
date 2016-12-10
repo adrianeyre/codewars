@@ -103,6 +103,8 @@
 * [Vowel Shifting] (Ruby/6KYU/VowelShift.rb) - [CodeWars] (https://www.codewars.com/kata/577e277c9fb2a5511c00001d)
 * [up AND down] (Ruby/6KYU/upANDdown.rb) - [CodeWars] (https://www.codewars.com/kata/56cac350145912e68b0006f0)
 * [Remove anchor from URL] (Ruby/6KYU/RemoveURL.rb) - [CodeWars] (https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
+* [MTV Cribs] (Ruby/6KYU/MTV.rb) - [CodeWars] (https://www.codewars.com/kata/5834a44e44ff289b5a000075)
+* [Decode the Morse code] (Ruby/6KYU/MorseCode.rb) - [CodeWars] (https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
