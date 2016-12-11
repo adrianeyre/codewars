@@ -105,6 +105,9 @@
 * [Remove anchor from URL] (Ruby/6KYU/RemoveURL.rb) - [CodeWars] (https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 * [MTV Cribs] (Ruby/6KYU/MTV.rb) - [CodeWars] (https://www.codewars.com/kata/5834a44e44ff289b5a000075)
 * [Decode the Morse code] (Ruby/6KYU/MorseCode.rb) - [CodeWars] (https://www.codewars.com/kata/54b724efac3d5402db00065e)
+* [Are they the "same"?] (Ruby/6KYU/Same.rb) - [CodeWars] (https://www.codewars.com/kata/550498447451fbbd7600041c)
+* [Good vs Evil] (Ruby/6KYU/GoodvEvil.rb) - [CodeWars] (https://www.codewars.com/kata/52761ee4cffbc69732000738)
+* [Split and Join] (Ruby/6KYU/SplitandJoin.rb) - [CodeWars] (https://www.codewars.com/kata/5816ead8dae5a59eaa000053)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
