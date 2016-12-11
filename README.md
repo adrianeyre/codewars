@@ -78,6 +78,7 @@
 * [Convert an array of strings to array of numbers] (Ruby/7KYU/ConvertStrArray.rb) - [CodeWars] (https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 * [Rotate for a Max] (Ruby/7KYU/RotateMax.rb) - [CodeWars] (https://www.codewars.com/kata/56a4872cbb65f3a610000026)
 * [Round to nearest 0 or 5] (Ruby/7KYU/Near5.rb) - [CodeWars] (https://www.codewars.com/kata/582f52208278c6be55000067)
+* [The highest profit wins!] (Ruby/7KYU/HighProfit.rb) - [CodeWars] (https://www.codewars.com/kata/559590633066759614000063)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -108,6 +109,9 @@
 * [Are they the "same"?] (Ruby/6KYU/Same.rb) - [CodeWars] (https://www.codewars.com/kata/550498447451fbbd7600041c)
 * [Good vs Evil] (Ruby/6KYU/GoodvEvil.rb) - [CodeWars] (https://www.codewars.com/kata/52761ee4cffbc69732000738)
 * [Split and Join] (Ruby/6KYU/SplitandJoin.rb) - [CodeWars] (https://www.codewars.com/kata/5816ead8dae5a59eaa000053)
+* [Persistent Bugger.] (Ruby/6KYU/Persistance.rb) - [CodeWars] (https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+* [Duplicate Encoder] (Ruby/6KYU/DuplicateEncoder.rb) - [CodeWars] (https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+* [Format a string of names like 'Bart, Lisa & Maggie'.] (Ruby/6KYU/FormatString.rb) - [CodeWars] (https://www.codewars.com/kata/53368a47e38700bd8300030d)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
