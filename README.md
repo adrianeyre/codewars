@@ -43,6 +43,8 @@
 * [Grasshopper - Basic Function Fixer] (Ruby/8KYU/BasicFunction.rb) - [CodeWars] (https://www.codewars.com/kata/56200d610758762fb0000002)
 * [For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre] (Ruby/8KYU/Fighter.rb) - [CodeWars] (https://www.codewars.com/kata/582dafb611d576b745000b74)
 * [Even or Odd] (Ruby/8KYU/EvenOdd.rb) - [CodeWara] (https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+* [Remove First and Last Character] (Ruby/8KYU/Removechars.rb) - [CodeWars] (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+* [Double Char] (Ruby/8KYU/DoubleChar.rb) - [CodeWara] (https://www.codewars.com/kata/56b1f01c247c01db92000076)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -112,6 +114,7 @@
 * [Persistent Bugger.] (Ruby/6KYU/Persistance.rb) - [CodeWars] (https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Duplicate Encoder] (Ruby/6KYU/DuplicateEncoder.rb) - [CodeWars] (https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 * [Format a string of names like 'Bart, Lisa & Maggie'.] (Ruby/6KYU/FormatString.rb) - [CodeWars] (https://www.codewars.com/kata/53368a47e38700bd8300030d)
+* [Counting Duplicates] (Ruby/6KYU/CountDuplicates.rb) - [CodeWars] (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
