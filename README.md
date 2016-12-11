@@ -45,6 +45,7 @@
 * [Even or Odd] (Ruby/8KYU/EvenOdd.rb) - [CodeWara] (https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 * [Remove First and Last Character] (Ruby/8KYU/Removechars.rb) - [CodeWars] (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 * [Double Char] (Ruby/8KYU/DoubleChar.rb) - [CodeWara] (https://www.codewars.com/kata/56b1f01c247c01db92000076)
+* [Sum without highest and lowest number] (Ruby/8KYU/SumHighLow.rb) - [CodeWars] (https://www.codewars.com/kata/576b93db1129fcf2200001e6)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
