@@ -56,6 +56,12 @@
 * [2 + 2 * 2 problem] (Ruby/8KYU/2plus2.rb) - [CodeWars] (https://www.codewars.com/kata/537922daa79ca02290000d18)
 * [Fix the Bugs (Syntax) - My First Kata] (Ruby/8KYU/FixBugs.rb) - [CodeWars] (https://www.codewars.com/kata/56aed32a154d33a1f3000018)
 * [Exclusive "or" (xor) Logical Operator] (Ruby/8KYU/XOR.rb) - [CodeWars] (https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
+* [Find Maximum and Minimum Values of a List] (Ruby/8KYU/MaxandMin.rb) - [CodeWars] (https://www.codewars.com/kata/577a98a6ae28071780000989)
+* [Switch it Up!] (Ruby/8KYU/SwitchItUp.rb) - [CodeWars] (https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)
+* [Classic Hello World] (Ruby/8KYU/ClassicHello.rb) - [CodeWars] (https://www.codewars.com/kata/57036f007fd72e3b77000023)
+* [Convert a Number to a String!] (Ruby/8KYU/NumtoString.rb) - [CodeWars] (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+* [Counting sheep...] (Ruby/8KYU/Sheep.rb) - [CodeWars] (https://www.codewars.com/kata/54edbc7200b811e956000556)
+* [DNA to RNA Conversion] (Ruby/8KYU/DNA.rb) - [CodeWars] (https://www.codewars.com/kata/5556282156230d0e5e000089)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
