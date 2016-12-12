@@ -49,6 +49,10 @@
 * [BASIC: Making Six Toast.] (Ruby/8KYU/SixToast.rb) - [CodeWars] (https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)
 * [Keep Hydrated!] (Ruby/8KYU/Hydrated.rb) - [CodeWars] (https://www.codewars.com/kata/582cb0224e56e068d800003c)
 * [Duck Duck Goose] (Ruby/8KYU/DuckDuckGoose.rb) - [CodeWars] (https://www.codewars.com/kata/582e0e592029ea10530009ce)
+* [So Easy: Charge time calculation] (Ruby/8KYU/SoEasy.rb) - [CodeWars] (https://www.codewars.com/kata/57ea0ee4491a151fc5000acf)
+* [Exclamation marks series #11: Replace all vowel to] (Ruby/8KYU/ReplaceVowels.rb) - [CodeWars] (https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
+* [Is this my tail?] (Ruby/8KYU/MyTail.rb) - [CodeWars] (https://www.codewars.com/kata/56f695399400f5d9ef000af5)
+* [Is there a vowel in there?] (Ruby/8KYU/VowelInThere.rb) - [CodeWars] (https://www.codewars.com/kata/57cff961eca260b71900008f)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -85,6 +89,8 @@
 * [Rotate for a Max] (Ruby/7KYU/RotateMax.rb) - [CodeWars] (https://www.codewars.com/kata/56a4872cbb65f3a610000026)
 * [Round to nearest 0 or 5] (Ruby/7KYU/Near5.rb) - [CodeWars] (https://www.codewars.com/kata/582f52208278c6be55000067)
 * [The highest profit wins!] (Ruby/7KYU/HighProfit.rb) - [CodeWars] (https://www.codewars.com/kata/559590633066759614000063)
+* [Invalid Input - Error Handling #1] (Ruby/7KYU/InvalidInput.rb) - [CodeWars] (https://www.codewars.com/kata/55e6125ad777b540d9000042)
+* [Divide and Conquer] (Ruby/7KYU/DivideConquar.rb) - [CodeWars] (https://www.codewars.com/kata/57eaec5608fed543d6000021)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
