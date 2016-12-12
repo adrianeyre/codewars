@@ -53,6 +53,9 @@
 * [Exclamation marks series #11: Replace all vowel to] (Ruby/8KYU/ReplaceVowels.rb) - [CodeWars] (https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed)
 * [Is this my tail?] (Ruby/8KYU/MyTail.rb) - [CodeWars] (https://www.codewars.com/kata/56f695399400f5d9ef000af5)
 * [Is there a vowel in there?] (Ruby/8KYU/VowelInThere.rb) - [CodeWars] (https://www.codewars.com/kata/57cff961eca260b71900008f)
+* [2 + 2 * 2 problem] (Ruby/8KYU/2plus2.rb) - [CodeWars] (https://www.codewars.com/kata/537922daa79ca02290000d18)
+* [Fix the Bugs (Syntax) - My First Kata] (Ruby/8KYU/FixBugs.rb) - [CodeWars] (https://www.codewars.com/kata/56aed32a154d33a1f3000018)
+* [Exclusive "or" (xor) Logical Operator] (Ruby/8KYU/XOR.rb) - [CodeWars] (https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -91,6 +94,7 @@
 * [The highest profit wins!] (Ruby/7KYU/HighProfit.rb) - [CodeWars] (https://www.codewars.com/kata/559590633066759614000063)
 * [Invalid Input - Error Handling #1] (Ruby/7KYU/InvalidInput.rb) - [CodeWars] (https://www.codewars.com/kata/55e6125ad777b540d9000042)
 * [Divide and Conquer] (Ruby/7KYU/DivideConquar.rb) - [CodeWars] (https://www.codewars.com/kata/57eaec5608fed543d6000021)
+* [Oh dear God! Is it bugged?] (Ruby/7KYU/Time.rb) - [CodeWars] (https://www.codewars.com/kata/580e67ae22e42d797000015e)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
