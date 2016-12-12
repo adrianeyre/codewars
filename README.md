@@ -46,6 +46,9 @@
 * [Remove First and Last Character] (Ruby/8KYU/Removechars.rb) - [CodeWars] (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 * [Double Char] (Ruby/8KYU/DoubleChar.rb) - [CodeWara] (https://www.codewars.com/kata/56b1f01c247c01db92000076)
 * [Sum without highest and lowest number] (Ruby/8KYU/SumHighLow.rb) - [CodeWars] (https://www.codewars.com/kata/576b93db1129fcf2200001e6)
+* [BASIC: Making Six Toast.] (Ruby/8KYU/SixToast.rb) - [CodeWars] (https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)
+* [Keep Hydrated!] (Ruby/8KYU/Hydrated.rb) - [CodeWars] (https://www.codewars.com/kata/582cb0224e56e068d800003c)
+* [Duck Duck Goose] (Ruby/8KYU/DuckDuckGoose.rb) - [CodeWars] (https://www.codewars.com/kata/582e0e592029ea10530009ce)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
