@@ -151,6 +151,7 @@
 * [The Hashtag Generator] (Ruby/5KYU/HashGen.rb) - [CodeWars] (https://www.codewars.com/kata/52449b062fb80683ec000024)
 * [Email Validation] (Ruby/5KYU/Email.rb) - [CodeWars] (https://www.codewars.com/kata/52711e5cc961c233d0000048)
 * [Common Denominators] (Ruby/5KYU/CommDenom.rb) - [CodeWars] (https://www.codewars.com/kata/54d7660d2daf68c619000d95)
+* [Trick the Christmas Calendar!] (Ruby/5KYU/CrimboCal.rb) - [CodeWars] (https://www.codewars.com/kata/52ad07dd9a483f621400025c/0
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
