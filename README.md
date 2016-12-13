@@ -101,6 +101,7 @@
 * [Invalid Input - Error Handling #1] (Ruby/7KYU/InvalidInput.rb) - [CodeWars] (https://www.codewars.com/kata/55e6125ad777b540d9000042)
 * [Divide and Conquer] (Ruby/7KYU/DivideConquar.rb) - [CodeWars] (https://www.codewars.com/kata/57eaec5608fed543d6000021)
 * [Oh dear God! Is it bugged?] (Ruby/7KYU/Time.rb) - [CodeWars] (https://www.codewars.com/kata/580e67ae22e42d797000015e)
+* [Palindromes Here and There] (Ruby/7KYU/Palindrones.rb) - [CodeWars] (https://www.codewars.com/kata/5838a66eaed8c259df000003)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -135,6 +136,7 @@
 * [Duplicate Encoder] (Ruby/6KYU/DuplicateEncoder.rb) - [CodeWars] (https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 * [Format a string of names like 'Bart, Lisa & Maggie'.] (Ruby/6KYU/FormatString.rb) - [CodeWars] (https://www.codewars.com/kata/53368a47e38700bd8300030d)
 * [Counting Duplicates] (Ruby/6KYU/CountDuplicates.rb) - [CodeWars] (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* [Split Without Loss] (Ruby/6KYU/SplitLoss.rb) - [CodeWars] (https://www.codewars.com/kata/581951b3704cccfdf30000d2)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
