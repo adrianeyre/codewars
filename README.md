@@ -102,6 +102,8 @@
 * [Divide and Conquer] (Ruby/7KYU/DivideConquar.rb) - [CodeWars] (https://www.codewars.com/kata/57eaec5608fed543d6000021)
 * [Oh dear God! Is it bugged?] (Ruby/7KYU/Time.rb) - [CodeWars] (https://www.codewars.com/kata/580e67ae22e42d797000015e)
 * [Palindromes Here and There] (Ruby/7KYU/Palindrones.rb) - [CodeWars] (https://www.codewars.com/kata/5838a66eaed8c259df000003)
+* [The dropWhile Function] (Ruby/7KYU/DropWhile.rb) - [CodeWars] (https://www.codewars.com/kata/54f9c37106098647f400080a)
+* [Parts of a list] (Ruby/7KYU/PartsOfList.rb) - [CodeWars] (https://www.codewars.com/kata/56f3a1e899b386da78000732)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -147,7 +149,8 @@
 * [Regex Password Validation] (Ruby/5KYU/RegexPass.rb) - [CodeWars] (https://www.codewars.com/kata/52e1476c8147a7547a000811)
 * [#Hashtag] (Ruby/5KYU/hashtags.rb) - [CodeWars] (https://www.codewars.com/kata/52ae2db783f47875d0000064)
 * [The Hashtag Generator] (Ruby/5KYU/HashGen.rb) - [CodeWars] (https://www.codewars.com/kata/52449b062fb80683ec000024)
-* [Email Validation] (Ruby/5KYU/Email.rb) - [CodeWara] (https://www.codewars.com/kata/52711e5cc961c233d0000048)
+* [Email Validation] (Ruby/5KYU/Email.rb) - [CodeWars] (https://www.codewars.com/kata/52711e5cc961c233d0000048)
+* [Common Denominators] (Ruby/5KYU/CommDenom.rb) - [CodeWars] (https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
