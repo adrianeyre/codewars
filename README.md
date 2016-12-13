@@ -62,6 +62,7 @@
 * [Convert a Number to a String!] (Ruby/8KYU/NumtoString.rb) - [CodeWars] (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
 * [Counting sheep...] (Ruby/8KYU/Sheep.rb) - [CodeWars] (https://www.codewars.com/kata/54edbc7200b811e956000556)
 * [DNA to RNA Conversion] (Ruby/8KYU/DNA.rb) - [CodeWars] (https://www.codewars.com/kata/5556282156230d0e5e000089)
+* [Find n'th Digit of a Number] (Ruby/8KYU/FindDigit.rb) - [CodeWars] (https://www.codewars.com/kata/577b9960df78c19bca00007e)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -139,6 +140,7 @@
 * [Format a string of names like 'Bart, Lisa & Maggie'.] (Ruby/6KYU/FormatString.rb) - [CodeWars] (https://www.codewars.com/kata/53368a47e38700bd8300030d)
 * [Counting Duplicates] (Ruby/6KYU/CountDuplicates.rb) - [CodeWars] (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 * [Split Without Loss] (Ruby/6KYU/SplitLoss.rb) - [CodeWars] (https://www.codewars.com/kata/581951b3704cccfdf30000d2)
+* [Array.diff] (Ruby/6KYU/ArrayDiff.rb) - [CodeWara] (https://www.codewars.com/kata/523f5d21c841566fde000009)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
