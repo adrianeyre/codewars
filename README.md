@@ -105,6 +105,10 @@
 * [Palindromes Here and There] (Ruby/7KYU/Palindrones.rb) - [CodeWars] (https://www.codewars.com/kata/5838a66eaed8c259df000003)
 * [The dropWhile Function] (Ruby/7KYU/DropWhile.rb) - [CodeWars] (https://www.codewars.com/kata/54f9c37106098647f400080a)
 * [Parts of a list] (Ruby/7KYU/PartsOfList.rb) - [CodeWars] (https://www.codewars.com/kata/56f3a1e899b386da78000732)
+* [Exes and Ohs] (Ruby/7KYU/XsandOs.rb) - [CodeWars] (https://www.codewars.com/kata/55908aad6620c066bc00002a)
+* [Sum of two lowest positive integers] (Ruby/7KYU/SimLowestTwo.rb) - [CodeWars] (https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+* [String to integer conversion] (Ruby/7KYU/StrtoInt.rb) - [CodeWars] (https://www.codewars.com/kata/54fdadc8762e2e51e400032c)
+* [Average Scores] (Ruby/7KYU/AverageScores.rb) - [CodeWars] (https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
