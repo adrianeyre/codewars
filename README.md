@@ -141,6 +141,15 @@
 * [Counting Duplicates] (Ruby/6KYU/CountDuplicates.rb) - [CodeWars] (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 * [Split Without Loss] (Ruby/6KYU/SplitLoss.rb) - [CodeWars] (https://www.codewars.com/kata/581951b3704cccfdf30000d2)
 * [Array.diff] (Ruby/6KYU/ArrayDiff.rb) - [CodeWara] (https://www.codewars.com/kata/523f5d21c841566fde000009)
+* [Linux history and `!` command. Series#1 The `!!` command] (Ruby/6KYU/Linux1.rb) - [CodeWara] (https://www.codewars.com/kata/58143221f9588e340e00009f)
+* [Linux history and `!` command. Series#2 The `!n` command] (Ruby/6KYU//Linux2.rb) - [CodeWara] (https://www.codewars.com/kata/5814bf3f3db1ffc0180000d3)
+* [Linux history and `!` command. Series#3 The `!-n` command] (Ruby/6KYU//Linux3.rb) - [CodeWara] (https://www.codewars.com/kata/5815fd7441e062463d0000f8)
+* [Linux history and `!` command. Series#4 The `!string` command] (Ruby/6KYU//Linux4.rb) - [CodeWara] (https://www.codewars.com/kata/5818236ae7f457017b00022b)
+* [Linux history and `!` command. Series#5 The `!?string` command] (Ruby/6KYU//Linux5.rb) - [CodeWara] (https://www.codewars.com/kata/581b29b549b2c0daeb001454)
+* [Multiples of 3 and 5] (Ruby/6KYU/Multiples3and5.rb) - [CodeWara] (https://www.codewars.com/kata/514b92a657cdc65150000006)
+* [Who likes it?] (Ruby/6KYU/WhoLikesIt.rb) - [CodeWara] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+* [Dubstep] (Ruby/6KYU/Dubstep.rb) - [CodeWara] (https://www.codewars.com/kata/551dc350bf4e526099000ae5)
+* [Bit Counting] (Ruby/6KYU/BitCounting.rb) - [CodeWara] (https://www.codewars.com/kata/526571aae218b8ee490006f4)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
