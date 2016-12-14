@@ -63,6 +63,9 @@
 * [Counting sheep...] (Ruby/8KYU/Sheep.rb) - [CodeWars] (https://www.codewars.com/kata/54edbc7200b811e956000556)
 * [DNA to RNA Conversion] (Ruby/8KYU/DNA.rb) - [CodeWars] (https://www.codewars.com/kata/5556282156230d0e5e000089)
 * [Find n'th Digit of a Number] (Ruby/8KYU/FindDigit.rb) - [CodeWars] (https://www.codewars.com/kata/577b9960df78c19bca00007e)
+* [Get number from string] (Ruby/8KYU/GetNum.rb) - [CodeWars] (https://www.codewars.com/kata/57a37f3cbb99449513000cd8)
+* [Convert a String to a Number!] (Ruby/8KYU/StringNumber.rb) - [CodeWars] (https://www.codewars.com/kata/544675c6f971f7399a000e79)
+* [Opposites Attract] (Ruby/8KYU/OpposeiteAttract.rb) - [CodeWars] (https://www.codewars.com/kata/555086d53eac039a2a000083)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
