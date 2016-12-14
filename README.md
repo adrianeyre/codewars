@@ -110,6 +110,7 @@
 * [String to integer conversion] (Ruby/7KYU/StrtoInt.rb) - [CodeWars] (https://www.codewars.com/kata/54fdadc8762e2e51e400032c)
 * [Average Scores] (Ruby/7KYU/AverageScores.rb) - [CodeWars] (https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
 * [Fizz Buzz Cuckoo Clock] (Ruby/7KYU/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6)
+* [Help Bob count letters and digits.] (Ruby/7KYU/CountLetandDig.rb) - [CodeWars] (https://www.codewars.com/kata/5738f5ea9545204cec000155)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
