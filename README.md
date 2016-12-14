@@ -109,6 +109,7 @@
 * [Sum of two lowest positive integers] (Ruby/7KYU/SimLowestTwo.rb) - [CodeWars] (https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 * [String to integer conversion] (Ruby/7KYU/StrtoInt.rb) - [CodeWars] (https://www.codewars.com/kata/54fdadc8762e2e51e400032c)
 * [Average Scores] (Ruby/7KYU/AverageScores.rb) - [CodeWars] (https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
+* [Fizz Buzz Cuckoo Clock] (Ruby/7KYU/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -154,6 +155,7 @@
 * [Who likes it?] (Ruby/6KYU/WhoLikesIt.rb) - [CodeWara] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * [Dubstep] (Ruby/6KYU/Dubstep.rb) - [CodeWara] (https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 * [Bit Counting] (Ruby/6KYU/BitCounting.rb) - [CodeWara] (https://www.codewars.com/kata/526571aae218b8ee490006f4)
+* [File Path Operations] (Ruby/6KYU/FileMaster.rb) - [CodeWars] (https://www.codewars.com/kata/5844e0890d3bedc5c5000e54)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -173,8 +175,6 @@
 * [Most frequently used words in a text] (Ruby/4KYU/FreqWord.rb) - [CodeWars] (https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 
 ### <a name="BETA">BETA</a>
-* [Fizz Buzz Cuckoo Clock] (Ruby/beta/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6)
-* [File Path Operations] (Ruby/beta/FileMaster.rb) - [CodeWars] (https://www.codewars.com/kata/5844e0890d3bedc5c5000e54)
 * [Which string is worth more?] (Ruby/beta/HighValue.rb) - [CodeWars] (https://www.codewars.com/kata/5840586b5225616069000001)
 * [Compress string to return letter followed by numbers of times it occurs in a string] (Ruby/beta/Compress.rb) - [CodeWars] (https://www.codewars.com/kata/5830721ffd25e9551a000118)
 * [Count letters in string] (Ruby/beta/CountLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
