@@ -166,6 +166,10 @@
 * [Find the divisors!] (Ruby/6KYU/FindDivisors.rb) - [CodeWars] (https://www.codewars.com/kata/544aed4c4a30184e960010f4)
 * [Unique In Order] (Ruby/6KYU/UniqueOrder.rb) - [CodeWars] (https://www.codewars.com/kata/54e6533c92449cc251001667)
 * [Find The Parity Outlier] (Ruby/6KYU/FindOutlier.rb) - [CodeWars] (https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+* [IQ Test] (Ruby/6KYU/IQTest.rb) - [CodeWars] (https://www.codewars.com/kata/552c028c030765286c00007d)
+* [Title Case] (Ruby/6KYU/TitleCase.rb) - [CodeWars] (https://www.codewars.com/kata/5202ef17a402dd033c000009)
+* [WeIrD StRiNg CaSe] (Ruby/6KYU/StringCase.rb) - [CodeWars] (https://www.codewars.com/kata/52b757663a95b11b3d00062d)
+* [Don't rely on luck.] (Ruby/6KYU/Luck.rb) - [CodeWars] (https://www.codewars.com/kata/5268af3872b786f006000228)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
