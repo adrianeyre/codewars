@@ -170,6 +170,8 @@
 * [Title Case] (Ruby/6KYU/TitleCase.rb) - [CodeWars] (https://www.codewars.com/kata/5202ef17a402dd033c000009)
 * [WeIrD StRiNg CaSe] (Ruby/6KYU/StringCase.rb) - [CodeWars] (https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 * [Don't rely on luck.] (Ruby/6KYU/Luck.rb) - [CodeWars] (https://www.codewars.com/kata/5268af3872b786f006000228)
+* [Valid Phone Number] (Ruby/6KYU/ValidPhone.rb) - [CodeWars] (https://www.codewars.com/kata/525f47c79f2f25a4db000025)
+* [Delete occurrences of an element if it occurs more than n times] (Ruby/6KYU/DeleteOccurance.rb) - [CodeWars] (https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
