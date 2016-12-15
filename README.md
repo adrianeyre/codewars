@@ -66,6 +66,7 @@
 * [Get number from string] (Ruby/8KYU/GetNum.rb) - [CodeWars] (https://www.codewars.com/kata/57a37f3cbb99449513000cd8)
 * [Convert a String to a Number!] (Ruby/8KYU/StringNumber.rb) - [CodeWars] (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 * [Opposites Attract] (Ruby/8KYU/OpposeiteAttract.rb) - [CodeWars] (https://www.codewars.com/kata/555086d53eac039a2a000083)
+* [Are You Playing Banjo?] (Ruby/8KYU/Banjo.rb) - [CodeWars] (https://www.codewars.com/kata/53af2b8861023f1d88000832)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -160,6 +161,11 @@
 * [Dubstep] (Ruby/6KYU/Dubstep.rb) - [CodeWara] (https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 * [Bit Counting] (Ruby/6KYU/BitCounting.rb) - [CodeWara] (https://www.codewars.com/kata/526571aae218b8ee490006f4)
 * [File Path Operations] (Ruby/6KYU/FileMaster.rb) - [CodeWars] (https://www.codewars.com/kata/5844e0890d3bedc5c5000e54)
+* [Regexp Basics - is it IPv4 address?] (Ruby/6KYU/IP4.rb) - [CodeWars] (https://www.codewars.com/kata/567fe8b50c201947bc000056)
+* [Create Phone Number] (Ruby/6KYU/PhoneNumber.rb) - [CodeWars] (https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+* [Find the divisors!] (Ruby/6KYU/FindDivisors.rb) - [CodeWars] (https://www.codewars.com/kata/544aed4c4a30184e960010f4)
+* [Unique In Order] (Ruby/6KYU/UniqueOrder.rb) - [CodeWars] (https://www.codewars.com/kata/54e6533c92449cc251001667)
+* [Find The Parity Outlier] (Ruby/6KYU/FindOutlier.rb) - [CodeWars] (https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
