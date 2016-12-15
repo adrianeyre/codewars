@@ -172,6 +172,9 @@
 * [Don't rely on luck.] (Ruby/6KYU/Luck.rb) - [CodeWars] (https://www.codewars.com/kata/5268af3872b786f006000228)
 * [Valid Phone Number] (Ruby/6KYU/ValidPhone.rb) - [CodeWars] (https://www.codewars.com/kata/525f47c79f2f25a4db000025)
 * [Delete occurrences of an element if it occurs more than n times] (Ruby/6KYU/DeleteOccurance.rb) - [CodeWars] (https://www.codewars.com/kata/554ca54ffa7d91b236000023)
+* [Split Strings] (Ruby/6KYU/SplitString.rb) - [CodeWars] (https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+* [Throwing Darts] (Ruby/6KYU/Darts.rb) - [CodeWars] (https://www.codewars.com/kata/525dfedb5b62f6954d000006)
+* [Sort Arrays (Ignoring Case)] (Ruby/6KYU/SortArrays.rb) - [CodeWars] (https://www.codewars.com/kata/51f41fe7e8f176e70d0002b9)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
