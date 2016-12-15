@@ -175,6 +175,11 @@
 * [Split Strings] (Ruby/6KYU/SplitString.rb) - [CodeWars] (https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 * [Throwing Darts] (Ruby/6KYU/Darts.rb) - [CodeWars] (https://www.codewars.com/kata/525dfedb5b62f6954d000006)
 * [Sort Arrays (Ignoring Case)] (Ruby/6KYU/SortArrays.rb) - [CodeWars] (https://www.codewars.com/kata/51f41fe7e8f176e70d0002b9)
+* [Grouped by commas] (Ruby/6KYU/GroupCommas.rb) - [CodeWars] (https://www.codewars.com/kata/5274e122fc75c0943d000148)
+* [Palindrome for your Dome] (Ruby/6KYU/PalinDome.rb) - [CodeWars] (https://www.codewars.com/kata/53046ceefe87e4905e00072a)
+* [Reversed Words] (Ruby/6KYU/ReverseWords.rb) - [CodeWars] (https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+* [Simple Sentences] (Ruby/6KYU/SimpleSentence.rb) - [CodeWars] (https://www.codewars.com/kata/5297bf69649be865e6000922)
+* [Does array x contain all values within array y?] (Ruby/6KYU/ArrayinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5143cc9694a24abcd2000001)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
