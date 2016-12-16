@@ -200,9 +200,16 @@
 * [Extract the domain name from a URL] (Ruby/5KYU/DomainName.rb) - [CodeWars] (https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Scramblies] (Ruby/5KYU/Scablies.rb) - [CodeWars] (https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
 * [Break camelCase] (Ruby/5KYU/BreakCamel.rb) - [CodeWars] (https://www.codewars.com/kata/5208f99aee097e6552000148)
-* [Two Joggers] (Ruby/5KYU/TwoJoggers.rv) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
+* [Two Joggers] (Ruby/5KYU/TwoJoggers.rb) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 * [Convert PascalCase string into snake_case] (Ruby/5KYU/SnakeCase.rb) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 * [Greed is Good] (Ruby/5KYU/GreedGood.rb) - [CodeWars] (https://www.codewars.com/kata/5270d0d18625160ada0000e4)
+* [ROT13] (Ruby/5KYU/ROT13.rb) - [CodeWars] (https://www.codewars.com/kata/52223df9e8f98c7aa7000062)
+* [Least Common Multiple] (Ruby/5KYU/LCM.rb) - [CodeWars] (https://www.codewars.com/kata/5259acb16021e9d8a60010af)
+* [Count IP Addresses] (Ruby/5KYU/CountIP.rb) - [CodeWars] (https://www.codewars.com/kata/526989a41034285187000de4)
+* [ASCII hex converter] (Ruby/5KYU/ASCIIHex.rb) - [CodeWars] (https://www.codewars.com/kata/52fea6fd158f0576b8000089)
+* [Luck check] (Ruby/5KYU/LuckCheck.rb) - [CodeWars] (https://www.codewars.com/kata/5314b3c6bb244a48ab00076c)
+* [Josephus Permutation] (Ruby/5KYU/JoeNum.rb) - [CodeWars] (https://www.codewars.com/kata/5550d638a99ddb113e0000a2)
+* [Delta Bits] (Ruby/5KYU/DeltaBits.rb) - [CodeWars] (https://www.codewars.com/kata/538948d4daea7dc4d200023f)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
