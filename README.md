@@ -180,6 +180,7 @@
 * [Reversed Words] (Ruby/6KYU/ReverseWords.rb) - [CodeWars] (https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 * [Simple Sentences] (Ruby/6KYU/SimpleSentence.rb) - [CodeWars] (https://www.codewars.com/kata/5297bf69649be865e6000922)
 * [Does array x contain all values within array y?] (Ruby/6KYU/ArrayinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5143cc9694a24abcd2000001)
+* [Tortoise racing] (Ruby/6KYU/Tortoise.rb) - [CodeWars] (https://www.codewars.com/kata/55e2adece53b4cdcb900006c)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
