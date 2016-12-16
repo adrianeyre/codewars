@@ -210,6 +210,9 @@
 * [Luck check] (Ruby/5KYU/LuckCheck.rb) - [CodeWars] (https://www.codewars.com/kata/5314b3c6bb244a48ab00076c)
 * [Josephus Permutation] (Ruby/5KYU/JoeNum.rb) - [CodeWars] (https://www.codewars.com/kata/5550d638a99ddb113e0000a2)
 * [Delta Bits] (Ruby/5KYU/DeltaBits.rb) - [CodeWars] (https://www.codewars.com/kata/538948d4daea7dc4d200023f)
+* [Sort arrays - 3] (Ruby/5KYU/SortArray3.rb) - [CodeWars] (https://www.codewars.com/kata/51f42b1de8f176db5a0002ae)
+* [Josephus Survivor] (Ruby/5KYU/JoeSurvivor.rb) - [CodeWars] (https://www.codewars.com/kata/555624b601231dc7a400017a)
+* [Tongues] (Ruby/5KYU/Tongues.rb) - [CodeWars] (https://www.codewars.com/kata/52763db7cffbc6fe8c0007f8)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
