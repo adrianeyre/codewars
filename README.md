@@ -195,6 +195,8 @@
 * [Trick the Christmas Calendar!] (Ruby/5KYU/CrimboCal.rb) - [CodeWars] (https://www.codewars.com/kata/52ad07dd9a483f621400025c)
 * [Simple Pig Latin] (Ruby/5KYU/PigLatin.rb) - [CodeWars] (https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 * [Calculating with Functions] (Ruby/5KYU/CalcFunc.rb) - [CodeWars] (https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+* [Convert string to camel case] (Ruby/5KYU/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [RGB To Hex Conversion] (Ruby/5KYU/RGBtoHEX.rb) - [CodeWars] (https://www.codewars.com/kata/513e08acc600c94f01000001)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
