@@ -197,6 +197,12 @@
 * [Calculating with Functions] (Ruby/5KYU/CalcFunc.rb) - [CodeWars] (https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Convert string to camel case] (Ruby/5KYU/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [RGB To Hex Conversion] (Ruby/5KYU/RGBtoHEX.rb) - [CodeWars] (https://www.codewars.com/kata/513e08acc600c94f01000001)
+* [Extract the domain name from a URL] (Ruby/5KYU/DomainName.rb) - [CodeWars] (https://www.codewars.com/kata/514a024011ea4fb54200004b)
+* [Scramblies] (Ruby/5KYU/Scablies.rb) - [CodeWars] (https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+* [Break camelCase] (Ruby/5KYU/BreakCamel.rb) - [CodeWars] (https://www.codewars.com/kata/5208f99aee097e6552000148)
+* [Two Joggers] (Ruby/5KYU/TwoJoggers.rv) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
+* [Convert PascalCase string into snake_case] (Ruby/5KYU/SnakeCase.rb) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
+* [Greed is Good] (Ruby/5KYU/GreedGood.rb) - [CodeWars] (https://www.codewars.com/kata/5270d0d18625160ada0000e4)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
