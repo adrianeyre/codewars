@@ -218,6 +218,11 @@
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 * [Most frequently used words in a text] (Ruby/4KYU/FreqWord.rb) - [CodeWars] (https://www.codewars.com/kata/51e056fe544cf36c410000fb)
+* [Text align justify] (Ruby/4KYU/TextAlign.rb) - [CodeWars] (https://www.codewars.com/kata/537e18b6147aa838f600001b)
+* [Strip Comments] (Ruby/4KYU/StripComments.rb) - [CodeWars] (https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+
+### <a name="3KYU">3 KYU</a>
+* [Hard Time Bomb] (Ruby/3KYU/HardBomb.rb) - [CodeWars] (https://www.codewars.com/kata/52532cc8e9ea83b89b000008)
 
 ### <a name="BETA">BETA</a>
 * [Which string is worth more?] (Ruby/beta/HighValue.rb) - [CodeWars] (https://www.codewars.com/kata/5840586b5225616069000001)
