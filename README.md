@@ -67,6 +67,7 @@
 * [Convert a String to a Number!] (Ruby/8KYU/StringNumber.rb) - [CodeWars] (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 * [Opposites Attract] (Ruby/8KYU/OpposeiteAttract.rb) - [CodeWars] (https://www.codewars.com/kata/555086d53eac039a2a000083)
 * [Are You Playing Banjo?] (Ruby/8KYU/Banjo.rb) - [CodeWars] (https://www.codewars.com/kata/53af2b8861023f1d88000832)
+* [Square(n) Sum] (Ruby/8KYU/SquareSum.rb) - [CodeWars] (https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -115,6 +116,14 @@
 * [Average Scores] (Ruby/7KYU/AverageScores.rb) - [CodeWars] (https://www.codewars.com/kata/57b68bc7b69bfc8209000307)
 * [Fizz Buzz Cuckoo Clock] (Ruby/7KYU/FizzBuzzClock.rb) - [CodeWars] (https://www.codewars.com/kata/58485a43d750d23bad0000e6)
 * [Help Bob count letters and digits.] (Ruby/7KYU/CountLetandDig.rb) - [CodeWars] (https://www.codewars.com/kata/5738f5ea9545204cec000155)
+* [Disemvowel Trolls] (Ruby/7KYU/Trolls.rb) - [CodeWars] (https://www.codewars.com/kata/52fba66badcd10859f00097e)
+* [You're a square!] (Ruby/7KYU/Square.rb) - [CodeWars] (https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+* [Square Every Digit] (Ruby/7KYU/SquareDigits.rb) - [CodeWars] (https://www.codewars.com/kata/546e2562b03326a88e000020)
+* [Triangular Treasure] (Ruby/7KYU/Triangle.rb) - [CodeWars] (https://www.codewars.com/kata/525e5a1cb735154b320002c8)
+* [Complementary DNA] (Ruby/7KYU/DNA.rb) - [CodeWars] (https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+* [List Filtering] (Ruby/7KYU/ListFiltering.rb) - [CodeWars] (https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+* [No oddities here] (Ruby/7KYU/Oddities.rb) - [CodeWars] (https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)
+* [Highest and Lowest] (Ruby/7KYU/HighandLow.rb) - [CodeWars] (https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
