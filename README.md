@@ -223,6 +223,7 @@
 
 ### <a name="3KYU">3 KYU</a>
 * [Hard Time Bomb] (Ruby/3KYU/HardBomb.rb) - [CodeWars] (https://www.codewars.com/kata/52532cc8e9ea83b89b000008)
+* [Calculator] (Ruby/3KYU/Calculator.rb) - [CodeWars] (https://www.codewars.com/kata/5235c913397cbf2508000048)
 
 ### <a name="BETA">BETA</a>
 * [Which string is worth more?] (Ruby/beta/HighValue.rb) - [CodeWars] (https://www.codewars.com/kata/5840586b5225616069000001)
