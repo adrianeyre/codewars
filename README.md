@@ -123,6 +123,7 @@
 * [Highest and Lowest] (Ruby/7KYU/HighandLow.rb) - [CodeWars] (https://www.codewars.com/kata/554b4ac871d6813a03000035)
 * [Get the Middle Character] (Ruby/7KYU/MiddleChar.rb) - [CodeWars] (https://www.codewars.com/kata/56747fd5cb988479af000028)
 * [Credit Card Mask] (Ruby/7KYU/CardMask.rb) - [CodeWars] (https://www.codewars.com/kata/5412509bd436bd33920011bc)
+* [Reversed Strings] (Ruby/7KYU/ReverseString.rb) - [CodeWars] (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -223,6 +224,7 @@
 * [Sort arrays - 3] (Ruby/5KYU/SortArray3.rb) - [CodeWars] (https://www.codewars.com/kata/51f42b1de8f176db5a0002ae)
 * [Josephus Survivor] (Ruby/5KYU/JoeSurvivor.rb) - [CodeWars] (https://www.codewars.com/kata/555624b601231dc7a400017a)
 * [Tongues] (Ruby/5KYU/Tongues.rb) - [CodeWars] (https://www.codewars.com/kata/52763db7cffbc6fe8c0007f8)
+* [Sum of Pairs] (Ruby/5KYU/SumofPairs.rb) - [CodeWars] (https://www.codewars.com/kata/54d81488b981293527000c8f)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
