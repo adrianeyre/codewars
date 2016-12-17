@@ -124,6 +124,8 @@
 * [List Filtering] (Ruby/7KYU/ListFiltering.rb) - [CodeWars] (https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 * [No oddities here] (Ruby/7KYU/Oddities.rb) - [CodeWars] (https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce)
 * [Highest and Lowest] (Ruby/7KYU/HighandLow.rb) - [CodeWars] (https://www.codewars.com/kata/554b4ac871d6813a03000035)
+* [Get the Middle Character] (Ruby/7KYU/MiddleChar.rb) - [CodeWars] (https://www.codewars.com/kata/56747fd5cb988479af000028)
+* [Credit Card Mask] (Ruby/7KYU/CardMask.rb) - [CodeWars] (https://www.codewars.com/kata/5412509bd436bd33920011bc)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -190,6 +192,7 @@
 * [Simple Sentences] (Ruby/6KYU/SimpleSentence.rb) - [CodeWars] (https://www.codewars.com/kata/5297bf69649be865e6000922)
 * [Does array x contain all values within array y?] (Ruby/6KYU/ArrayinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5143cc9694a24abcd2000001)
 * [Tortoise racing] (Ruby/6KYU/Tortoise.rb) - [CodeWars] (https://www.codewars.com/kata/55e2adece53b4cdcb900006c)
+* [Sum of Digits / Digital Root] (Ruby/6KYU/SumDigit.rb) - [CodeWars] (https://www.codewars.com/kata/541c8630095125aba6000c00)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
