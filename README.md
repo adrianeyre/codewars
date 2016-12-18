@@ -67,7 +67,10 @@
 * [Square(n) Sum] (Ruby/8KYU/SquareSum.rb) - [CodeWars] (https://www.codewars.com/kata/515e271a311df0350d00000f)
 * [Pre-FizzBuzz Workout #1] (Ruby/8KYU/PreFizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/569e09850a8e371ab200000b)
 * [Removing Elements] (Ruby/8KYU/RemoveElements.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
-
+* [Volume of a Cuboid] (Ruby/8KYU/Volume.rb) - [CodeWars] (https://www.codewars.com/kata/58261acb22be6e2ed800003a)
+* [Grasshopper - Debug sayHello] (Ruby/8KYU/DebugHello.rb) - [CodeWars] (https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
+* [Plural] (Ruby/8KYU/Plural.rb) - [CodeWars] (https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
+* [Formatting decimal places #0] (Ruby/8KYU/DecimalPlace.rb) - [CodeWars] (https://www.codewars.com/kata/5641a03210e973055a00000d)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -130,6 +133,7 @@
 * [Categorize New Member] (Ruby/7KYU/NewMember.rb) - [CodeWars] (https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 * [Summing a number's digits] (Ruby/7KYU/SumDigits.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
 * [Isograms] (Ruby/7KYU/Isograms.rb) - [CodeWars] (https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+* [Beginner Series #3 Sum of Numbers] (Ruby/7KYU/SumNumbers.rb) - [CodeWars] (https://www.codewars.com/kata/55f2b110f61eb01779000053)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -199,6 +203,7 @@
 * [Sum of Digits / Digital Root] (Ruby/6KYU/SumDigit.rb) - [CodeWars] (https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Bouncing Balls] (Ruby/6KYU/BouncingBall.rb) - [CodeWars] (https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
 * [longest_palindrome] (Ruby/6KYU/LongestPalindrome.rb) - [CodeWars] (https://www.codewars.com/kata/54bb6f887e5a80180900046b)
+* [IPv4 to int32] (Ruby/6KYU/IP4toInt32.rb) - [CodeWars] (https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
