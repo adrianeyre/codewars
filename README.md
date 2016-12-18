@@ -71,6 +71,8 @@
 * [Grasshopper - Debug sayHello] (Ruby/8KYU/DebugHello.rb) - [CodeWars] (https://www.codewars.com/kata/5625618b1fe21ab49f00001f)
 * [Plural] (Ruby/8KYU/Plural.rb) - [CodeWars] (https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
 * [Formatting decimal places #0] (Ruby/8KYU/DecimalPlace.rb) - [CodeWars] (https://www.codewars.com/kata/5641a03210e973055a00000d)
+* [String Templates - Bug Fixing #5] (Ruby/8KYU/StringBugFix.rb) - [CodeWars] (https://www.codewars.com/kata/55c90cad4b0fe31a7200001f)
+* [Invalid Login - Bug Fixing #11] (Ruby/8KYU/LoginBugFix.rb) - [CodeWars] (https://www.codewars.com/kata/55e4c52ad58df7509c00007e)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
