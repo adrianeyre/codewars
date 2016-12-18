@@ -65,6 +65,8 @@
 * [Opposites Attract] (Ruby/8KYU/OpposeiteAttract.rb) - [CodeWars] (https://www.codewars.com/kata/555086d53eac039a2a000083)
 * [Are You Playing Banjo?] (Ruby/8KYU/Banjo.rb) - [CodeWars] (https://www.codewars.com/kata/53af2b8861023f1d88000832)
 * [Square(n) Sum] (Ruby/8KYU/SquareSum.rb) - [CodeWars] (https://www.codewars.com/kata/515e271a311df0350d00000f)
+* [Pre-FizzBuzz Workout #1] (Ruby/8KYU/PreFizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/569e09850a8e371ab200000b)
+* [Removing Elements] (Ruby/8KYU/RemoveElements.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -124,6 +126,8 @@
 * [Get the Middle Character] (Ruby/7KYU/MiddleChar.rb) - [CodeWars] (https://www.codewars.com/kata/56747fd5cb988479af000028)
 * [Credit Card Mask] (Ruby/7KYU/CardMask.rb) - [CodeWars] (https://www.codewars.com/kata/5412509bd436bd33920011bc)
 * [Reversed Strings] (Ruby/7KYU/ReverseString.rb) - [CodeWars] (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+* [Categorize New Member] (Ruby/7KYU/NewMember.rb) - [CodeWars] (https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+* [Summing a number's digits] (Ruby/7KYU/SumDigits.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -191,6 +195,8 @@
 * [Does array x contain all values within array y?] (Ruby/6KYU/ArrayinArray.rb) - [CodeWars] (https://www.codewars.com/kata/5143cc9694a24abcd2000001)
 * [Tortoise racing] (Ruby/6KYU/Tortoise.rb) - [CodeWars] (https://www.codewars.com/kata/55e2adece53b4cdcb900006c)
 * [Sum of Digits / Digital Root] (Ruby/6KYU/SumDigit.rb) - [CodeWars] (https://www.codewars.com/kata/541c8630095125aba6000c00)
+* [Bouncing Balls] (Ruby/6KYU/BouncingBall.rb) - [CodeWars] (https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+* [longest_palindrome] (Ruby/6KYU/LongestPalindrome.rb) - [CodeWars] (https://www.codewars.com/kata/54bb6f887e5a80180900046b)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
