@@ -68,6 +68,7 @@
 * [Pre-FizzBuzz Workout #1] (Ruby/8KYU/PreFizzBuzz.rb) - [CodeWars] (https://www.codewars.com/kata/569e09850a8e371ab200000b)
 * [Removing Elements] (Ruby/8KYU/RemoveElements.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
 
+
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
 * [Help Suzuki rake his garden!] (Ruby/7KYU/SuzukiGarden.rb) - [CodeWars] (https://www.codewars.com/kata/571c1e847beb0a8f8900153d)
@@ -128,6 +129,7 @@
 * [Reversed Strings] (Ruby/7KYU/ReverseString.rb) - [CodeWars] (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 * [Categorize New Member] (Ruby/7KYU/NewMember.rb) - [CodeWars] (https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 * [Summing a number's digits] (Ruby/7KYU/SumDigits.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
+* [Isograms] (Ruby/7KYU/Isograms.rb) - [CodeWars] (https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
