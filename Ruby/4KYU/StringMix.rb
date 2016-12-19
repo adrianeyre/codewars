@@ -1,3 +1,4 @@
+=begin
 def mix(s1, s2)
   s3 = Hash.new {|data,key| data[key] = 0}
   s1_hash = Hash.new {|data,key| data[key] = 0}
@@ -33,9 +34,63 @@ def mix(s1, s2)
   end
   result.join("/")
 end
+=end
+def mix(s1, s2)
+ s1_hash = Hash.new {|v,k| v[k] = 0}
+ s2_hash = Hash.new {|v,k| v[k] = 0}
 
+ s1.split("").each {|x| s1_hash[x] += 1 if x =~ /[a-z]/}
+ s2.split("").each {|x| s2_hash[x] += 1 if x =~ /[a-z]/}
 
-s1 = "A aaaa bb c"
+ #p s1_hash
+ #p s2_hash
+
+ result = []
+ high = 0
+ ("a".."z").each do |x|
+   result << [1, x, s1_hash[x]] if s1_hash[x] > s2_hash[x] && s1_hash[x] > 1
+   result << [2, x, s2_hash[x]] if s2_hash[x] > s1_hash[x] && s2_hash[x] > 1
+   result << [0, x, s1_hash[x]] if s1_hash[x] == s2_hash[x] && s1_hash[x] > 1
+   high = s1_hash[x] if s1_hash[x] > high
+   high = s2_hash[x] if s2_hash[x] > high
+ end
+
+ output = []
+ p result
+ puts
+ #p result = result.sort_by! {|a,b,c| b}.reverse
+ #result.sort_by {|a,b,c| c}.reverse.each do |x|
+ (high).downto(2) do |n|
+   temp = []
+   result.each do |x|
+     if x[2] == n && x[0] != 0
+       temp << [x[0],x[1],x[2]]
+     end
+   end
+   temp = temp.sort_by! {|a,b,c| b}
+   temp.each do |x|
+     #puts "1=#{x[0]} 2=#{x[1]} 3=#{x[2]}"
+     x[0] == 0 ? m = "=" : m = x[0].to_s
+     output << "#{m}:#{x[1]*x[2]}"
+   end
+   temp = []
+   result.each do |x|
+     if x[2] == n && x[0] == 0
+       temp << [x[0],x[1],x[2]]
+     end
+   end
+   temp = temp.sort_by! {|a,b,c| b}
+   temp.each do |x|
+     #puts "1=#{x[0]} 2=#{x[1]} 3=#{x[2]}"
+     x[0] == 0 ? m = "=" : m = x[0].to_s
+     output << "#{m}:#{x[1]*x[2]}"
+   end
+ end
+
+ output.join("/")
+end
+
+s1 = "A fffff aaaa bb cc"
 s2 = "& aaa bbb c d"
 
-puts mix("Are they here", "yes, they are here")
+p mix("Are they here", "yes, they are here")
