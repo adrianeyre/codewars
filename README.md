@@ -140,6 +140,7 @@
 * [Beginner Series #3 Sum of Numbers] (Ruby/7KYU/SumNumbers.rb) - [CodeWars] (https://www.codewars.com/kata/55f2b110f61eb01779000053)
 * [Count the Characters] (Ruby/7KYU/CountChars.rb) - [CodeWars] (https://www.codewars.com/kata/577ad961ae2807182f000c29)
 * [Exclamation marks series #5: Remove all exclamation marks from the end of words] (Ruby/7KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57faf32df815ebd49e000117)
+* [The old switcheroo] (Ruby/7KYU/OldSwitcherroo.rb) - [CodeWara] (https://www.codewars.com/kata/55d410c492e6ed767000004f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
