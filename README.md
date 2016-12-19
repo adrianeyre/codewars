@@ -75,6 +75,8 @@
 * [Invalid Login - Bug Fixing #11] (Ruby/8KYU/LoginBugFix.rb) - [CodeWars] (https://www.codewars.com/kata/55e4c52ad58df7509c00007e)
 * [Powers of 2] (Ruby/8KYU/Powerof2.rb) - [CodeWars] (https://www.codewars.com/kata/57a083a57cb1f31db7000028)
 * [Exclamation marks series #1: Remove a exclamation mark from the end of string] (Ruby/8KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57fae964d80daa229d000126)
+* [Regular Ball Super Ball] (Ruby/8KYU/RegBallSuperBall.rb) - [CodeWars] (https://www.codewars.com/kata/53f0f358b9cb376eca001079)
+* [Training JS #7: if..else and ternary operator] (Ruby/8KYU/IfElse.rb) - [CodeWars] (https://www.codewars.com/kata/57202aefe8d6c514300001fd)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
