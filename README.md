@@ -73,6 +73,8 @@
 * [Formatting decimal places #0] (Ruby/8KYU/DecimalPlace.rb) - [CodeWars] (https://www.codewars.com/kata/5641a03210e973055a00000d)
 * [String Templates - Bug Fixing #5] (Ruby/8KYU/StringBugFix.rb) - [CodeWars] (https://www.codewars.com/kata/55c90cad4b0fe31a7200001f)
 * [Invalid Login - Bug Fixing #11] (Ruby/8KYU/LoginBugFix.rb) - [CodeWars] (https://www.codewars.com/kata/55e4c52ad58df7509c00007e)
+* [Powers of 2] (Ruby/8KYU/Powerof2.rb) - [CodeWars] (https://www.codewars.com/kata/57a083a57cb1f31db7000028)
+* [Exclamation marks series #1: Remove a exclamation mark from the end of string] (Ruby/8KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57fae964d80daa229d000126)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -136,6 +138,8 @@
 * [Summing a number's digits] (Ruby/7KYU/SumDigits.rb) - [CodeWars] (https://www.codewars.com/kata/52f3149496de55aded000410)
 * [Isograms] (Ruby/7KYU/Isograms.rb) - [CodeWars] (https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 * [Beginner Series #3 Sum of Numbers] (Ruby/7KYU/SumNumbers.rb) - [CodeWars] (https://www.codewars.com/kata/55f2b110f61eb01779000053)
+* [Count the Characters] (Ruby/7KYU/CountChars.rb) - [CodeWars] (https://www.codewars.com/kata/577ad961ae2807182f000c29)
+* [Exclamation marks series #5: Remove all exclamation marks from the end of words] (Ruby/7KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57faf32df815ebd49e000117)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -241,6 +245,7 @@
 * [Josephus Survivor] (Ruby/5KYU/JoeSurvivor.rb) - [CodeWars] (https://www.codewars.com/kata/555624b601231dc7a400017a)
 * [Tongues] (Ruby/5KYU/Tongues.rb) - [CodeWars] (https://www.codewars.com/kata/52763db7cffbc6fe8c0007f8)
 * [Sum of Pairs] (Ruby/5KYU/SumofPairs.rb) - [CodeWars] (https://www.codewars.com/kata/54d81488b981293527000c8f)
+* [Directions Reduction] (Ruby/5KYU/Direction.rb) - [CodeWars] (https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
