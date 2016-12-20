@@ -83,6 +83,7 @@
 * [Incorrect division method] (Ruby/8KYU/Division.rb) - [CodeWars] (https://www.codewars.com/kata/54d1c59aba326343c80000e7)
 * [Crash Override] (Ruby/8KYU/CrashOverride.rb) - [CodeWars] (https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f)
 * [Grasshopper - Terminal Game #1] (Ruby/8KYU/TermianlGame.rb) - [CodeWars] (https://www.codewars.com/kata/55e8aba23d399a59500000ce)
+* [Rock Paper Scissors!] (Ruby/8KYU/RockPaperScissors.rb) - [CodeWars] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -150,6 +151,7 @@
 * [Exclamation marks series #5: Remove all exclamation marks from the end of words] (Ruby/7KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57faf32df815ebd49e000117)
 * [The old switcheroo] (Ruby/7KYU/OldSwitcherroo.rb) - [CodeWara] (https://www.codewars.com/kata/55d410c492e6ed767000004f)
 * [Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product] (Ruby/8KYU/CountMarksQuestion.rb) - [CodeWars] (https://www.codewars.com/kata/57fb142297e0860073000064)
+* [Head, Tail, Init and Last] (Ruby/7KYU/HeadTail.rb) - [CodeWars] (https://www.codewars.com/kata/54592a5052756d5c5d0009c3)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
