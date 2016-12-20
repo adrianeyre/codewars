@@ -77,6 +77,12 @@
 * [Exclamation marks series #1: Remove a exclamation mark from the end of string] (Ruby/8KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57fae964d80daa229d000126)
 * [Regular Ball Super Ball] (Ruby/8KYU/RegBallSuperBall.rb) - [CodeWars] (https://www.codewars.com/kata/53f0f358b9cb376eca001079)
 * [Training JS #7: if..else and ternary operator] (Ruby/8KYU/IfElse.rb) - [CodeWars] (https://www.codewars.com/kata/57202aefe8d6c514300001fd)
+* [Opposite number] (Ruby/8KYU/OppNum.rb) - [CodeWars] (https://www.codewars.com/kata/56dec885c54a926dcd001095)
+* [Array#second] (Ruby/8KYU/ArraySecond.rb) - [CodeWars] (https://www.codewars.com/kata/536c6f2349aa8b16520002e0)
+* [Enumerable Magic #30 - Split that Array!] (Ruby/8KYU/SplitArray.rb) - [CodeWars] (https://www.codewars.com/kata/545b342082e55dc9da000051)
+* [Incorrect division method] (Ruby/8KYU/Division.rb) - [CodeWars] (https://www.codewars.com/kata/54d1c59aba326343c80000e7)
+* [Crash Override] (Ruby/8KYU/CrashOverride.rb) - [CodeWars] (https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f)
+* [Grasshopper - Terminal Game #1] (Ruby/8KYU/TermianlGame.rb) - [CodeWars] (https://www.codewars.com/kata/55e8aba23d399a59500000ce)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -143,6 +149,7 @@
 * [Count the Characters] (Ruby/7KYU/CountChars.rb) - [CodeWars] (https://www.codewars.com/kata/577ad961ae2807182f000c29)
 * [Exclamation marks series #5: Remove all exclamation marks from the end of words] (Ruby/7KYU/RemoveMark.rb) - [CodeWars] (https://www.codewars.com/kata/57faf32df815ebd49e000117)
 * [The old switcheroo] (Ruby/7KYU/OldSwitcherroo.rb) - [CodeWara] (https://www.codewars.com/kata/55d410c492e6ed767000004f)
+* [Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product] (Ruby/8KYU/CountMarksQuestion.rb) - [CodeWars] (https://www.codewars.com/kata/57fb142297e0860073000064)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -255,6 +262,7 @@
 * [Most frequently used words in a text] (Ruby/4KYU/FreqWord.rb) - [CodeWars] (https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 * [Text align justify] (Ruby/4KYU/TextAlign.rb) - [CodeWars] (https://www.codewars.com/kata/537e18b6147aa838f600001b)
 * [Strip Comments] (Ruby/4KYU/StripComments.rb) - [CodeWars] (https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+* [Strings Mix] (Ruby/4KYU/StringMix.rb) - [CodeWars] (https://www.codewars.com/kata/5629db57620258aa9d000014)
 
 ### <a name="3KYU">3 KYU</a>
 * [Hard Time Bomb] (Ruby/3KYU/HardBomb.rb) - [CodeWars] (https://www.codewars.com/kata/52532cc8e9ea83b89b000008)
@@ -267,3 +275,4 @@
 * [Convert Symbol to Array] (Ruby/beta/ConvertSymArray.rb) - [CodeWars] (https://www.codewars.com/kata/580b3efd43a6be90aa000104)
 * [National Bath Safety Month] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/57d14a9d95497e9912000267)
 * [Basic Math Add or Subtract] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
+* [Robot Walk] (Ryby/beta/RobotWalk.rb) - [CodeWars] (https://www.codewars.com/kata/574e0af02be0e2dca00004c6)
