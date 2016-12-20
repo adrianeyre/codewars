@@ -223,6 +223,7 @@
 * [longest_palindrome] (Ruby/6KYU/LongestPalindrome.rb) - [CodeWars] (https://www.codewars.com/kata/54bb6f887e5a80180900046b)
 * [IPv4 to int32] (Ruby/6KYU/IP4toInt32.rb) - [CodeWars] (https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)
 * [Help the bookseller !] (Ruby/6KYU/Bookseller.rb) - [CodeWars] (https://www.codewars.com/kata/54dc6f5a224c26032800005c)
+* [Complete The Pattern #14] (Ruby/6KYU/Pattern.rb) - [CodeWars] (https://www.codewars.com/kata/559379505c859be5a9000034)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
