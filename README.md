@@ -88,6 +88,8 @@
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe] (Ruby/8KYU/AlterCase.rb) - [CodeWars] (https://www.codewars.com/kata/56efc695740d30f963000557)
 * [The 'if' function] (Ruby/8KYU/IfLambda.rb) - [CodeWars] (https://www.codewars.com/kata/54147087d5c2ebe4f1000805)
 * [Sum Mixed Array] (Ruby/8KYU/SumMixArray.rb) - [CodeWars] (https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+* [Vowel remover] (Ruby/8KYU/VowelRemove.rb) - [CodeWars] (https://www.codewars.com/kata/5547929140907378f9000039)
+* [Grasshopper - Summation] (Ruby/8KYU/Summation.rb) - [CodeWars] (https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
