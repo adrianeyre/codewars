@@ -38,10 +38,3 @@ def tone_it_down(string)
   result = result.join(" ").capitalize
   result[-1] == "." ? result : result += "."
 end
-
-# "Grunt the government globalists kills nukes bombs sociopathic rich guys sociopathic rich guys the enemy sociopathic rich guys the truth sociopathic rich guys sociopathic rich guys bombs."
-# "The government globalists kills nukes bombs sociopathic rich guys sociopathic rich guys the enemy sociopathic rich guys the truth sociopathic rich guys sociopathic rich guys bombs."
-
-
-p tone_it_down("grunt the government GLOBALISTS kills nukes BOMBS globalists GLOBALISTS the enemy GLOBALISTS THE TRUTH globalists GRUNT globalists BOMBS!!!!!!!!")
-# 'Keep ramming it into the heart of the globalists, yes those sociopathic rich guys.')
