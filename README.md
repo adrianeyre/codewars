@@ -226,6 +226,7 @@
 * [Complete The Pattern #14] (Ruby/6KYU/Pattern.rb) - [CodeWars] (https://www.codewars.com/kata/559379505c859be5a9000034)
 * [Are they square 2?] (Ruby/6KYU/Square2.rb) - [CodeWars] (https://www.codewars.com/kata/5697a0d35f754d1592000018)
 * [Ease the StockBroker] (Ruby/6KYU/StockBroker.rb) - [CodeWars] (https://www.codewars.com/kata/54de3257f565801d96001200)
+* [Which are in?] (Ruby/6KYU/WhichAreIn.rb) - [CodeWars] (https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -268,6 +269,7 @@
 * [Text align justify] (Ruby/4KYU/TextAlign.rb) - [CodeWars] (https://www.codewars.com/kata/537e18b6147aa838f600001b)
 * [Strip Comments] (Ruby/4KYU/StripComments.rb) - [CodeWars] (https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Strings Mix] (Ruby/4KYU/StringMix.rb) - [CodeWars] (https://www.codewars.com/kata/5629db57620258aa9d000014)
+* [Roman Numerals Encoder] (Ruby/4KYU/RomanNumerals.rb) - [CodeWars] (https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 
 ### <a name="3KYU">3 KYU</a>
 * [Hard Time Bomb] (Ruby/3KYU/HardBomb.rb) - [CodeWars] (https://www.codewars.com/kata/52532cc8e9ea83b89b000008)
