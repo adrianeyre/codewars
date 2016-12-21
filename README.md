@@ -84,6 +84,7 @@
 * [Crash Override] (Ruby/8KYU/CrashOverride.rb) - [CodeWars] (https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f)
 * [Grasshopper - Terminal Game #1] (Ruby/8KYU/TermianlGame.rb) - [CodeWars] (https://www.codewars.com/kata/55e8aba23d399a59500000ce)
 * [Rock Paper Scissors!] (Ruby/8KYU/RockPaperScissors.rb) - [CodeWars] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+* [I love you, a little , a lot, passionately ... not at all] (Ruby/8KYU/Love.rb) - [CodeWars] (https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -152,6 +153,7 @@
 * [The old switcheroo] (Ruby/7KYU/OldSwitcherroo.rb) - [CodeWara] (https://www.codewars.com/kata/55d410c492e6ed767000004f)
 * [Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product] (Ruby/8KYU/CountMarksQuestion.rb) - [CodeWars] (https://www.codewars.com/kata/57fb142297e0860073000064)
 * [Head, Tail, Init and Last] (Ruby/7KYU/HeadTail.rb) - [CodeWars] (https://www.codewars.com/kata/54592a5052756d5c5d0009c3)
+* [Calculate mean and concatenate string] (Ruby/7KYU/MeanString.rb) - [CodeWars] (https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
