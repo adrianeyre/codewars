@@ -85,6 +85,9 @@
 * [Grasshopper - Terminal Game #1] (Ruby/8KYU/TermianlGame.rb) - [CodeWars] (https://www.codewars.com/kata/55e8aba23d399a59500000ce)
 * [Rock Paper Scissors!] (Ruby/8KYU/RockPaperScissors.rb) - [CodeWars] (https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 * [I love you, a little , a lot, passionately ... not at all] (Ruby/8KYU/Love.rb) - [CodeWars] (https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+* [altERnaTIng cAsE <=> ALTerNAtiNG CaSe] (Ruby/8KYU/AlterCase.rb) - [CodeWars] (https://www.codewars.com/kata/56efc695740d30f963000557)
+* [The 'if' function] (Ruby/8KYU/IfLambda.rb) - [CodeWars] (https://www.codewars.com/kata/54147087d5c2ebe4f1000805)
+* [Sum Mixed Array] (Ruby/8KYU/SumMixArray.rb) - [CodeWars] (https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -229,6 +232,8 @@
 * [Are they square 2?] (Ruby/6KYU/Square2.rb) - [CodeWars] (https://www.codewars.com/kata/5697a0d35f754d1592000018)
 * [Ease the StockBroker] (Ruby/6KYU/StockBroker.rb) - [CodeWars] (https://www.codewars.com/kata/54de3257f565801d96001200)
 * [Which are in?] (Ruby/6KYU/WhichAreIn.rb) - [CodeWars] (https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+* [Complete The Pattern #15] (Ruby/6KYU/Pattern2.rb) - [CodeWars] (https://www.codewars.com/kata/558db3ca718883bd17000031)
+* [HELP ALEX JONES! // FUNDAMENTALS PRACTICE (retired)] (Ruby/6KYU/AlexJones.rb) - [CodeWars] ()
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
