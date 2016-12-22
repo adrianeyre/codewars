@@ -90,6 +90,7 @@
 * [Sum Mixed Array] (Ruby/8KYU/SumMixArray.rb) - [CodeWars] (https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 * [Vowel remover] (Ruby/8KYU/VowelRemove.rb) - [CodeWars] (https://www.codewars.com/kata/5547929140907378f9000039)
 * [Grasshopper - Summation] (Ruby/8KYU/Summation.rb) - [CodeWars] (https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+* [Is the string uppercase?] (Ruby/8KYU/StringUpcase.rb) - [CodeWars] (https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -159,6 +160,9 @@
 * [Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product] (Ruby/8KYU/CountMarksQuestion.rb) - [CodeWars] (https://www.codewars.com/kata/57fb142297e0860073000064)
 * [Head, Tail, Init and Last] (Ruby/7KYU/HeadTail.rb) - [CodeWars] (https://www.codewars.com/kata/54592a5052756d5c5d0009c3)
 * [Calculate mean and concatenate string] (Ruby/7KYU/MeanString.rb) - [CodeWars] (https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)
+* [Thinkful - String Drills: Repeater level 2] (Ruby/7KYU/StringDrill.rb) - [CodeWars] (https://www.codewars.com/kata/585a1f0945376c112a00019a)
+* [Exclamation marks series #3: Remove all exclamation marks from sentence except at the end] (Ruby/7KYU/Marks.rb) - [CodeWars] (https://www.codewars.com/kata/57faefc42b531482d5000123)
+* [Compare Strings by Sum of Chars] (Ruby/7KYU/StringSum.rb) - [CodeWars] (https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -238,6 +242,7 @@
 * [HELP ALEX JONES! // FUNDAMENTALS PRACTICE (retired)] (Ruby/6KYU/AlexJones.rb) - [CodeWars] ()
 * [The Shell Game] (Ruby/6KYU/Shell.rb) - [CodeWars] (https://www.codewars.com/kata/546a3fea8a3502302a000cd2)
 * [Crazy programmer 01: find SuperMan] (Ruby/6KYU/SuperMan.rb) - [CodeWars] (https://www.codewars.com/kata/56d3c1eb3323a88d0a000305)
+* [String Shortener (shrink)] (Ruby/6KYU/StringShort.rb) - [CodeWars] (https://www.codewars.com/kata/557d18803802e873170000a0)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
