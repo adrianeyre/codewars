@@ -236,6 +236,8 @@
 * [Which are in?] (Ruby/6KYU/WhichAreIn.rb) - [CodeWars] (https://www.codewars.com/kata/550554fd08b86f84fe000a58)
 * [Complete The Pattern #15] (Ruby/6KYU/Pattern2.rb) - [CodeWars] (https://www.codewars.com/kata/558db3ca718883bd17000031)
 * [HELP ALEX JONES! // FUNDAMENTALS PRACTICE (retired)] (Ruby/6KYU/AlexJones.rb) - [CodeWars] ()
+* [The Shell Game] (Ruby/6KYU/Shell.rb) - [CodeWars] (https://www.codewars.com/kata/546a3fea8a3502302a000cd2)
+* [Crazy programmer 01: find SuperMan] (Ruby/6KYU/SuperMan.rb) - [CodeWars] (https://www.codewars.com/kata/56d3c1eb3323a88d0a000305)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
