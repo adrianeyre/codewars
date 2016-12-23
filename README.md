@@ -91,6 +91,7 @@
 * [Vowel remover] (Ruby/8KYU/VowelRemove.rb) - [CodeWars] (https://www.codewars.com/kata/5547929140907378f9000039)
 * [Grasshopper - Summation] (Ruby/8KYU/Summation.rb) - [CodeWars] (https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 * [Is the string uppercase?] (Ruby/8KYU/StringUpcase.rb) - [CodeWars] (https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+* [Welcome to the City] (Ruby/8KYU/WelcomeCity.rb) - [CodeWars] (https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -164,6 +165,7 @@
 * [Exclamation marks series #3: Remove all exclamation marks from sentence except at the end] (Ruby/7KYU/Marks.rb) - [CodeWars] (https://www.codewars.com/kata/57faefc42b531482d5000123)
 * [Compare Strings by Sum of Chars] (Ruby/7KYU/StringSum.rb) - [CodeWars] (https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
 * [Reverse Letters in Sentence] (Ruby/7KYU/ReverseLetter.rb) - [CodeWars] (https://www.codewars.com/kata/57ebdf944cde58f973000405)
+* [Find the vowels] (Ruby/7KYU/FindVowels.rb) - [CodeWara] (https://www.codewars.com/kata/5680781b6b7c2be860000036)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
