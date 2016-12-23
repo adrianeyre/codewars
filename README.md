@@ -92,6 +92,8 @@
 * [Grasshopper - Summation] (Ruby/8KYU/Summation.rb) - [CodeWars] (https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 * [Is the string uppercase?] (Ruby/8KYU/StringUpcase.rb) - [CodeWars] (https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 * [Welcome to the City] (Ruby/8KYU/WelcomeCity.rb) - [CodeWars] (https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+* [Count by X] (Ruby/8KYU/CountByX.rb) - [CodeWars] (https://www.codewars.com/kata/5513795bd3fafb56c200049e)
+* [Function 1 - hello world] (Ruby/8KYU/HellowWorld.rb) - [CodeWars] (https://www.codewars.com/kata/523b4ff7adca849afe000035)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
