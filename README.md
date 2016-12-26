@@ -249,6 +249,7 @@
 * [Crazy programmer 01: find SuperMan] (Ruby/6KYU/SuperMan.rb) - [CodeWars] (https://www.codewars.com/kata/56d3c1eb3323a88d0a000305)
 * [String Shortener (shrink)] (Ruby/6KYU/StringShort.rb) - [CodeWars] (https://www.codewars.com/kata/557d18803802e873170000a0)
 * [Word a10n (abbreviation)] (Ruby/6KYU/Worda10n.rb) - [CodeWars] (https://www.codewars.com/kata/5375f921003bf62192000746)
+* [Search The 0 Sums Combinations in an Array] (Ruby/6KYU/Search0.rb) - [CodeWars] (https://www.codewars.com/kata/5711fc7c159cde6ac70003e2)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -284,6 +285,7 @@
 * [Tongues] (Ruby/5KYU/Tongues.rb) - [CodeWars] (https://www.codewars.com/kata/52763db7cffbc6fe8c0007f8)
 * [Sum of Pairs] (Ruby/5KYU/SumofPairs.rb) - [CodeWars] (https://www.codewars.com/kata/54d81488b981293527000c8f)
 * [Directions Reduction] (Ruby/5KYU/Direction.rb) - [CodeWars] (https://www.codewars.com/kata/550f22f4d758534c1100025a)
+* [Guess The Gifts!] (Ruby/5KYU/GuessGifts.rb) - [CodeWars] (https://www.codewars.com/kata/52ae6b6623b443d9090002c8)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
@@ -292,10 +294,13 @@
 * [Strip Comments] (Ruby/4KYU/StripComments.rb) - [CodeWars] (https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Strings Mix] (Ruby/4KYU/StringMix.rb) - [CodeWars] (https://www.codewars.com/kata/5629db57620258aa9d000014)
 * [Roman Numerals Encoder] (Ruby/4KYU/RomanNumerals.rb) - [CodeWars] (https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
+* [Life of Possibilities] (Ruby/4KYU/LifeOfPossibilities.rb) - [CodeWars] (https://www.codewars.com/kata/514a17e911ea4fb54200005a)
+* [Fluent Calculator] (Ruby/4KYU/FluentCalc.rb) - [CodeWars] (https://www.codewars.com/kata/52a1feca5ec9c508d10006f8)
 
 ### <a name="3KYU">3 KYU</a>
 * [Hard Time Bomb] (Ruby/3KYU/HardBomb.rb) - [CodeWars] (https://www.codewars.com/kata/52532cc8e9ea83b89b000008)
 * [Calculator] (Ruby/3KYU/Calculator.rb) - [CodeWars] (https://www.codewars.com/kata/5235c913397cbf2508000048)
+* [Did you mean ...?] (Ruby/3KYU/DidYouMean.rb) - [CodeWars] (https://www.codewars.com/kata/5259510fc76e59579e0009d4)
 
 ### <a name="BETA">BETA</a>
 * [Which string is worth more?] (Ruby/beta/HighValue.rb) - [CodeWars] (https://www.codewars.com/kata/5840586b5225616069000001)
