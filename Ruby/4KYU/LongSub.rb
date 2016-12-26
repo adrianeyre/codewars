@@ -1,3 +1,4 @@
+=begin
 def lcs(x, y)
   x = x.split("")
   y = y.split("")
@@ -22,5 +23,31 @@ def lcs(x, y)
 
   p result
 end
+=end
+=begin
+def lcs(x, y)
+  (y.length-1).downto(0) do |z|
+    check = "" ; result = ""
+    0.upto(z) do |v|
+      check += "[#{y[v]}].*"
+      result += "#{y[v]}"
+    end
+    puts result
+    return result if x =~ /.*#{check}.*/
+  end
+  ""
+end
+=end
+def lcs(x, y)
+  #num = 0
+  #0.upto(x.length-1) do |z|
+  #  puts x[0..z]
+  #end
+  puts x
+  puts y
+  y = y.gsub(/[notatest]/,"@")
+  puts y
+  "DONE"
+end
 
-lcs( "132535365" , "123456789" )
+p lcs("anothertest", "notatest")
