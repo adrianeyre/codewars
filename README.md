@@ -250,6 +250,7 @@
 * [String Shortener (shrink)] (Ruby/6KYU/StringShort.rb) - [CodeWars] (https://www.codewars.com/kata/557d18803802e873170000a0)
 * [Word a10n (abbreviation)] (Ruby/6KYU/Worda10n.rb) - [CodeWars] (https://www.codewars.com/kata/5375f921003bf62192000746)
 * [Search The 0 Sums Combinations in an Array] (Ruby/6KYU/Search0.rb) - [CodeWars] (https://www.codewars.com/kata/5711fc7c159cde6ac70003e2)
+* [Salesman's Travel] (Ruby/6KYU/SalesmanTravel.rb) - [CodeWars] (https://www.codewars.com/kata/56af1a20509ce5b9b000001e)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -286,6 +287,7 @@
 * [Sum of Pairs] (Ruby/5KYU/SumofPairs.rb) - [CodeWars] (https://www.codewars.com/kata/54d81488b981293527000c8f)
 * [Directions Reduction] (Ruby/5KYU/Direction.rb) - [CodeWars] (https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * [Guess The Gifts!] (Ruby/5KYU/GuessGifts.rb) - [CodeWars] (https://www.codewars.com/kata/52ae6b6623b443d9090002c8)
+* [Split hash by key(s)) - [CodeWars] (https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
