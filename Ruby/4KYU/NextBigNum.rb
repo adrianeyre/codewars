@@ -22,13 +22,15 @@ next_bigger(531)==-1
 #n.combination(o.to_s.length).select {|t| return t.join.to_i if t.join.to_i > o}
 #p n.combination(o.to_s.length-1).to_a.sort
 def next_bigger(n)
+  o = n
   n = n.to_s.split("").map {|x| x.to_i}
   #p n
   #n.to_s.split('').permutation.map(&:join).uniq.sort.select { |tab| return tab.to_i if tab.to_i > n}
   #p n.repeated_permutation(10).to_a.sort
   #-1
 
-  p n.product(n)
+  c = n.combination(n.length-1).map{|x| x.join.to_i if x.join.to_i > o} #.join.to_i > n}
+  p c
 end
 
 def next_bigger4(n)
@@ -49,4 +51,4 @@ def next_bigger2(n)
   -1
 end
 
-p next_bigger(1234567890)
+next_bigger(1234567890)
