@@ -94,6 +94,8 @@
 * [Welcome to the City] (Ruby/8KYU/WelcomeCity.rb) - [CodeWars] (https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 * [Count by X] (Ruby/8KYU/CountByX.rb) - [CodeWars] (https://www.codewars.com/kata/5513795bd3fafb56c200049e)
 * [Function 1 - hello world] (Ruby/8KYU/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/523b4ff7adca849afe000035)
+* [Incorrect array_remove method] (Ruby/8KYU/ArrayRemove.rb) - [CodeWars] (https://www.codewars.com/kata/56f282ec9cf0284f5e0005f2)
+* [Enumerable Magic #1 - True for All?] (Ruby/8KYU/MagicNum1.rb) - [CodeWars] (https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -168,6 +170,7 @@
 * [Compare Strings by Sum of Chars] (Ruby/7KYU/StringSum.rb) - [CodeWars] (https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
 * [Reverse Letters in Sentence] (Ruby/7KYU/ReverseLetter.rb) - [CodeWars] (https://www.codewars.com/kata/57ebdf944cde58f973000405)
 * [Find the vowels] (Ruby/7KYU/FindVowels.rb) - [CodeWara] (https://www.codewars.com/kata/5680781b6b7c2be860000036)
+* [Trimming a string] (Ruby/7KYU/TrimString.rb) - [CodeWara] (https://www.codewars.com/kata/563fb342f47611dae800003c)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
