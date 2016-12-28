@@ -172,6 +172,10 @@
 * [Reverse Letters in Sentence] (Ruby/7KYU/ReverseLetter.rb) - [CodeWars] (https://www.codewars.com/kata/57ebdf944cde58f973000405)
 * [Find the vowels] (Ruby/7KYU/FindVowels.rb) - [CodeWara] (https://www.codewars.com/kata/5680781b6b7c2be860000036)
 * [Trimming a string] (Ruby/7KYU/TrimString.rb) - [CodeWara] (https://www.codewars.com/kata/563fb342f47611dae800003c)
+* [80's Kids #1: How Many Licks Does it Take?] (Ruby/7KYU/Licks.rb) - [CodeWars] (https://www.codewars.com/kata/566091b73e119a073100003a)
+* [80's Kids #2: Help ALF Find His Spaceship] (Ruby/7KYU/Spaceship.rb) - [CodeWars] (https://www.codewars.com/kata/5660aa3d5e011dfd6e000063)
+* [80's Kids #3: Punky Brewster's Socks] (Ruby/7KYU/Socks.rb) - [CodeWars] (https://www.codewars.com/kata/5662292ee7e2da24e900012f)
+* [80's Kids #5: You Can't Do That on Television] (Ruby/7KYU/NotOnTele.rb) - [CodeWars] (https://www.codewars.com/kata/5667525f0f157f7a0a000004)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -255,6 +259,8 @@
 * [Word a10n (abbreviation)] (Ruby/6KYU/Worda10n.rb) - [CodeWars] (https://www.codewars.com/kata/5375f921003bf62192000746)
 * [Search The 0 Sums Combinations in an Array] (Ruby/6KYU/Search0.rb) - [CodeWars] (https://www.codewars.com/kata/5711fc7c159cde6ac70003e2)
 * [Salesman's Travel] (Ruby/6KYU/SalesmanTravel.rb) - [CodeWars] (https://www.codewars.com/kata/56af1a20509ce5b9b000001e)
+* [80's Kids #4: Legends of the Hidden Temple] (Ruby/6KYU/Temple.rb) - [CodeWars] (https://www.codewars.com/kata/56648a2e2c464b8c030000bf)
+* [80's Kids #7: She's a Small Wonder] (Ruby/6KYU/Robot.rb) - [CodeWars] (https://www.codewars.com/kata/56743fd3a12043ffbb000049)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
