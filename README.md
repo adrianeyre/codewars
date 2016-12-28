@@ -291,7 +291,7 @@
 * [Sum of Pairs] (Ruby/5KYU/SumofPairs.rb) - [CodeWars] (https://www.codewars.com/kata/54d81488b981293527000c8f)
 * [Directions Reduction] (Ruby/5KYU/Direction.rb) - [CodeWars] (https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * [Guess The Gifts!] (Ruby/5KYU/GuessGifts.rb) - [CodeWars] (https://www.codewars.com/kata/52ae6b6623b443d9090002c8)
-* [Split hash by key(s)) - [CodeWars] (https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
+* [Split hash by key(s)] - [CodeWars] (https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
 * [80's Kids #6: Rock 'Em, Sock 'Em Robots] (Ruby/5KYU/Robots.rb) - [CodeWars] (https://www.codewars.com/kata/566b490c8b164e03f8000002)
 
 ### <a name="4KYU">4 KYU</a>
