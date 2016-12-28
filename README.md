@@ -96,6 +96,7 @@
 * [Function 1 - hello world] (Ruby/8KYU/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/523b4ff7adca849afe000035)
 * [Incorrect array_remove method] (Ruby/8KYU/ArrayRemove.rb) - [CodeWars] (https://www.codewars.com/kata/56f282ec9cf0284f5e0005f2)
 * [Enumerable Magic #1 - True for All?] (Ruby/8KYU/MagicNum1.rb) - [CodeWars] (https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
+* [Transportation on vacation] (Ruby/8KYU/Vacation.rb) - [CodeWars] (https://www.codewars.com/kata/568d0dd208ee69389d000016)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -291,6 +292,7 @@
 * [Directions Reduction] (Ruby/5KYU/Direction.rb) - [CodeWars] (https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * [Guess The Gifts!] (Ruby/5KYU/GuessGifts.rb) - [CodeWars] (https://www.codewars.com/kata/52ae6b6623b443d9090002c8)
 * [Split hash by key(s)) - [CodeWars] (https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
+* [80's Kids #6: Rock 'Em, Sock 'Em Robots] (Ruby/5KYU/Robots.rb) - [CodeWars] (https://www.codewars.com/kata/566b490c8b164e03f8000002)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
