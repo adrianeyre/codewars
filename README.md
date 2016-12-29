@@ -301,6 +301,7 @@
 * [Guess The Gifts!] (Ruby/5KYU/GuessGifts.rb) - [CodeWars] (https://www.codewars.com/kata/52ae6b6623b443d9090002c8)
 * [Split hash by key(s)] (Ruby/5KYU/SplitHash.rb) - [CodeWars] (https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
 * [80's Kids #6: Rock 'Em, Sock 'Em Robots] (Ruby/5KYU/Robots.rb) - [CodeWars] (https://www.codewars.com/kata/566b490c8b164e03f8000002)
+* [Best travel] (Ruby/5KYU/BestTravel.rb) - [CodeWars] (https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces] (Ruby/4KYU/Brace.rb) - [CodeWars] (https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
@@ -323,6 +324,10 @@
 * [Count letters in string] (Ruby/beta/CountLetter.rb) - [CodeWars] (https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
 * [Convert Symbol to Array] (Ruby/beta/ConvertSymArray.rb) - [CodeWars] (https://www.codewars.com/kata/580b3efd43a6be90aa000104)
 * [National Bath Safety Month] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/57d14a9d95497e9912000267)
-* [Basic Math Add or Subtract] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
+* [Basic Math Add or Subtract] (Ruby/beta/SimpleMaths.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
 * [Robot Walk] (Ryby/beta/RobotWalk.rb) - [CodeWars] (https://www.codewars.com/kata/574e0af02be0e2dca00004c6)
 * [80's Kids #9: Down in Fraggle Rock] (Ruby/beta/FraggleRock.rb) - [CodeWars] (https://www.codewars.com/kata/5679de444454213427000050)
+* [Pluralization] (Ruby/beta/Plural.rb) - [CodeWars] (https://www.codewars.com/kata/57fe7ea808d102a2ba000edd)
+* [Array Exchange] (Ruby/beta/ArrayExchange.rb) - [CodeWars] (https://www.codewars.com/kata/5353212e5ee40d4694001114)
+* [Is it Golden?] (Ruby/beta/Golden.rb) - [CodeWars] (https://www.codewars.com/kata/585ade78f59b3c83c1000059)
+* [Thinkful - String Drills: Hello, World] (Ruby/beta/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/5859d3325a8a0747180000c6)
