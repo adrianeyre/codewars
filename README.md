@@ -97,6 +97,7 @@
 * [Incorrect array_remove method] (Ruby/8KYU/ArrayRemove.rb) - [CodeWars] (https://www.codewars.com/kata/56f282ec9cf0284f5e0005f2)
 * [Enumerable Magic #1 - True for All?] (Ruby/8KYU/MagicNum1.rb) - [CodeWars] (https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
 * [Transportation on vacation] (Ruby/8KYU/Vacation.rb) - [CodeWars] (https://www.codewars.com/kata/568d0dd208ee69389d000016)
+* [Sum Arrays] (Ruby/8KYU/SumArrays.rb) - [CodeWars] (https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -176,6 +177,7 @@
 * [80's Kids #2: Help ALF Find His Spaceship] (Ruby/7KYU/Spaceship.rb) - [CodeWars] (https://www.codewars.com/kata/5660aa3d5e011dfd6e000063)
 * [80's Kids #3: Punky Brewster's Socks] (Ruby/7KYU/Socks.rb) - [CodeWars] (https://www.codewars.com/kata/5662292ee7e2da24e900012f)
 * [80's Kids #5: You Can't Do That on Television] (Ruby/7KYU/NotOnTele.rb) - [CodeWars] (https://www.codewars.com/kata/5667525f0f157f7a0a000004)
+* [Cat and Mouse - Easy Version] (Ruby/7KYU/CatandMouse.rb) - [CodeWara] (https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -279,7 +281,7 @@
 * [Convert string to camel case] (Ruby/5KYU/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [RGB To Hex Conversion] (Ruby/5KYU/RGBtoHEX.rb) - [CodeWars] (https://www.codewars.com/kata/513e08acc600c94f01000001)
 * [Extract the domain name from a URL] (Ruby/5KYU/DomainName.rb) - [CodeWars] (https://www.codewars.com/kata/514a024011ea4fb54200004b)
-* [Scramblies] (Ruby/5KYU/Scablies.rb) - [CodeWars] (https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+* [Scramblies] (Ruby/5KYU/Scramblies.rb) - [CodeWars] (https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
 * [Break camelCase] (Ruby/5KYU/BreakCamel.rb) - [CodeWars] (https://www.codewars.com/kata/5208f99aee097e6552000148)
 * [Two Joggers] (Ruby/5KYU/TwoJoggers.rb) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 * [Convert PascalCase string into snake_case] (Ruby/5KYU/SnakeCase.rb) - [CodeWars] (https://www.codewars.com/kata/5274d9d3ebc3030802000165)
@@ -323,3 +325,4 @@
 * [National Bath Safety Month] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/57d14a9d95497e9912000267)
 * [Basic Math Add or Subtract] (Ruby/beta/Bath.rb) - [CodeWars] (https://www.codewars.com/kata/5809b62808ad92e31b000031)
 * [Robot Walk] (Ryby/beta/RobotWalk.rb) - [CodeWars] (https://www.codewars.com/kata/574e0af02be0e2dca00004c6)
+* [80's Kids #9: Down in Fraggle Rock] (Ruby/beta/FraggleRock.rb) - [CodeWars] (https://www.codewars.com/kata/5679de444454213427000050)
