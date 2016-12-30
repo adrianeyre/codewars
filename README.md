@@ -331,3 +331,4 @@
 * [Array Exchange] (Ruby/beta/ArrayExchange.rb) - [CodeWars] (https://www.codewars.com/kata/5353212e5ee40d4694001114)
 * [Is it Golden?] (Ruby/beta/Golden.rb) - [CodeWars] (https://www.codewars.com/kata/585ade78f59b3c83c1000059)
 * [Thinkful - String Drills: Hello, World] (Ruby/beta/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/5859d3325a8a0747180000c6)
+* [Maze Runner] (Ruby/beta/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
