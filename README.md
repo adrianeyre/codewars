@@ -335,3 +335,4 @@
 * [Car salesmen talk too much] (Ruby/beta/CarSaleman.rb) - [CodeWars] (https://www.codewars.com/kata/57ed6632bd793e3d280003b4)
 * [Your Mentors Film Library (Part 1)] (Ruby/beta/FilmLibrary1.rb) - [CodeWars] (https://www.codewars.com/kata/56017e16be7b7ab4ea000078)
 * [Your Mentors Film Library (Part 2)] (Ruby/beta/FilmLibrary2.rb) - [CodeWars] (https://www.codewars.com/kata/56055b7d81e4e2354e00000a)
+* [If you can read this...] (Ruby/beta/Phonetic.rb) - [CodeWars] (https://www.codewars.com/kata/586538146b56991861000293)
