@@ -332,3 +332,6 @@
 * [Is it Golden?] (Ruby/beta/Golden.rb) - [CodeWars] (https://www.codewars.com/kata/585ade78f59b3c83c1000059)
 * [Thinkful - String Drills: Hello, World] (Ruby/beta/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/5859d3325a8a0747180000c6)
 * [Maze Runner] (Ruby/beta/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
+* [Car salesmen talk too much] (Ruby/beta/CarSaleman.rb) - [CodeWars] (https://www.codewars.com/kata/57ed6632bd793e3d280003b4)
+* [Your Mentors Film Library (Part 1)] (Ruby/beta/FilmLibrary1.rb) - [CodeWars] (https://www.codewars.com/kata/56017e16be7b7ab4ea000078)
+* [Your Mentors Film Library (Part 2)] (Ruby/beta/FilmLibrary2.rb) - [CodeWars] (https://www.codewars.com/kata/56055b7d81e4e2354e00000a)
