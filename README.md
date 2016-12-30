@@ -98,6 +98,7 @@
 * [Enumerable Magic #1 - True for All?] (Ruby/8KYU/MagicNum1.rb) - [CodeWars] (https://www.codewars.com/kata/54598d1fcbae2ae05200112c)
 * [Transportation on vacation] (Ruby/8KYU/Vacation.rb) - [CodeWars] (https://www.codewars.com/kata/568d0dd208ee69389d000016)
 * [Sum Arrays] (Ruby/8KYU/SumArrays.rb) - [CodeWars] (https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
+* [Holiday VIII - Duty Free] (Ruby/8KYU/DutyFree.rb) - [CodeWars] (https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -178,6 +179,8 @@
 * [80's Kids #3: Punky Brewster's Socks] (Ruby/7KYU/Socks.rb) - [CodeWars] (https://www.codewars.com/kata/5662292ee7e2da24e900012f)
 * [80's Kids #5: You Can't Do That on Television] (Ruby/7KYU/NotOnTele.rb) - [CodeWars] (https://www.codewars.com/kata/5667525f0f157f7a0a000004)
 * [Cat and Mouse - Easy Version] (Ruby/7KYU/CatandMouse.rb) - [CodeWara] (https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
+* [Retrieve array value by index with default] (Ruby/7KYU/ArrayIndex.rb) - [CodeWara] (https://www.codewars.com/kata/515ceaebcc1dde8870000001)
+* [Thinkful - String Drills: Quotable] (Ruby/7KYU/StringQuote.rb) - [CodeWara] (https://www.codewars.com/kata/5859c82bd41fc6207900007a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
