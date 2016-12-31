@@ -100,6 +100,7 @@
 * [Sum Arrays] (Ruby/8KYU/SumArrays.rb) - [CodeWars] (https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 * [Holiday VIII - Duty Free] (Ruby/8KYU/DutyFree.rb) - [CodeWars] (https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 * [My head is at the wrong end!] (Ruby/8KYU/Reverse.rb) - [CodeWars] (https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
+* [Return Two Highest Values in List] (Ruby/8KYU/ReturnHigh.rb) - [CodeWars] (https://www.codewars.com/kata/57ab3c09bb994429df000a4a)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -183,6 +184,7 @@
 * [Retrieve array value by index with default] (Ruby/7KYU/ArrayIndex.rb) - [CodeWara] (https://www.codewars.com/kata/515ceaebcc1dde8870000001)
 * [Thinkful - String Drills: Quotable] (Ruby/7KYU/StringQuote.rb) - [CodeWara] (https://www.codewars.com/kata/5859c82bd41fc6207900007a)
 * [Frequency sequence] (Ruby/7KYU/ReqSeq.rb) - [CodeWara] (https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
+* [Float Precision] (Ruby/7KYU/FloatPrec.rb) - [CodeWara] (https://www.codewars.com/kata/5143d157ceb46d6a61000001)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -268,6 +270,8 @@
 * [Salesman's Travel] (Ruby/6KYU/SalesmanTravel.rb) - [CodeWars] (https://www.codewars.com/kata/56af1a20509ce5b9b000001e)
 * [80's Kids #4: Legends of the Hidden Temple] (Ruby/6KYU/Temple.rb) - [CodeWars] (https://www.codewars.com/kata/56648a2e2c464b8c030000bf)
 * [80's Kids #7: She's a Small Wonder] (Ruby/6KYU/Robot.rb) - [CodeWars] (https://www.codewars.com/kata/56743fd3a12043ffbb000049)
+* [Calculate String Rotation] (Ruby/6KYU/StringRotate.rb) - [CodeWars] (https://www.codewars.com/kata/5596f6e9529e9ab6fb000014)
+* [Street Fighter 2 - Character Selection] (Ruby/6KYU/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/5853213063adbd1b9b0000be)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
