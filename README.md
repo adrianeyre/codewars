@@ -350,3 +350,4 @@
 * [Beginner Series #1 School Paperwork] (Ruby/beta/SchoolPaperword.rb) - [CodeWars] (https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 * [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
 * [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
+* [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
