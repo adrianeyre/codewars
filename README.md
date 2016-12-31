@@ -99,6 +99,7 @@
 * [Transportation on vacation] (Ruby/8KYU/Vacation.rb) - [CodeWars] (https://www.codewars.com/kata/568d0dd208ee69389d000016)
 * [Sum Arrays] (Ruby/8KYU/SumArrays.rb) - [CodeWars] (https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 * [Holiday VIII - Duty Free] (Ruby/8KYU/DutyFree.rb) - [CodeWars] (https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
+* [My head is at the wrong end!] (Ruby/8KYU/Reverse.rb) - [CodeWars] (https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -181,6 +182,7 @@
 * [Cat and Mouse - Easy Version] (Ruby/7KYU/CatandMouse.rb) - [CodeWara] (https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 * [Retrieve array value by index with default] (Ruby/7KYU/ArrayIndex.rb) - [CodeWara] (https://www.codewars.com/kata/515ceaebcc1dde8870000001)
 * [Thinkful - String Drills: Quotable] (Ruby/7KYU/StringQuote.rb) - [CodeWara] (https://www.codewars.com/kata/5859c82bd41fc6207900007a)
+* [Frequency sequence] (Ruby/7KYU/ReqSeq.rb) - [CodeWara] (https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -339,3 +341,8 @@
 * [Your Mentors Film Library (Part 1)] (Ruby/beta/FilmLibrary1.rb) - [CodeWars] (https://www.codewars.com/kata/56017e16be7b7ab4ea000078)
 * [Your Mentors Film Library (Part 2)] (Ruby/beta/FilmLibrary2.rb) - [CodeWars] (https://www.codewars.com/kata/56055b7d81e4e2354e00000a)
 * [If you can read this...] (Ruby/beta/Phonetic.rb) - [CodeWars] (https://www.codewars.com/kata/586538146b56991861000293)
+* [Testing 1-2-3] (Ruby/beta/123.rb) - [CodeWars] (https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+* [Is n divisible by x and y?] (Ruby/beta/NdivXandY.rb) - [CodeWars] (https://www.codewars.com/kata/5545f109004975ea66000086)
+* [Beginner Series #1 School Paperwork] (Ruby/beta/SchoolPaperword.rb) - [CodeWars] (https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
+* [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
+* [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
