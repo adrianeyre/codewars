@@ -1,6 +1,6 @@
 # [![JavaScript Style Guide: Good Parts](https://www.ruby-lang.org/images/header-ruby-logo.png)](https://www.ruby-lang.org/en/ "Ruby Logo") [![CodeWars](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "My Honor Badge") #
 
-[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA)
+[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRAN)
 
 ### <a name="8KYU">8 KYU</a>
 * [Multiply] (Ruby/8KYU/Multiply.rb) - [CodeWars] (https://www.codewars.com/kata/50654ddff44f800200000004)
@@ -351,3 +351,6 @@
 * [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
 * [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
 * [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
+
+### <a name="TRAN">Translations</a>
+* [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/street-fighter-2-character-selection-part-2)
