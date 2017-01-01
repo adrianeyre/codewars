@@ -53,3 +53,31 @@ def maze_runner(maze, directions)
   end
   "Lost"
 end
+
+(0..49).each do |rtest|
+  maze = []
+  l = rand(60) + 5
+  (1..l).each {|z| t = [] ; t += [0]*l ; maze << t}
+  w = rand(l*l-10) + 1
+  (1..w).each {|z| x = rand(l) ; y = rand(l) ; maze[x][y] = 1}
+  x = rand(l) ; y = rand(l) ; maze[x][y] = 3
+  x = rand(l) ; y = rand(l) ; maze[x][y] = 2
+
+  directions = []
+  m = rand(59) + 1
+  (0..m).each do |x|
+    d = rand(4)
+    case d
+      when 0 ; directions << "N"
+      when 1 ; directions << "E"
+      when 2 ; directions << "S"
+      when 3 ; directions << "W"
+    end
+  end
+
+  solution = maze_runner(maze, directions)
+
+  Test.it("Random Tests") do
+    Test.assert_equals(maze_runner(maze,directions), solution)
+  end
+end

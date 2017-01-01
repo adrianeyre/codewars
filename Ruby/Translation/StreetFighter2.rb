@@ -210,3 +210,40 @@ solution = ['Guile', 'Blanka', 'M.Bison', 'Zangief', 'Dhalsim', 'Sagat', 'M.Biso
 Test.it("should work with odd initial position") do
   Test.assert_equals(super_street_fighter_selection(fighters4,position, moves), solution)
 end
+
+# Random Tests
+fighters5 = [
+	[        "",     "Ryu",  "E.Honda",  "Cammy" ],
+	[  "Balrog",     "Ken",  "Chun Li",       "" ],
+	[    "Vega",        "", "Fei Long", "Balrog",],
+    [  "Blanka",   "Guile",         "", "Chun Li"],
+    [ "M.Bison", "Zangief",  "Dhalsim", "Sagat"  ],
+    [  "Deejay",   "Cammy",         "", "T.Hawk" ]
+]
+
+(0..20).each do |rtest|
+  moves =  []
+  solution = []
+  begin
+    x = rand(fighters5.length)
+    y = rand(fighters5[0].length)
+    position = [x,y]
+  end while fighters5[x][y] == ""
+
+  amount = rand(29) + 1
+  (0..amount).each do |z|
+    dir = rand(4)
+    case dir
+      when 0 ; moves << "up"
+      when 1 ; moves << "down"
+      when 2 ; moves << "left"
+      when 3 ; moves << "right"
+    end
+  end
+
+  solution = super_street_fighter_selection(fighters5,position, moves)
+
+  Test.it("should work with no selection cursor moves") do
+    Test.assert_equals(super_street_fighter_selection(fighters5,position, moves), solution)
+  end
+end
