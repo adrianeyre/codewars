@@ -1,6 +1,6 @@
 # [![JavaScript Style Guide: Good Parts](https://www.ruby-lang.org/images/header-ruby-logo.png)](https://www.ruby-lang.org/en/ "Ruby Logo") [![CodeWars](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "My Honor Badge") #
 
-[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRAN)
+[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRAN) | [Authored](#AUTH)
 
 ### <a name="8KYU">8 KYU</a>
 * [Multiply] (Ruby/8KYU/Multiply.rb) - [CodeWars] (https://www.codewars.com/kata/50654ddff44f800200000004)
@@ -340,7 +340,6 @@
 * [Array Exchange] (Ruby/beta/ArrayExchange.rb) - [CodeWars] (https://www.codewars.com/kata/5353212e5ee40d4694001114)
 * [Is it Golden?] (Ruby/beta/Golden.rb) - [CodeWars] (https://www.codewars.com/kata/585ade78f59b3c83c1000059)
 * [Thinkful - String Drills: Hello, World] (Ruby/beta/HelloWorld.rb) - [CodeWars] (https://www.codewars.com/kata/5859d3325a8a0747180000c6)
-* [Maze Runner] (Ruby/beta/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
 * [Car salesmen talk too much] (Ruby/beta/CarSaleman.rb) - [CodeWars] (https://www.codewars.com/kata/57ed6632bd793e3d280003b4)
 * [Your Mentors Film Library (Part 1)] (Ruby/beta/FilmLibrary1.rb) - [CodeWars] (https://www.codewars.com/kata/56017e16be7b7ab4ea000078)
 * [Your Mentors Film Library (Part 2)] (Ruby/beta/FilmLibrary2.rb) - [CodeWars] (https://www.codewars.com/kata/56055b7d81e4e2354e00000a)
@@ -351,7 +350,11 @@
 * [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
 * [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
 * [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
-* [Scooby Doo Puzzle] (Ruby/beta/ScoobyDoo.rb) - [CodeWars] (https://www.codewars.com/kata/58693bbfd7da144164000d05)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
+
+### <a name="AUTH">Authored</a>
+* [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
+* [Scooby Doo Puzzle] (Ruby/Authored/ScoobyDoo.rb) - [CodeWars] (https://www.codewars.com/kata/58693bbfd7da144164000d05)
+* [Driving License] (Ruby/Authored/Driving.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
