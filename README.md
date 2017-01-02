@@ -185,6 +185,7 @@
 * [Thinkful - String Drills: Quotable] (Ruby/7KYU/StringQuote.rb) - [CodeWara] (https://www.codewars.com/kata/5859c82bd41fc6207900007a)
 * [Frequency sequence] (Ruby/7KYU/ReqSeq.rb) - [CodeWara] (https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
 * [Float Precision] (Ruby/7KYU/FloatPrec.rb) - [CodeWara] (https://www.codewars.com/kata/5143d157ceb46d6a61000001)
+* [Naughty or Nice?] (Ruby/7KYU/NaughtyNice.rb) - [CodeWara] (https://www.codewars.com/kata/585eaef9851516fcae00004d)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -353,6 +354,7 @@
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
+* [Hangman game] (Ruby/Translation/Hangman.rb) - [CodeWars] (https://www.codewars.com/kata/hangman)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
