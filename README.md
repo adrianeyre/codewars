@@ -357,4 +357,4 @@
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
 * [Scooby Doo Puzzle] (Ruby/Authored/ScoobyDoo.rb) - [CodeWars] (https://www.codewars.com/kata/58693bbfd7da144164000d05)
-* [Driving License] (Ruby/Authored/Driving.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
+* [Driving License] (Ruby/Authored/Driving.rb) - [CodeWars] (https://www.codewars.com/kata/586a1af1c66d18ad81000134)
