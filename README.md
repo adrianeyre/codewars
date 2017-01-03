@@ -101,6 +101,9 @@
 * [Holiday VIII - Duty Free] (Ruby/8KYU/DutyFree.rb) - [CodeWars] (https://www.codewars.com/kata/57e92e91b63b6cbac20001e5)
 * [My head is at the wrong end!] (Ruby/8KYU/Reverse.rb) - [CodeWars] (https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 * [Return Two Highest Values in List] (Ruby/8KYU/ReturnHigh.rb) - [CodeWars] (https://www.codewars.com/kata/57ab3c09bb994429df000a4a)
+* [Get Planet Name By ID] (Ruby/8KYU/Planet.rb) - [CodeWars] (https://www.codewars.com/kata/515e188a311df01cba000003)
+* [Palindrome Strings] (Ruby/8KYU/Palnet.rb) - [CodeWars] (https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
+* [Return to Sanity] (Ruby/8KYU/Sanity.rb) - [CodeWars] (https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -360,3 +363,4 @@
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
 * [Scooby Doo Puzzle] (Ruby/Authored/ScoobyDoo.rb) - [CodeWars] (https://www.codewars.com/kata/58693bbfd7da144164000d05)
 * [Driving License] (Ruby/Authored/Driving.rb) - [CodeWars] (https://www.codewars.com/kata/586a1af1c66d18ad81000134)
+* [Connect 4] (Ruby/Authored/Connect4.rb) - [CodeWars] (https://www.codewars.com/kata/586c0909c1923fdb89002031)
