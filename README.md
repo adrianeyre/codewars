@@ -104,6 +104,7 @@
 * [Get Planet Name By ID] (Ruby/8KYU/Planet.rb) - [CodeWars] (https://www.codewars.com/kata/515e188a311df01cba000003)
 * [Palindrome Strings] (Ruby/8KYU/Palnet.rb) - [CodeWars] (https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
 * [Return to Sanity] (Ruby/8KYU/Sanity.rb) - [CodeWars] (https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
+* [Function 3 - multiplying two numbers] (Ruby/8KYU/Multiply2Num.rb) - [CodeWars] (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -189,6 +190,7 @@
 * [Frequency sequence] (Ruby/7KYU/ReqSeq.rb) - [CodeWara] (https://www.codewars.com/kata/585a033e3a36cdc50a00011c)
 * [Float Precision] (Ruby/7KYU/FloatPrec.rb) - [CodeWara] (https://www.codewars.com/kata/5143d157ceb46d6a61000001)
 * [Naughty or Nice?] (Ruby/7KYU/NaughtyNice.rb) - [CodeWara] (https://www.codewars.com/kata/585eaef9851516fcae00004d)
+* [All Star Code Challenge #1] (Ruby/7KYU/StarCode.rb) - [CodeWara] (https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -354,8 +356,8 @@
 * [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
 * [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
 * [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
-* [Grasshopper - Terminal game combat function] (Ruby/beta/
-* [Keep up the hoop] (Ruby/beta/
+* [Grasshopper - Terminal game combat function] (Ruby/beta/TerminalCombat.rb) - [CodeWars] (https://www.codewars.com/kata/586c1cf4b98de0399300001d)
+* [Keep up the hoop] (Ruby/beta/KeepHoop.rb) - [CodeWars] (https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
