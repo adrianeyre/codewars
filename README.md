@@ -354,6 +354,8 @@
 * [SevenAte9] (Ruby/beta/SevenAte9.rb) - [CodeWars] (https://www.codewars.com/kata/559f44187fa851efad000087)
 * [80's Kids #8: The Secret World of Alex Mack] (Ruby/beta/AlexMack.rb) - [CodeWars] (https://www.codewars.com/kata/56748c679c14c10b6e000022)
 * [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
+* [Grasshopper - Terminal game combat function] (Ruby/beta/
+* [Keep up the hoop] (Ruby/beta/
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
