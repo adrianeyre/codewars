@@ -58,14 +58,14 @@ class VendingMachine
         return "Not enough money!" if item_money < item[:price]
         return "#{item[:name]}: Out of stock!" if item[:quantity] - 1 < 0
         change = item[:price]-item_money
-        @money += item_money - item[:price]
+        @money += item[:price]
         item[:quantity] -= 1
         result = "Vending #{item[:name]}"
         result += " with #{"%.02f" % (change).abs} change." if item_money > item[:price]
         return result
       end
     end
-    "Invalid selection!"
+    "Invalid selection! : Money in vending machine = #{"%.02f" % @money}"
   end
 end
 
@@ -106,6 +106,14 @@ items = [{:name=>"Smarties", :code=>"A01", :quantity=>10, :price=>0.60},
          {:name=>"Double Dip", :code=>"D08", :quantity=>10, :price=>1.04},
          {:name=>"Candy Sticks", :code=>"D09", :quantity=>10, :price=>2.14},
          {:name=>"Jelly Cubes", :code=>"D10", :quantity=>10, :price=>1.18}]
+
+         machine = VendingMachine.new(items,10.00)
+         p machine.vend("A01",0.60) #, "Vending Smarties", "Should return 'Vending Smarties'")
+         p machine.vend("A01",10.0) #, "Vending Smarties with 9.40 change.","Should return 'Vending Smarties with 9.40 change.'")
+         p machine.vend("Z01",0.41) #, "Invalid selection!", "Should return 'Invalid selection!'")
+         p machine.vend("a02",0.40) #, "Not enough money!", "Should return 'Not enough money!'")
+         p machine.vend("B06",4.60) #, "Cheese and Onion Crisps: Out of stock!", "Should return 'Cheese and Onion Crisps: Out of stock!'")
+
 
 =begin
 # Codewars random tests
