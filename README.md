@@ -361,7 +361,7 @@
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
-* [Hangman game] (Ruby/Translation/Hangman.rb) - [CodeWars] (https://www.codewars.com/kata/hangman)
+* [Hangman game] (Ruby/Translation/Hangman.rb) - [CodeWars] (http://www.codewars.com/kata/hangman-game)
 * [All Star Code Challenge #2] (Ruby/Translation/AllStar02.rb) - [CodeWars] (https://www.codewars.com/kata/5864001db3a675d9a7000091)
 * [All Star Code Challenge #3] (Ruby/Translation/AllStar03.rb) - [CodeWars] (https://www.codewars.com/kata/58640340b3a675d9a70000b9)
 * [All Star Code Challenge #5] (Ruby/Translation/AllStar05.rb) - [CodeWars] (https://www.codewars.com/kata/5864152183f7e6e834000160)
