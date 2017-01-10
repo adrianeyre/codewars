@@ -358,6 +358,7 @@
 * [Personalising Spammy Marketing Emails] (Ruby/beta/Spammy.rb) - [CodeWars] (https://www.codewars.com/kata/57e402969cb1193746000744)
 * [Grasshopper - Terminal game combat function] (Ruby/beta/TerminalCombat.rb) - [CodeWars] (https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 * [Keep up the hoop] (Ruby/beta/KeepHoop.rb) - [CodeWars] (https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
+* [All Star Code Challenge #16] (Ruby/beta/AllStar16.rb) - [CodeWars] (https://www.codewars.com/kata/586566b773bd9cbe2b000013)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
