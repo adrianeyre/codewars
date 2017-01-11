@@ -105,6 +105,9 @@
 * [Palindrome Strings] (Ruby/8KYU/Palnet.rb) - [CodeWars] (https://www.codewars.com/kata/57a5015d72292ddeb8000b31)
 * [Return to Sanity] (Ruby/8KYU/Sanity.rb) - [CodeWars] (https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 * [Function 3 - multiplying two numbers] (Ruby/8KYU/Multiply2Num.rb) - [CodeWars] (https://www.codewars.com/kata/523b66342d0c301ae400003b)
+* [Reversing Words in a String] (Ruby/8KYU/ReverseString.rb) - [CodeWars] (https://www.codewars.com/kata/57a55c8b72292d057b000594)
+* [Get the mean of an array] (Ruby/8KYU/MeanOfArray.rb) - [CodeWars] (https://www.codewars.com/kata/563e320cee5dddcf77000158)
+* [Stringy Strings] (Ruby/8KYU/StringyString.rb) - [CodeWars] (https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students] (Ruby/7KYU/Suzuki.rb) - [CodeWars] (https://www.codewars.com/kata/5701800886306a876a001031)
@@ -359,6 +362,7 @@
 * [Grasshopper - Terminal game combat function] (Ruby/beta/TerminalCombat.rb) - [CodeWars] (https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 * [Keep up the hoop] (Ruby/beta/KeepHoop.rb) - [CodeWars] (https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
 * [All Star Code Challenge #16] (Ruby/beta/AllStar16.rb) - [CodeWars] (https://www.codewars.com/kata/586566b773bd9cbe2b000013)
+* [CamelCase method] (Ruby/beta/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/5875fcdc3976c554be0003b0)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
