@@ -363,6 +363,7 @@
 * [Keep up the hoop] (Ruby/beta/KeepHoop.rb) - [CodeWars] (https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
 * [All Star Code Challenge #16] (Ruby/beta/AllStar16.rb) - [CodeWars] (https://www.codewars.com/kata/586566b773bd9cbe2b000013)
 * [CamelCase method] (Ruby/beta/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/5875fcdc3976c554be0003b0)
+* [Anagram or not] (Ruby/beta/Anagram.rb) - [CodeWars] (https://www.codewars.com/kata/546274b0eaa31f79c9000d5d)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Ruby/Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
@@ -373,6 +374,11 @@
 * [All Star Code Challenge #6] (Ruby/Translation/AllStar06.rb) - [CodeWars] (https://www.codewars.com/kata/58641f6eb359c4611c0001f2)
 * [All Star Code Challenge #13] (Ruby/Translation/AllStar13.rb) - [CodeWars] (https://www.codewars.com/kata/5864e2c473bd9c67b70002ba)
 * [All Star Code Challenge #18] (Ruby/Translation/AllStar18.rb) - [CodeWars] (https://www.codewars.com/kata/5865918c6b569962950002a1)
+* [Ensure question] (Ruby/Translation/Question.rb) - [CodeWars] (https://www.codewars.com/kata/5866fc43395d9138a7000006)
+* [Stop worrying!] (Ruby/Translation/Worrying.rb) - [CodeWars] (https://www.codewars.com/kata/58555e3db45c01bada0001e0)
+* [Word Count] (Ruby/Translation/WordCount.rb) - [CodeWars] (https://www.codewars.com/kata/586eca1ac66d18eeaf0002d2)
+* [Switch] (Ruby/Translation/Switch.rb) - [CodeWars] (https://www.codewars.com/kata/583c905cb0972b3ad90000ea)
+* [Cost of Shopping] (Ruby/Translation/ShopplingList.rb) - [CodeWars] (https://www.codewars.com/kata/584e4ef56cf17fc491000e0a)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
