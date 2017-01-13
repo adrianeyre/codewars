@@ -194,6 +194,7 @@
 * [Float Precision] (Ruby/7KYU/FloatPrec.rb) - [CodeWara] (https://www.codewars.com/kata/5143d157ceb46d6a61000001)
 * [Naughty or Nice?] (Ruby/7KYU/NaughtyNice.rb) - [CodeWara] (https://www.codewars.com/kata/585eaef9851516fcae00004d)
 * [All Star Code Challenge #1] (Ruby/7KYU/StarCode.rb) - [CodeWara] (https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
+* [Exclamation marks series #8: Move all exclamation marks to the end of the sentence] (Ruby/7KYU/Exclamation.rb) - [CodeWara] (https://www.codewars.com/kata/57fafd0ed80daac48800019f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
