@@ -14,12 +14,16 @@ The second string argument will always be of length 1
 
 =end
 
+Test.assert_equals(strCount('Hello', 'o'), 1);
+Test.assert_equals(strCount('Hello', 'l'), 2);
+Test.assert_equals(strCount('', 'z'), 0)
+
 # My Solution
 def strCount(word, letter)
   word.count(letter)
 end
 
-=begin
+
 # Codewars random tests
 letters = "abcdefghijklmnopqrstuvwxyz"
 letters = letters.split("")
@@ -29,6 +33,10 @@ letters = letters.split("")
   word = word.join
   letter = letters[rand(0..25)]
   solution = strCount2(word, letter)
-  Test.assert_equals(strCount(word, letter),solution,"Expected: '#{solution}'")
+  if (solution.to_s.index(".")..solution.to_s[-1]).length == 1
+    puts here
+    list << { itemName: words[rand(words.length)], price: 0.01 }
+    solution += 0.01
+  end
+  #Test.assert_equals(strCount(word, letter),solution,"Expected: '#{solution}'")
 end
-=end

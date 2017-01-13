@@ -14,9 +14,7 @@ var shoppingList1 = [ { itemName : 'Bread', price : 11.00 },
 
 # My Solution
 def shoppingList(list)
-  total = 0
-  list.each {|i| total += i[:price]}
-  total
+  list.map {|h| h[:price] }.reduce(:+).round(2)
 end
 
 =begin
@@ -28,7 +26,13 @@ words = ["Apples","Bread","Cheese","Tea","Coffee","Eggs","Sugar","Chocolate",
   (1..rand(50)).each do |x|
     list << { itemName: words[rand(words.length)], price: rand(1.0..40.0).round(2) }
   end
-  p solution = shoppingList2(list)
+  solution = shoppingList2(list)
+  temp = solution.to_s
+  if solution.to_s.index(".") == solution.to_s.length - 2
+    list << { itemName: words[rand(words.length)], price: 0.01 }
+    solution += 0.01
+    solution = solution.round(2)
+  end
   Test.assert_equals(shoppingList(list),solution,"Expected: '#{solution}'")
 end
 =end
