@@ -380,6 +380,8 @@
 * [Word Count] (Ruby/Translation/WordCount.rb) - [CodeWars] (https://www.codewars.com/kata/586eca1ac66d18eeaf0002d2)
 * [Switch] (Ruby/Translation/Switch.rb) - [CodeWars] (https://www.codewars.com/kata/583c905cb0972b3ad90000ea)
 * [Cost of Shopping] (Ruby/Translation/ShopplingList.rb) - [CodeWars] (https://www.codewars.com/kata/584e4ef56cf17fc491000e0a)
+* [No yelling!] (Ruby/Translation/NoYelling.rb) - [CodeWars] (https://www.codewars.com/kata/587a75dbcaf9670c32000292)
+* [Alien Accent] (Ruby/Translation/AlienAccent.rb) - [CodeWars] (https://www.codewars.com/kata/alien-accent)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
