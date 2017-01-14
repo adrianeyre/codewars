@@ -33,10 +33,6 @@ letters = letters.split("")
   word = word.join
   letter = letters[rand(0..25)]
   solution = strCount2(word, letter)
-  if (solution.to_s.index(".")..solution.to_s[-1]).length == 1
-    puts here
-    list << { itemName: words[rand(words.length)], price: 0.01 }
-    solution += 0.01
-  end
-  #Test.assert_equals(strCount(word, letter),solution,"Expected: '#{solution}'")
+
+  Test.assert_equals(strCount(word, letter),solution,"Expected: '#{solution}'")
 end
