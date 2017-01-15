@@ -195,6 +195,8 @@
 * [Naughty or Nice?] (Ruby/7KYU/NaughtyNice.rb) - [CodeWars] (https://www.codewars.com/kata/585eaef9851516fcae00004d)
 * [All Star Code Challenge #1] (Ruby/7KYU/StarCode.rb) - [CodeWars] (https://www.codewars.com/kata/5863f97fb3a675d9a700003f)
 * [Exclamation marks series #8: Move all exclamation marks to the end of the sentence] (Ruby/7KYU/Exclamation.rb) - [CodeWars] (https://www.codewars.com/kata/57fafd0ed80daac48800019f)
+* [Make a square box!] (Ruby/7KYU/Box.rb) - [CodeWars] (https://www.codewars.com/kata/58644e8ddf95f81a38001d8d)
+* [Sum of a sequence] (Ruby/7KYU/SumSequence.rb) - [CodeWars] (https://www.codewars.com/kata/586f6741c66d18c22800010a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -382,6 +384,7 @@
 * [Cost of Shopping] (Ruby/Translation/ShopplingList.rb) - [CodeWars] (https://www.codewars.com/kata/584e4ef56cf17fc491000e0a)
 * [No yelling!] (Ruby/Translation/NoYelling.rb) - [CodeWars] (https://www.codewars.com/kata/587a75dbcaf9670c32000292)
 * [Alien Accent] (Ruby/Translation/AlienAccent.rb) - [CodeWars] (https://www.codewars.com/kata/alien-accent)
+* [Series of integers from 0 to n] (Ruby/Translation/SeriesInt.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-0-to-n)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
