@@ -385,6 +385,9 @@
 * [No yelling!] (Ruby/Translation/NoYelling.rb) - [CodeWars] (https://www.codewars.com/kata/587a75dbcaf9670c32000292)
 * [Alien Accent] (Ruby/Translation/AlienAccent.rb) - [CodeWars] (https://www.codewars.com/kata/alien-accent)
 * [Series of integers from 0 to n] (Ruby/Translation/SeriesInt.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-0-to-n)
+* [Sum of numbers from 0 to N] (Ruby/Translation/SunNum.rb) - [CodeWars] (https://www.codewars.com/kata/sum-of-numbers-from-0-to-n)
+* [Count number of zeros from 1 to N] (Ruby/Translation/CountZeros.rb) - [CodeWars] (https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n)
+* [Series of integers from m to n] (Ruby/Translation/SeriesMtoN.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-m-to-n)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
