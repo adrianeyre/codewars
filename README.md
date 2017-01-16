@@ -197,6 +197,7 @@
 * [Exclamation marks series #8: Move all exclamation marks to the end of the sentence] (Ruby/7KYU/Exclamation.rb) - [CodeWars] (https://www.codewars.com/kata/57fafd0ed80daac48800019f)
 * [Make a square box!] (Ruby/7KYU/Box.rb) - [CodeWars] (https://www.codewars.com/kata/58644e8ddf95f81a38001d8d)
 * [Sum of a sequence] (Ruby/7KYU/SumSequence.rb) - [CodeWars] (https://www.codewars.com/kata/586f6741c66d18c22800010a)
+* [All Star Code Challenge #28] (Ruby/7KYU/AllStars28.rb) - [CodeWars] (https://www.codewars.com/kata/5866e6992e8d9cdbcd00040a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (Ruby/6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -391,6 +392,7 @@
 * [Count number of zeros from 1 to N] (Ruby/Translation/CountZeros.rb) - [CodeWars] (https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n)
 * [Series of integers from m to n] (Ruby/Translation/SeriesMtoN.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-m-to-n)
 * [Lottery machine] (Ruby/Translation/Lottery.rb) - [CodeWars] (https://www.codewars.com/kata/lottery-machine)
+* [All Star Code Challenge #22] (Ruby/Translation/AllStars22.rb) - [CodeWars] (https://www.codewars.com/kata/all-star-code-challenge-number-22)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
