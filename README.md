@@ -284,6 +284,8 @@
 * [80's Kids #7: She's a Small Wonder] (Ruby/6KYU/Robot.rb) - [CodeWars] (https://www.codewars.com/kata/56743fd3a12043ffbb000049)
 * [Calculate String Rotation] (Ruby/6KYU/StringRotate.rb) - [CodeWars] (https://www.codewars.com/kata/5596f6e9529e9ab6fb000014)
 * [Street Fighter 2 - Character Selection] (Ruby/6KYU/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/5853213063adbd1b9b0000be)
+* [Collatz] (Ruby/6KYU/Collatz.rb) - [CodeWars] (https://www.codewars.com/kata/5286b2e162056fd0cb000c20)
+* [Change Machine] (Ruby/6KYU/ChangeMachine.rb) - [CodeWars] (https://www.codewars.com/kata/537ece6953efd95e9e000516)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments] (Ruby/5KYU/Reversi.rb) - [CodeWars] (https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -388,6 +390,7 @@
 * [Sum of numbers from 0 to N] (Ruby/Translation/SunNum.rb) - [CodeWars] (https://www.codewars.com/kata/sum-of-numbers-from-0-to-n)
 * [Count number of zeros from 1 to N] (Ruby/Translation/CountZeros.rb) - [CodeWars] (https://www.codewars.com/kata/count-number-of-zeros-from-1-to-n)
 * [Series of integers from m to n] (Ruby/Translation/SeriesMtoN.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-m-to-n)
+* [Lottery machine] (Ruby/Translation/Lottery.rb) - [CodeWars] (https://www.codewars.com/kata/lottery-machine)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Ruby/Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
