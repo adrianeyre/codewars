@@ -1,11 +1,4 @@
-/*
-
-
-
-*/
-
 // My Solution
-
 function driver(data) {
   var result = ""
   var dataArray = new Array();
