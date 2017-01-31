@@ -13,4 +13,4 @@
 * [Driving License] (Authored/DrivingLicense.js) - [CodeWars] (https://www.codewars.com/kata/586a1af1c66d18ad81000134)
 * [Connect 4] (Authored/Connect4.js) - [CodeWars] (https://www.codewars.com/kata/586c0909c1923fdb89002031)
 * [Vending Machine] (Authored/VendingMachine.js) - [CodeWars] (https://www.codewars.com/kata/586e6d4cb98de09e3800014f)
-* [Snakes and Ladders] (Authored/SnakesLadders.js) - [CodeWars] (https://www.codewars.com/kata/587136ba2eefcb92a9000027)
+* [Snakes and Ladders] (Authored/SnakeLadders.js) - [CodeWars] (https://www.codewars.com/kata/587136ba2eefcb92a9000027)
