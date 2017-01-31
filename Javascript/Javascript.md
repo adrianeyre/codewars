@@ -9,4 +9,5 @@
 * [Pre-FizzBuzz Workout #2] (8KYU/FizzBuzz2.js) - [CodeWars] (https://www.codewars.com/kata/569e562b1eed93910f000052)
 
 ### <a name="AUTH">Authored</a>
+* [Maze Runner] (Authored/MazeRunner.js) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
 * [Driving License] (Authored/DrivingLicense.js) - [CodeWars] (https://www.codewars.com/kata/586a1af1c66d18ad81000134)
