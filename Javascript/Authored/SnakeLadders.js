@@ -26,7 +26,6 @@ SnakesLadders.prototype.play = function(die1, die2) {
   return message;
 }
 
-
 /*
 // Codewars Random Tests
 for (i = 1; i < 5; i++) {
