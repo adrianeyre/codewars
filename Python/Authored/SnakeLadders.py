@@ -23,11 +23,11 @@ class SnakesLadders():
             if self.player_square[self.player] == self.trap[t][0]:
                 self.player_square[self.player] = self.trap[t][1]
             message = "Player "+str(self.player+1)+" is on square "+str(self.player_square[self.player])
-            if die1 != die2:
-                if self.player == 0:
-                    self.player = 1
-                else:
-                    self.player = 0
+        if die1 != die2:
+            if self.player == 0:
+                self.player = 1
+            else:
+                self.player = 0
         return message
 
 # # Codewars Random Tests
