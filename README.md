@@ -7,3 +7,6 @@
 
 ## Javascript
 ### [Javascript Solutions] (Javascript/Javascript.md)
+
+## Python
+### [Python Solutions] (Python/Python.md)
