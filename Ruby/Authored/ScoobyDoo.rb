@@ -49,26 +49,26 @@ Good luck!
 =end
 
 # Preloaded data
-class String
-  def house
-    "Step 1: Rotate all letters to the right by 5\nClue: You are close to the monster so you may need to create a 'Disguise'"
-  end
-end
-
-class Disguise
-  def initialize
-    puts "Step 2: Reverse the whole string\nClue: What is the length of Scooby Doo's favourite snack?\nTry using the Integer Array"
-  end
-end
-
-class Integer
-  def eleven
-    "Step 3: Add 5 letters onto every even letter in the Villans Name ie a=>f\nMake sure after the letter z it goes round to a"
-  end
-end
-
-villians = ["Black Knights","Puppet Master","Ghost Clowner","Witch Doctors","Waxed Phantom","Manor Phantom","Ghost Bigfoot","Haunted Horse","Davy Crockett","Captain Injun","Greens Gloobs",
-"Ghostly Manor","Netty Crabbes","King Katazuma","Gators Ghouls","Headless Jack","Mambas Wambas","Medicines Man","Demon Sharker","Kelpy Monster","Gramps Vamper","Phantom Racer","Skeletons Men","Moon Monsters"]
+# class String
+#   def house
+#     "Step 1: Rotate all letters to the right by 5\nClue: You are close to the monster so you may need to create a 'Disguise'"
+#   end
+# end
+#
+# class Disguise
+#   def initialize
+#     puts "Step 2: Reverse the whole string\nClue: What is the length of Scooby Doo's favourite snack?\nTry using the Integer Array"
+#   end
+# end
+#
+# class Integer
+#   def eleven
+#     "Step 3: Add 5 letters onto every even letter in the Villans Name ie a=>f\nMake sure after the letter z it goes round to a"
+#   end
+# end
+#
+# villians = ["Black Knights","Puppet Master","Ghost Clowner","Witch Doctors","Waxed Phantom","Manor Phantom","Ghost Bigfoot","Haunted Horse","Davy Crockett","Captain Injun","Greens Gloobs",
+# "Ghostly Manor","Netty Crabbes","King Katazuma","Gators Ghouls","Headless Jack","Mambas Wambas","Medicines Man","Demon Sharker","Kelpy Monster","Gramps Vamper","Phantom Racer","Skeletons Men","Moon Monsters"]
 
 
 # My Solution
@@ -106,7 +106,6 @@ def scoobydooreverse(villian)
   villian = villian.split("").rotate(5).join
   villian
 end
-
 =begin
 
 Random tests for codewars
@@ -128,6 +127,25 @@ mask = ["nfkxagbntcgd","moekpppmeosv","lxtnocgmeiwj","oyhxtdwnrjtx","hkdzxvwhoon
 
   Test.it("should work for random tests") do
     Test.assert_equals(scoobydoo(mask[b],villians), villians[b])
+  end
+end
+
+letters = "abcdefghijklmnopqrstuvwxwz".split("")
+(0..0).each do |rtest|
+  solution = []
+  n = rand(20) + 1
+  (0..20).each do |v|
+    word = ""
+    (0..n).each do |l|
+      b = rand(letters.length)
+      word << letters[b]
+    end
+    solution << word
+  end
+  start = scoobydooreverse(solution[0])
+
+  Test.it("should work for random tests") do
+    Test.assert_equals(scoobydoo(start,solution), solution[0])
   end
 end
 =end
