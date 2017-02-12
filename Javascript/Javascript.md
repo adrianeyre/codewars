@@ -7,6 +7,7 @@
 * [Max Headroom and JavaScript style] (8KYU/MaxHeadRoom.js) - [CodeWars] (https://www.codewars.com/kata/52a47dd7e950edabfa000391)
 * [Pre-FizzBuzz Workout #1] (8KYU/FizzBuzz1.js) - [CodeWars] (https://www.codewars.com/kata/pre-fizzbuzz-workout-number-1)
 * [Pre-FizzBuzz Workout #2] (8KYU/FizzBuzz2.js) - [CodeWars] (https://www.codewars.com/kata/569e562b1eed93910f000052)
+* [Calculate average] (8KYU/CalAvg.js) - [CodeWars] (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder] (7KYU/NumStarLadder.js) - [CodeWars] (https://www.codewars.com/kata/5631213916d70a0979000066)
