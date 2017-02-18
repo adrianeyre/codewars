@@ -402,3 +402,4 @@
 * [Connect 4] (Authored/Connect4.rb) - [CodeWars] (https://www.codewars.com/kata/586c0909c1923fdb89002031)
 * [Vending Machine] (Authored/VendingMachine.rb) - [CodeWars] (https://www.codewars.com/kata/586e6d4cb98de09e3800014f)
 * [Snakes and Ladders] (Authored/SnakesLadders.rb) - [CodeWars] (https://www.codewars.com/kata/587136ba2eefcb92a9000027)
+* [Mastermind] (Authored/Mastermind.rb) - [CodeWars] (https://www.codewars.com/kata/58a848258a6909dd35000003)
