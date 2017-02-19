@@ -13,7 +13,6 @@ def mastermind(game)
   while answer != "WON!"
     answer = game.check(guess.shuffle)
   end
-
 end
 
 class MasterMind
@@ -22,6 +21,7 @@ class MasterMind
 
   def initialize()
     @result = []
+    @goes = 0
     (1..4).each do |colour|
       @result << Colours[rand(Colours.length)]
     end
@@ -31,8 +31,10 @@ class MasterMind
 
   def check(attempt)
     return "Error" if attempt.length != 4
+    @goes += 1
     return "WON!" if attempt == @result
-    amount = @amount
+    amount = {"Red"=>0, "Blue"=>0, "Green"=>0, "Orange"=>0, "Purple"=>0, "Yellow"=>0}
+    @amount.each{|key,value| amount[key]=value}
     result = []
     new_attempt = []
     attempt.each {|colour| new_attempt << colour}
@@ -41,14 +43,15 @@ class MasterMind
       if colour == @result[index]
         result << "Black"
         amount[colour] -= 1
-        new_attempt.delete_at(index)
+        new_attempt[index] = ""
       end
     end
-
     new_attempt.each do |colour|
-      if amount[colour] > 0
-        result << "White"
-        amount[colour] -= 1
+      if colour != ""
+        if amount[colour] > 0
+          result << "White"
+          amount[colour] -= 1
+        end
       end
     end
     result.shuffle
