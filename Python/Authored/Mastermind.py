@@ -30,7 +30,9 @@ class MasterMind():
         if len(attempt) != 4: return ["Error"]
         if attempt == self.result:
             return "WON!"
-        amount = self.amount
+        amount = {"Red": 0, "Blue": 0, "Green": 0, "Orange": 0, "Purple": 0, "Yellow": 0, "": 0}
+        for colour in self.amount:
+            amount[colour] = self.amount[colour]
         result = []
         new_attempt = []
         for colour in attempt:
