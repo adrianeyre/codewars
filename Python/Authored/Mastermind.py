@@ -10,7 +10,7 @@ def mastermind(game):
         for a in range(0,colour_amount):
             guess.append(colour)
     answer = False
-    while answer != "WON!":
+    while answer != "WON!" and answer != "Error":
         answer = game.check(random.sample(guess, len(guess)))
 
 import random
@@ -28,6 +28,7 @@ class MasterMind():
     def check(self, attempt):
         self.goes += 1
         if len(attempt) != 4: return ["Error"]
+        if self.goes > 60: return ["Error"]
         if attempt == self.result:
             return "WON!"
         amount = {"Red": 0, "Blue": 0, "Green": 0, "Orange": 0, "Purple": 0, "Yellow": 0, "": 0}

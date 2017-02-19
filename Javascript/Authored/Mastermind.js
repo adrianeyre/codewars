@@ -14,6 +14,7 @@ function Mastermind() {
 Mastermind.prototype.check = function(attempt){
   if (attempt.length !== 4) {return "Error";}
   this.goes += 1;
+  if (this.goes > 60) {return "Error";}
   if (attempt.join(',')=== this.result.join(',')){return "WON!";}
   var amount = {"Red": 0, "Blue": 0, "Green": 0, "Orange": 0, "Purple": 0, "Yellow": 0, "": 0};
   var self = this;
@@ -71,9 +72,8 @@ function mastermind(game){
   }
 
   var answer = false;
-  while (answer !== "WON!"){
+  while (answer !== "WON!" && answer != "Error"){
     answer = game.check(shuffle(guess));
-    console.log(answer)
   }
 }
 

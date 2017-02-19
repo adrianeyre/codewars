@@ -10,8 +10,8 @@ def mastermind(game)
   end
   answer = false
 
-  while answer != "WON!"
-    answer = game.check(guess.shuffle)
+  while answer != "WON!" && answer != "Error"
+    p answer = game.check(guess.shuffle)
   end
 end
 
@@ -32,6 +32,8 @@ class MasterMind
   def check(attempt)
     return "Error" if attempt.length != 4
     @goes += 1
+    p @goes
+    return "Error" if @goes>60
     return "WON!" if attempt == @result
     amount = {"Red"=>0, "Blue"=>0, "Green"=>0, "Orange"=>0, "Purple"=>0, "Yellow"=>0}
     @amount.each{|key,value| amount[key]=value}
