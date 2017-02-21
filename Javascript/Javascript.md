@@ -13,7 +13,7 @@
 * [Number-Star ladder] (7KYU/NumStarLadder.js) - [CodeWars] (https://www.codewars.com/kata/5631213916d70a0979000066)
 
 ### <a name="TRAN">Translations</a>
-* [Ten-Pin Bowling] (Beta/Bowling.rb) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
+* [Ten-Pin Bowling] (Beta/Bowling.js) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Authored/MazeRunner.js) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
