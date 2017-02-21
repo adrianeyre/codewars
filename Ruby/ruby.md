@@ -395,6 +395,7 @@
 * [Lottery machine] (Translation/Lottery.rb) - [CodeWars] (https://www.codewars.com/kata/lottery-machine)
 * [All Star Code Challenge #22] (Translation/AllStars22.rb) - [CodeWars] (https://www.codewars.com/kata/all-star-code-challenge-number-22)
 * [Ten-Pin Bowling] (beta/Bowling.rb) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
+* [Mount the Bowling Pins!] (Translation/BowlingPins.rb) - [CodeWars] (https://www.codewars.com/kata/mount-the-bowling-pins)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
