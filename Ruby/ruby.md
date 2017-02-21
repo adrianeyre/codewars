@@ -394,6 +394,7 @@
 * [Series of integers from m to n] (Translation/SeriesMtoN.rb) - [CodeWars] (https://www.codewars.com/kata/series-of-integers-from-m-to-n)
 * [Lottery machine] (Translation/Lottery.rb) - [CodeWars] (https://www.codewars.com/kata/lottery-machine)
 * [All Star Code Challenge #22] (Translation/AllStars22.rb) - [CodeWars] (https://www.codewars.com/kata/all-star-code-challenge-number-22)
+* [Ten-Pin Bowling] (beta/bowling.rb) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Authored/MazeRunner.rb) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
