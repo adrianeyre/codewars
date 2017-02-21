@@ -5,6 +5,7 @@
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling] (Beta/Bowling.py) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
+* [Mount the Bowling Pins!] (Translation/BowlingPins.py) - [CodeWars] (https://www.codewars.com/kata/mount-the-bowling-pins)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner] (Authored/MazeRunner.py) - [CodeWars] (https://www.codewars.com/kata/58663693b359c4a6560001d6)
