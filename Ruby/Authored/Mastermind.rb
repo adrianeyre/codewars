@@ -1,28 +1,18 @@
-# srand(1)
-# def mastermind(game)
-#   colours = ["Red", "Blue", "Green", "Orange", "Purple", "Yellow"]
-#   amount = Hash.new {|key,value| key[value]=0}
-#   guess = []
-#   colours.each do |colour|
-#     answer = game.check([colour, colour, colour, colour])
-#     colour_amount = answer.count("Black")
-#     amount[colour] = colour_amount
-#     (1..colour_amount).each{|c| guess << colour}
-#   end
-#   answer = false
-#
-#   while answer != "WON!" && answer != "Error"
-#     p answer = game.check(guess.shuffle)
-#   end
-# end
-
-srand(1)
-
-
 def mastermind(game)
-  # Your code here
-  answer = game.check(["Yellow", "Orange", "Purple", "Red"])
-  p answer
+  colours = ["Red", "Blue", "Green", "Orange", "Purple", "Yellow"]
+  amount = Hash.new {|key,value| key[value]=0}
+  guess = []
+  colours.each do |colour|
+    answer = game.check([colour, colour, colour, colour])
+    colour_amount = answer.count("Black")
+    amount[colour] = colour_amount
+    (1..colour_amount).each{|c| guess << colour}
+  end
+  answer = false
+
+  while answer != "WON!" && answer != "Error"
+    p answer = game.check(guess.shuffle)
+  end
 end
 
 class MasterMind
