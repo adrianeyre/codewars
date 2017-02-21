@@ -12,6 +12,9 @@
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder] (7KYU/NumStarLadder.js) - [CodeWars] (https://www.codewars.com/kata/5631213916d70a0979000066)
 
+### <a name="BETA">Beta</a>
+* [Mount the Bowling Pins!] (Beta/BowlingPins.js) - [CodeWars] (https://www.codewars.com/kata/mount-the-bowling-pins)
+
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling] (Beta/Bowling.js) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
 
