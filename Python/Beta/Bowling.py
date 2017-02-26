@@ -39,6 +39,9 @@ def checkValue(pin):
 def addSpare(pin):
     return 10 - int(pin)
 
+xs =  bowlingScore('00 00 00 00 00 00 00 00 X 0/X')
+# xs =  bowlingScore('11 11 11 11 11 11 11 11 11 11')
+print xs
 
 # test.it("maybe this bowler should put bumpers on")
 # test.assert_equals(bowlingScore('11 11 11 11 11 11 11 11 11 11'), 20)
