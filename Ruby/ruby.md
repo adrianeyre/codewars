@@ -405,3 +405,4 @@
 * [Vending Machine] (Authored/VendingMachine.rb) - [CodeWars] (https://www.codewars.com/kata/586e6d4cb98de09e3800014f)
 * [Snakes and Ladders] (Authored/SnakesLadders.rb) - [CodeWars] (https://www.codewars.com/kata/587136ba2eefcb92a9000027)
 * [Mastermind] (Authored/Mastermind.rb) - [CodeWars] (https://www.codewars.com/kata/58a848258a6909dd35000003)
+* [Guess Who?] (Authored/GuessWho.rb) - [CodeWars] (https://www.codewars.com/kata/58b2c5de4cf8b90723000051)
