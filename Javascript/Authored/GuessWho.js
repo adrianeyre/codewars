@@ -29,11 +29,11 @@ function GuessWho (character){
 
 GuessWho.prototype.guess = function (guess){
   this.goes ++;
-  for (z=0;z<this.characteristic.length;z++){
-    if (this.characteristic[z][0] === this.character){character_index = z;break;}else{character_index = null;}
+  for (myvari=0;myvari<this.characteristic.length;myvari++){
+    if (this.characteristic[myvari][0] === this.character){character_index = myvari;break;}else{character_index = null;}
   }
   var character_guess = -1;
-  for (i=0;i<this.characteristic.length;i++){if (guess === this.characteristic[i][0]){character_guess = i;}}
+  for (myvari=0;myvari<this.characteristic.length;myvari++){if (guess === this.characteristic[myvari][0]){character_guess = myvari;}}
   if (character_guess !== -1){
     if (guess === this.character){return ["Correct! in "+this.goes.toString()+" turns"];}
     this.characteristic.splice(character_guess,1);
@@ -41,16 +41,16 @@ GuessWho.prototype.guess = function (guess){
   }
   has_it = !this.characteristic[character_index][1].includes(guess);
   that = this;
-  for (i=this.characteristic.length-1;i>=0;i--){
-    if (this.characteristic[i][1].includes(guess) === has_it){this.characteristic.splice(i,1);}
+  for (myvari=this.characteristic.length-1;myvari>=0;myvari--){
+    if (this.characteristic[myvari][1].includes(guess) === has_it){this.characteristic.splice(myvari,1);}
   }
   return return_array(this.characteristic);
 };
 
 function return_array(characters){
   var return_array = [];
-  for (z=0;z<characters.length;z++){
-    return_array.push(characters[z][0]);
+  for (myvaria=0;myvaria<characters.length;myvaria++){
+    return_array.push(characters[myvaria][0]);
   }
   return return_array;
 }
@@ -75,7 +75,7 @@ GuessWhoGuesser.prototype.play = function (){
   var guess = [];
   var game_result = [];
   var game_result2 = [];
-  for(i=0;i<=2;i++){
+  for(myvar=0;myvar<=2;myvar++){
     if (game_result.length != 1){
       guess_it = this.char_options[Math.floor(Math.random() * (this.char_options.length - 1))];
       this.char_options.splice(this.char_options.indexOf(guess_it),1);
