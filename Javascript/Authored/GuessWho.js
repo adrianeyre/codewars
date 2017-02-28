@@ -66,7 +66,7 @@ function GuessWhoGuesser (){
                          "Robert","Charline","Renaud","Michel",
                          "Pierre-Louis","Etienne","Henri","Damien"];
   this.guess_character = this.characteristic[Math.floor(Math.random() * this.characteristic.length)];
-  this.game1 = new GuessWho2(this.guess_character);
+  // this.game1 = new GuessWho2(this.guess_character);
   this.game2 = new GuessWho(this.guess_character);
 }
 
@@ -75,24 +75,26 @@ GuessWhoGuesser.prototype.play = function (){
   var guess = [];
   var game_result = [];
   var game_result2 = [];
-  for(myvar=0;myvar<=2;myvar++){
+  for(myvar=0;myvar<=20;myvar++){
     if (game_result.length != 1){
       guess_it = this.char_options[Math.floor(Math.random() * (this.char_options.length - 1))];
       this.char_options.splice(this.char_options.indexOf(guess_it),1);
     } else {
       guess_it = game_result[0];
     }
-    game_result = this.game1.guess(guess_it);
+    game_result = this.game2.guess(guess_it);
     game_answer = this.game2.guess(guess_it);
-    Test.expect(game_answer=game_result,"Expected: " + game_result);
+    // Test.expect(game_answer,game_result,"Expected: " + game_result);
+    console.log(guess_it)
+    console.log(game_result)
     if (guess_it === this.guess_character){break;}
   }
 };
 
-// for(rtests=0;rtests<=50;rtests++){
-//   guesser = new GuessWhoGuesser();
-//   guesser.play();
-// }
+for(rtests=0;rtests<=1;rtests++){
+  guesser = new GuessWhoGuesser();
+  guesser.play();
+}
 
 // game = new GuessWho("Amelie");
 // console.log(game.guess("Female")) //# ["Amelie", "Mirabelle", "Isabelle", "Christine", "Charline"]
