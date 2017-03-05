@@ -199,6 +199,7 @@
 * [Make a square box!] (7KYU/Box.rb) - [CodeWars] (https://www.codewars.com/kata/58644e8ddf95f81a38001d8d)
 * [Sum of a sequence] (7KYU/SumSequence.rb) - [CodeWars] (https://www.codewars.com/kata/586f6741c66d18c22800010a)
 * [All Star Code Challenge #28] (7KYU/AllStars28.rb) - [CodeWars] (https://www.codewars.com/kata/5866e6992e8d9cdbcd00040a)
+* [Scrabble Score] (7KYU/Scrabble.rb) - [CodeWars] (https://www.codewars.com/kata/558fa34727c2d274c10000ae)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read] (6KYU/ProofRead.rb) - [CodeWars] (https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -371,6 +372,8 @@
 * [All Star Code Challenge #16] (beta/AllStar16.rb) - [CodeWars] (https://www.codewars.com/kata/586566b773bd9cbe2b000013)
 * [CamelCase method] (beta/CamelCase.rb) - [CodeWars] (https://www.codewars.com/kata/5875fcdc3976c554be0003b0)
 * [Anagram or not] (beta/Anagram.rb) - [CodeWars] (https://www.codewars.com/kata/546274b0eaa31f79c9000d5d)
+* [Alex & snooker: scores.] (beta/snooker.rb) - [CodeWars] (https://www.codewars.com/kata/58b28e5830473070e5000007)
+* [Spanish Pirates off the Treasure Coast] (beta/snooker.rb) - [CodeWars] (https://www.codewars.com/kata/58b6d8ba1697a5655d00009b)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2] (Translation/StreetFighter2.rb) - [CodeWars] (https://www.codewars.com/kata/58583922c1d5b415b00000ff)
