@@ -14,6 +14,9 @@
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!] (Beta/BowlingPins.js) - [CodeWars] (https://www.codewars.com/kata/mount-the-bowling-pins)
+* [Who's Next in Line?] (Beta/NextLine.js) - [CodeWars] (https://www.codewars.com/kata/582b327fc19013405e000014)
+* [Who am I?] (Beta/WhoAmI.js) - [CodeWars] (https://www.codewars.com/kata/5799a2d13467dbc64900094b)
+* [Super Duper Easy] (Beta/Easy.js) - [CodeWars] (https://www.codewars.com/kata/55a5bfaa756cfede78000026)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling] (Beta/Bowling.js) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
