@@ -8,6 +8,7 @@
 * [Who am I?] (Beta/WhoAmI.py) - [CodeWars] (https://www.codewars.com/kata/5799a2d13467dbc64900094b)
 * [Who ate the cookie?] (Beta/Cookie.py) - [CodeWars] (https://www.codewars.com/kata/55a996e0e8520afab9000055)
 * [Super Duper Easy] (Beta/Easy.py) - [CodeWars] (https://www.codewars.com/kata/55a5bfaa756cfede78000026)
+* [2 numbers, 1 solution] (Beta/2Numbers.py) - [CodeWars] (https://www.codewars.com/kata/58b81b350e8b4275530000c7)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling] (Beta/Bowling.py) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
