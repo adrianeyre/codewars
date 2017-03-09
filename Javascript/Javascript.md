@@ -11,12 +11,14 @@
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder] (7KYU/NumStarLadder.js) - [CodeWars] (https://www.codewars.com/kata/5631213916d70a0979000066)
+* [Driving School Series #1] (7KYU/DrivingSchool1.js) - [CodeWars] (https://www.codewars.com/kata/58999425006ee3f97c00011f)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!] (Beta/BowlingPins.js) - [CodeWars] (https://www.codewars.com/kata/mount-the-bowling-pins)
 * [Who's Next in Line?] (Beta/NextLine.js) - [CodeWars] (https://www.codewars.com/kata/582b327fc19013405e000014)
 * [Who am I?] (Beta/WhoAmI.js) - [CodeWars] (https://www.codewars.com/kata/5799a2d13467dbc64900094b)
 * [Super Duper Easy] (Beta/Easy.js) - [CodeWars] (https://www.codewars.com/kata/55a5bfaa756cfede78000026)
+* [Number Manipulation I (Easy)] (Beta/Manipulation.js) - [CodeWars] (https://www.codewars.com/kata/5890579a34a7d44f3b00009e)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling] (Beta/Bowling.js) - [CodeWars] (https://www.codewars.com/kata/ten-pin-bowling)
