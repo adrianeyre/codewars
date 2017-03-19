@@ -1,20 +1,20 @@
 // My Solution
 function driver(data) {
-  var result = ""
+  var result = "";
   var dataArray = new Array();
   var months = {'Jan' : '01','Feb' : '02', 'Mar' : '03', 'Apr' : '04', 'May' : '05', 'Jun' : '06', 'Jul' : '07', 'Aug' : '08', 'Sep' : '09', 'Oct' : '10', 'Nov' : '11', 'Dec' : '12'};
   dateArray = data[3].split('-');
   var month = months[dateArray[1].substring(0,3)];
 
   // 1-5
-  data[2] += "99999"
-  result += data[2].substring(0,5)
+  data[2] += "99999";
+  result += data[2].substring(0,5);
 
   // 6
   result += dateArray[2][2];
 
   // 7-8
-  if (data[4] === "M") { result += month} else { result +=  String(parseInt(month) + 50)}
+  if (data[4] === "M") { result += month;} else { result +=  String(parseInt(month) + 50);}
 
   // 9-10
   result += dateArray[0];
@@ -23,8 +23,8 @@ function driver(data) {
   result += dateArray[2][3];
 
   // 12-13
-  result += data[0][0]
-  if (data[1] === "") {result+="9"} else {result+=data[1][0]};
+  result += data[0][0];
+  if (data[1] === "") {result+="9";} else {result+=data[1][0];}
 
   // 14-16
   result += "9AA";
