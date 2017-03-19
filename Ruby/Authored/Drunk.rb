@@ -1,9 +1,9 @@
 require 'time'
 
-def can_drive(drinks, finished, drive_time)
+def drive(drinks, finished, drive_time)
   total_units = 0
   drinks.each do |drink|
-    total_units += drink[0] * drink[1] / 1000
+    total_units += drink[0].to_f * drink[1].to_f / 1000
   end
   finished = Time.parse(finished)
   drive_time = Time.parse(drive_time)
@@ -11,11 +11,13 @@ def can_drive(drinks, finished, drive_time)
     drive_time += 86400
   end
   time_when_can_drive = finished + (total_units * 3600)
-
   [total_units.round(2), time_when_can_drive < drive_time]
 end
 
-# p can_drive([[10.0,100]], "20:00", "21:00")
+# alcohol = [[10.0,100]]
+# p drive(alcohol,"20:00", "21:01")
+
+# p drive([[10.0,100],[10.0,100]], "20:00", "21:00")
 
 # srand
 # (0..250).each do |cwtests|
