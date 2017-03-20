@@ -10,3 +10,9 @@
 
 ## Python
 ### [Python Solutions](Python/Python.md)
+
+## C#
+### [C# Solutions](CSharp/CSharp.md)
+
+## SQL
+### [SQL Solutions](SQL/SQL.md)
