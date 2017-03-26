@@ -85,8 +85,9 @@ GuessWhoGuesser.prototype.play = function (){
     game_result = this.game2.guess(guess_it);
     game_answer = this.game2.guess(guess_it);
     // Test.expect(game_answer,game_result,"Expected: " + game_result);
-    console.log(guess_it)
-    console.log(game_result)
+    // console.log(guess_it)
+    // game_result = [].concat.apply([], game_result)
+    console.log(game_result.toString())
     if (guess_it === this.guess_character){break;}
   }
 };

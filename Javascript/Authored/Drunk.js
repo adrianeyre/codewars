@@ -12,13 +12,13 @@ function drive(drinks, finished, drive_time) {
   return [Number(total_units.toFixed(2)),time_when_can_drive < drive_time];
 }
 
-// for (tests = 1; tests <= 250; tests++) {
-//   var drinks_li = [];
-//   for (dr = 1; dr <= Math.floor(Math.random() * 20)+1; dr++) {
-//     drinks_li.push([parseFloat((Math.random() * 20).toFixed(2)), Math.floor(Math.random() * 500)+75]);
-//   }
-//   ft = String(Math.floor(Math.random() * 12)+10) + ":" + String(Math.floor(Math.random() * 49)+10);
-//   dt = String(Math.floor(Math.random() * 12)+10) + ":" + String(Math.floor(Math.random() * 49)+10);
-//   solution = drive_tester(drinks_li, ft, dt);
-//   console.log(solution);
-// }
+for (tests = 1; tests <= 250; tests++) {
+  var drinks_li = [];
+  for (dr = 1; dr <= Math.floor(Math.random() * 20)+1; dr++) {
+    drinks_li.push([parseFloat((Math.random() * 20).toFixed(2)), Math.floor(Math.random() * 500)+75]);
+  }
+  ft = String(Math.floor(Math.random() * 12)+10) + ":" + String(Math.floor(Math.random() * 49)+10);
+  dt = String(Math.floor(Math.random() * 12)+10) + ":" + String(Math.floor(Math.random() * 49)+10);
+  solution = drive(drinks_li, ft, dt);
+  console.log(solution);
+}
