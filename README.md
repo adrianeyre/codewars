@@ -16,3 +16,6 @@
 
 ## SQL
 ### [SQL Solutions](SQL/SQL.md)
+
+## Swift
+### [Swift Solutions](Swift/Swift.md)
