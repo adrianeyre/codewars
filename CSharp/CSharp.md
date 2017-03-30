@@ -16,4 +16,4 @@
 * [Am I safe to drive?](Authored/Drunk.cs) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
 * [Snakes and Ladders](Authored/snakes.cs) - [CodeWars](https://www.codewars.com/kata/587136ba2eefcb92a9000027)
 * [Maze Runner](Authored/maze.cs) - [CodeWars](https://www.codewars.com/kata/58663693b359c4a6560001d6)
-* [Connect 4](Authored/Connect4.cs) - [CodeWars](https://www.codewars.com/kata/586c0909c1923fdb89002031)
+* [Connect 4](Authored/connect4.cs) - [CodeWars](https://www.codewars.com/kata/586c0909c1923fdb89002031)
