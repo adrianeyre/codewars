@@ -11,8 +11,6 @@
 * [Welcome!](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
 * [A + B](ab/welcome.cs) - [CodeWars](https://www.codewars.com/kata/5512a0b0509063e57d0003f5)
 
-### <a name="7KYU">7 KYU</a>
-
 ### <a name="AUTH">Authored</a>
 * [Driving License](Authored/DrivingLicense.cs) - [CodeWars](https://www.codewars.com/kata/586a1af1c66d18ad81000134)
 * [Am I safe to drive?](Authored/Drunk.cs) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
