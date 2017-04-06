@@ -8,5 +8,3 @@
 * [1. Find all active students](8KYU/Active.sql) - [CodeWars](https://www.codewars.com/kata/5809b9ef88b750ab180001ec)
 * [SQL Basics: Simple DISTINCT](8KYU/Distinct.sql) - [CodeWars](https://www.codewars.com/kata/58111670e10b53be31000108)
 * [SQL Grasshopper: Select Columns](8KYU/Grasshopper.sql) - [CodeWars](https://www.codewars.com/kata/582365c18917435ab3000020)
-
-### <a name="7KYU">7 KYU</a>
