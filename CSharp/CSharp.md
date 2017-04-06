@@ -9,7 +9,17 @@
 * [Bin to Decimal](8KYU/bindec.cs) - [CodeWars](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334)
 * [Subtract the Sum](8KYU/subsum.cs) - [CodeWars](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)
 * [Welcome!](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
-* [A + B](ab/welcome.cs) - [CodeWars](https://www.codewars.com/kata/5512a0b0509063e57d0003f5)
+* [A + B](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/5512a0b0509063e57d0003f5)
+
+### <a name="7KYU">7 KYU</a>
+* [Sum of numbers from 0 to N](7KYU/Sum0ToN.cs) - [CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
+* [Simple Fun #131: Learn Charitable Game](7KYU/Charitable.cs) - [CodeWars](https://www.codewars.com/kata/58a651ff27f95429f80000d0)
+* [Simple Fun #124: Lamps](7KYU/Lamps.cs) - [CodeWars](https://www.codewars.com/kata/58a3c1f12f949e21b300005c3)
+* [Histogram - H1](7KYU/Histogram.cs) - [CodeWars](https://www.codewars.com/kata/57d532d2164a67cded0001c7)
+* [Simple Fun #28: Html End Tag By Start Tag](7KYU/Tag.cs) - [CodeWars](https://www.codewars.com/kata/5886f3713a111b620f0000dc)
+
+### <a name="6KYU">6 KYU</a>
+* [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)
 
 ### <a name="AUTH">Authored</a>
 * [Driving License](Authored/DrivingLicense.cs) - [CodeWars](https://www.codewars.com/kata/586a1af1c66d18ad81000134)
