@@ -10,6 +10,7 @@
 * [Subtract the Sum](8KYU/subsum.cs) - [CodeWars](https://www.codewars.com/kata/56c5847f27be2c3db20009c3)
 * [Welcome!](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
 * [A + B](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/5512a0b0509063e57d0003f5)
+* [Rock Paper Scissors!](8KYU/rps.cs) - [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
 ### <a name="7KYU">7 KYU</a>
 * [Sum of numbers from 0 to N](7KYU/Sum0ToN.cs) - [CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
@@ -20,6 +21,11 @@
 
 ### <a name="6KYU">6 KYU</a>
 * [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)
+* [Multiples of 3 and 5](6KYU/Multiples3and5.cs) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+* [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+
+### <a name="5KYU">5 KYU</a>
+* [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
 ### <a name="AUTH">Authored</a>
 * [Driving License](Authored/DrivingLicense.cs) - [CodeWars](https://www.codewars.com/kata/586a1af1c66d18ad81000134)
