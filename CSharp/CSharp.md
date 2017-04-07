@@ -11,6 +11,9 @@
 * [Welcome!](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
 * [A + B](8KYU/welcome.cs) - [CodeWars](https://www.codewars.com/kata/5512a0b0509063e57d0003f5)
 * [Rock Paper Scissors!](8KYU/rps.cs) - [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+* [Keep up the hoop](8KYU/hoop.cs) - [CodeWars](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
+* [Number of People in the Bus](8KYU/bus.cs) - [CodeWars](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+* [Simple Fun #1: Seats in Theater](8KYU/theatre.cs) - [CodeWars](https://www.codewars.com/kata/588417e576933b0ec9000045))
 
 ### <a name="7KYU">7 KYU</a>
 * [Sum of numbers from 0 to N](7KYU/Sum0ToN.cs) - [CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
@@ -25,7 +28,10 @@
 * [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 ### <a name="5KYU">5 KYU</a>
-* [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [Valid Braces](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
+
+### <a name="4KYU">4 KYU</a>
+* [Convert string to camel case](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
 ### <a name="TRANS">Translations</a>
 * [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
