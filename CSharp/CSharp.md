@@ -27,6 +27,9 @@
 ### <a name="5KYU">5 KYU</a>
 * [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
+### <a name="TRANS">Translations</a>
+* [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
+
 ### <a name="AUTH">Authored</a>
 * [Driving License](Authored/DrivingLicense.cs) - [CodeWars](https://www.codewars.com/kata/586a1af1c66d18ad81000134)
 * [Am I safe to drive?](Authored/Drunk.cs) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
