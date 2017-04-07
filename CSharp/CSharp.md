@@ -28,10 +28,10 @@
 * [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 ### <a name="5KYU">5 KYU</a>
-* [Valid Braces](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
+* [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 
 ### <a name="4KYU">4 KYU</a>
-* [Convert string to camel case](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [Valid Braces](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
 ### <a name="TRANS">Translations</a>
 * [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
