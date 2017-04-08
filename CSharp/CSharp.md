@@ -14,6 +14,7 @@
 * [Keep up the hoop](8KYU/hoop.cs) - [CodeWars](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145)
 * [Number of People in the Bus](8KYU/bus.cs) - [CodeWars](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 * [Simple Fun #1: Seats in Theater](8KYU/theatre.cs) - [CodeWars](https://www.codewars.com/kata/588417e576933b0ec9000045))
+* [To square(root) or not to square(root)](8KYU/squareroot.cs) - [CodeWars](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
 
 ### <a name="7KYU">7 KYU</a>
 * [Sum of numbers from 0 to N](7KYU/Sum0ToN.cs) - [CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
