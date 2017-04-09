@@ -34,6 +34,7 @@
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [Connect Four](4KYU/ConnectFour.cs) - [CodeWars](https://www.codewars.com/kata/56882731514ec3ec3d000009)
 
 ### <a name="TRANS">Translations</a>
 * [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
