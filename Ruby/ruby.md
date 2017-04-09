@@ -399,6 +399,7 @@
 * [All Star Code Challenge #22](Translation/AllStars22.rb) - [CodeWars](https://www.codewars.com/kata/all-star-code-challenge-number-22)
 * [Ten-Pin Bowling](beta/Bowling.rb) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)
 * [Mount the Bowling Pins!](Translation/BowlingPins.rb) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
+* [Battle ships: Sunk damaged or not touched?](Translation/BattleShips.rb) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner](Authored/MazeRunner.rb) - [CodeWars](https://www.codewars.com/kata/58663693b359c4a6560001d6)
