@@ -3,10 +3,9 @@
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRAN) | [Authored](#AUTH)
 
-### <a name="8KYU">8 KYU</a>
-
 ### <a name="6KYU">6 KYU</a>
 * [Doors in the school](6KYU/Doors.py) - [CodeWars](https://www.codewars.com/kata/57c15d314677bb2bd4000017)
+* [Fizz / Buzz](6KYU/FizzBuzz.py) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
 
 ### <a name="BETA">Beta</a>
 * [Smart Traffic Lights 1](Beta/.py) - [CodeWars](https://www.codewars.com/kata/58587905ed1b4dad6e0000c6)

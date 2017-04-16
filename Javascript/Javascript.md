@@ -13,12 +13,19 @@
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
 * [Driving School Series #1](7KYU/DrivingSchool1.js) - [CodeWars](https://www.codewars.com/kata/58999425006ee3f97c00011f)
 
+### <a name="7KYU">7 KYU</a>
+* [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
+
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
 * [Who's Next in Line?](Beta/NextLine.js) - [CodeWars](https://www.codewars.com/kata/582b327fc19013405e000014)
 * [Who am I?](Beta/WhoAmI.js) - [CodeWars](https://www.codewars.com/kata/5799a2d13467dbc64900094b)
 * [Super Duper Easy](Beta/Easy.js) - [CodeWars](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
 * [Number Manipulation I (Easy)](Beta/Manipulation.js) - [CodeWars](https://www.codewars.com/kata/5890579a34a7d44f3b00009e)
+* [Northwest and Southeast corners](Beta/NorthSouth.js) - [CodeWars](https://www.codewars.com/kata/58ed139326f519019a000053)
+* [Count the Number of Words in a Sentence](Beta/CountWords.js) - [CodeWars](https://www.codewars.com/kata/58ed00fef70c1219b8000103)
+* [Wise drunk man](Beta/Drunk.js) - [CodeWars](https://www.codewars.com/kata/58e953ace87e856a97000046)
+* [Counting like a kid.](Beta/CountKid.js) - [CodeWars](https://www.codewars.com/kata/58e8c25806db4de3da00011c)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

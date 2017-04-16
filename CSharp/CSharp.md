@@ -17,6 +17,8 @@
 * [To square(root) or not to square(root)](8KYU/squareroot.cs) - [CodeWars](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
 * [Invert values](8KYU/invertvalues.cs) - [CodeWars](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
 * [Multiply](8KYU/multiply.cs) - [CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004)
+* [Enumerable Magic #3 - Does My List Include This?](8KYU/Enumerable.cs) - [CodeWars](https://www.codewars.com/kata/545991b4cbae2a5fda000158)
+* [Swap Values](8KYU/swap.cs) - [CodeWars](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)
 
 ### <a name="7KYU">7 KYU</a>
 * [Sum of numbers from 0 to N](7KYU/Sum0ToN.cs) - [CodeWars](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763)
@@ -29,6 +31,7 @@
 * [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)
 * [Multiples of 3 and 5](6KYU/Multiples3and5.cs) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* [Build Tower](6KYU/BuildTower.cs) - [CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 
 ### <a name="5KYU">5 KYU</a>
 * [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
