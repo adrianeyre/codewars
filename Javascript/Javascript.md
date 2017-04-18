@@ -40,3 +40,4 @@
 * [Guess Who?](Authored/GuessWho.js) - [CodeWars](https://www.codewars.com/kata/58b2c5de4cf8b90723000051)
 * [Am I safe to drive?](Authored/Drunk.js) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
 * [Scooby Doo Puzzle](Authored/scooby.js) - [CodeWars](https://www.codewars.com/kata/58693bbfd7da144164000d05)
+* [Mexican Wave](Authored/Wave.js) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
