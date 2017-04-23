@@ -32,6 +32,7 @@
 * [Multiples of 3 and 5](6KYU/Multiples3and5.cs) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Build Tower](6KYU/BuildTower.cs) - [CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+* [Count the smiley faces!](6KYU/Smile.cs) - [CodeWars](https://www.codewars.com/kata/583203e6eb35d7980400002a)
 
 ### <a name="5KYU">5 KYU</a>
 * [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
@@ -39,6 +40,9 @@
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [Connect Four](4KYU/ConnectFour.cs) - [CodeWars](https://www.codewars.com/kata/56882731514ec3ec3d000009)
+
+### <a name="Beta">Beta</a>
+* [Number of Decimal Digits](Beta/Decimal.cs) - [CodeWars](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
 
 ### <a name="TRANS">Translations</a>
 * [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
