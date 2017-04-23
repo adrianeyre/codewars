@@ -8,13 +8,16 @@
 * [Pre-FizzBuzz Workout #1](8KYU/FizzBuzz1.js) - [CodeWars](https://www.codewars.com/kata/pre-fizzbuzz-workout-number-1)
 * [Pre-FizzBuzz Workout #2](8KYU/FizzBuzz2.js) - [CodeWars](https://www.codewars.com/kata/569e562b1eed93910f000052)
 * [Calculate average](8KYU/CalAvg.js) - [CodeWars](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+* [Find the first non-consecutive number](8KYU/First.js) - [CodeWars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
 * [Driving School Series #1](7KYU/DrivingSchool1.js) - [CodeWars](https://www.codewars.com/kata/58999425006ee3f97c00011f)
+* [Negation of a Value](7KYU/Value.js) - [CodeWars](https://www.codewars.com/kata/58f6f87a55d759439b000073)
 
-### <a name="7KYU">7 KYU</a>
+### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
+* [Selective Array Reversing](6KYU/Select.js) - [CodeWars](https://www.codewars.com/kata/58f6000bc0ec6451960000fd)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -26,6 +29,8 @@
 * [Count the Number of Words in a Sentence](Beta/CountWords.js) - [CodeWars](https://www.codewars.com/kata/58ed00fef70c1219b8000103)
 * [Wise drunk man](Beta/Drunk.js) - [CodeWars](https://www.codewars.com/kata/58e953ace87e856a97000046)
 * [Counting like a kid.](Beta/CountKid.js) - [CodeWars](https://www.codewars.com/kata/58e8c25806db4de3da00011c)
+* [Get Password from grid](Beta/Password.js) - [CodeWars](https://www.codewars.com/kata/58f6e7e455d7597dcc000045)
+* [Dora Explores! Help Dora keep her lassi](Beta/Dora.js) - [CodeWars](https://www.codewars.com/kata/58f9fda15b7df65fca000004)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)
