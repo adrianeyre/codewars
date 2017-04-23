@@ -373,7 +373,7 @@
 * [CamelCase method](beta/CamelCase.rb) - [CodeWars](https://www.codewars.com/kata/5875fcdc3976c554be0003b0)
 * [Anagram or not](beta/Anagram.rb) - [CodeWars](https://www.codewars.com/kata/546274b0eaa31f79c9000d5d)
 * [Alex & snooker: scores.](beta/snooker.rb) - [CodeWars](https://www.codewars.com/kata/58b28e5830473070e5000007)
-* [Spanish Pirates off the Treasure Coast](beta/snooker.rb) - [CodeWars](https://www.codewars.com/kata/58b6d8ba1697a5655d00009b)
+* [Spanish Pirates off the Treasure Coast](beta/Pirate.rb) - [CodeWars](https://www.codewars.com/kata/58b6d8ba1697a5655d00009b)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2](Translation/StreetFighter2.rb) - [CodeWars](https://www.codewars.com/kata/58583922c1d5b415b00000ff)
