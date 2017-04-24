@@ -46,3 +46,4 @@
 * [Am I safe to drive?](Authored/Drunk.js) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
 * [Scooby Doo Puzzle](Authored/scooby.js) - [CodeWars](https://www.codewars.com/kata/58693bbfd7da144164000d05)
 * [Mexican Wave](Authored/Wave.js) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+* [Complete the Square](Authored/Square.js) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)

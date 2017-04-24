@@ -54,3 +54,4 @@
 * [Maze Runner](Authored/maze.cs) - [CodeWars](https://www.codewars.com/kata/58663693b359c4a6560001d6)
 * [Connect 4](Authored/connect4.cs) - [CodeWars](https://www.codewars.com/kata/586c0909c1923fdb89002031)
 * [Mexican Wave](Authored/wave.cs) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+* [Complete the Square](Authored/Square.cs) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
