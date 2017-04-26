@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 
 namespace CodeWars
@@ -48,15 +47,9 @@ namespace CodeWars
                     if (num != 0) { checkmysquare(new int[] { n + 1, n - board, n + board + 1 }); }
                     if (num != 1) { checkmysquare(new int[] { n - 1, n + board, n - board - 1 }); }
                 }
-
             }
-            List<int> result = new List<int>();
             lines.Sort((a, b) => (a.CompareTo(b)));
-            foreach (var x in lines)
-            {
-                result.Add(x);
-            }
-            return result;
+            return lines;
         }
 
         public void checkmysquare(int[] arr)
@@ -67,13 +60,13 @@ namespace CodeWars
             {
                 int x = arr[v];
                 bool there = false;
-                for(int t=0; t<lines.Count; t++)
+                for(int t=0; t< lines.Count; t++)
                 {
-                    if (lines[t] == x) { there = true; num2++; }
+                    if (lines[t] == x) { there = true; }
                 }
-                if (!there) { xt = x; }
+                if (there) { num2++; } else { xt = x; }
             }
-            if (num2 == arr.Length-1) { lines.Add(xt); }
+            if (num2 == 2) { lines.Add(xt); }
         }
     }
 }
