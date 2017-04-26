@@ -412,4 +412,4 @@
 * [Guess Who?](Authored/GuessWho.rb) - [CodeWars](https://www.codewars.com/kata/58b2c5de4cf8b90723000051)
 * [Am I safe to drive?](Authored/Drunk.rb) - [CodeWars](https://www.codewars.com/kata/58ce88427e6c3f41c2000087)
 * [Mexican Wave](Authored/Wave.rb) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
-* [Complete the Square](Authored/Square.rb) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
+* [Pigs in a Pen](Authored/Square.rb) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
