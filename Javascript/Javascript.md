@@ -9,11 +9,13 @@
 * [Pre-FizzBuzz Workout #2](8KYU/FizzBuzz2.js) - [CodeWars](https://www.codewars.com/kata/569e562b1eed93910f000052)
 * [Calculate average](8KYU/CalAvg.js) - [CodeWars](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 * [Find the first non-consecutive number](8KYU/First.js) - [CodeWars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
+* [String cleaning](8KYU/Clean.js) - [CodeWars](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
 * [Driving School Series #1](7KYU/DrivingSchool1.js) - [CodeWars](https://www.codewars.com/kata/58999425006ee3f97c00011f)
 * [Negation of a Value](7KYU/Value.js) - [CodeWars](https://www.codewars.com/kata/58f6f87a55d759439b000073)
+* [Most digits](7KYU/Digits.js) - [CodeWars](https://www.codewars.com/kata/58daa7617332e59593000006)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -31,6 +33,8 @@
 * [Counting like a kid.](Beta/CountKid.js) - [CodeWars](https://www.codewars.com/kata/58e8c25806db4de3da00011c)
 * [Get Password from grid](Beta/Password.js) - [CodeWars](https://www.codewars.com/kata/58f6e7e455d7597dcc000045)
 * [Dora Explores! Help Dora keep her lassi](Beta/Dora.js) - [CodeWars](https://www.codewars.com/kata/58f9fda15b7df65fca000004)
+* [Level Upgrade in RPG Game](Beta/RPG.js) - [CodeWars](https://www.codewars.com/kata/58fe12b3184b6d2911000040)
+* [Frank's Sticky Calculator](Beta/Calc.js) - [CodeWars](https://www.codewars.com/kata/5900750cb7c6172207000054)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)
