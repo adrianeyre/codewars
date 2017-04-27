@@ -48,18 +48,5 @@ class Game
   end
 end
 
-def makesquare(n)
-  srand
-  sq = []
-  max = 2*n*n+(n*2)-1
-  (1..rand(max*2)).each do |x|
-    num = 0
-    num = rand(max)+1
-    sq << num if !sq.include? num
-  end
-  sq.sort
-end
-
-
-game = Game.new(4)
-p game.play([20,21,24,26,33,34,35,38,39])
+game = Game.new(2)
+p game.play([1,3,4])
