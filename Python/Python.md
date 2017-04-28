@@ -33,3 +33,4 @@
 * [Scooby Doo Puzzle](Authored/scooby.py) - [CodeWars](https://www.codewars.com/kata/58693bbfd7da144164000d05)
 * [Mexican Wave](Authored/Wave.py) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 * [Pigs in a Pen](Authored/Square.py) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
+* [Hungry Hippos](Authored/Hippo.py) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
