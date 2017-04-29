@@ -16,10 +16,13 @@
 * [Driving School Series #1](7KYU/DrivingSchool1.js) - [CodeWars](https://www.codewars.com/kata/58999425006ee3f97c00011f)
 * [Negation of a Value](7KYU/Value.js) - [CodeWars](https://www.codewars.com/kata/58f6f87a55d759439b000073)
 * [Most digits](7KYU/Digits.js) - [CodeWars](https://www.codewars.com/kata/58daa7617332e59593000006)
+* [Flatten and sort an array](7KYU/Flatten.js) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
 * [Selective Array Reversing](6KYU/Select.js) - [CodeWars](https://www.codewars.com/kata/58f6000bc0ec6451960000fd)
+* [Bingo Card](6KYU/Bingo.js) - [CodeWars](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
+* [Replace With Alphabet Position](6KYU/Replace.js) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -35,6 +38,7 @@
 * [Dora Explores! Help Dora keep her lassi](Beta/Dora.js) - [CodeWars](https://www.codewars.com/kata/58f9fda15b7df65fca000004)
 * [Level Upgrade in RPG Game](Beta/RPG.js) - [CodeWars](https://www.codewars.com/kata/58fe12b3184b6d2911000040)
 * [Frank's Sticky Calculator](Beta/Calc.js) - [CodeWars](https://www.codewars.com/kata/5900750cb7c6172207000054)
+* [replace a string with * except the first letter](Beta/ReplaceFirst.js) - [CodeWars](https://www.codewars.com/kata/58b7fafd0571aa5f44000038)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

@@ -200,6 +200,7 @@
 * [Sum of a sequence](7KYU/SumSequence.rb) - [CodeWars](https://www.codewars.com/kata/586f6741c66d18c22800010a)
 * [All Star Code Challenge #28](7KYU/AllStars28.rb) - [CodeWars](https://www.codewars.com/kata/5866e6992e8d9cdbcd00040a)
 * [Scrabble Score](7KYU/Scrabble.rb) - [CodeWars](https://www.codewars.com/kata/558fa34727c2d274c10000ae)
+* [Flatten and sort an array](7KYU/Flatten.rb) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)

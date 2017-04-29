@@ -6,9 +6,13 @@
 ### <a name="8KYU">8 KYU</a>
 * [Find Multiples of a Number](6KYU/FindNumber.py) - [CodeWars](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 
+### <a name="7KYU">7 KYU</a>
+* [Flatten and sort an array](7KYU/Flatten.py) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+
 ### <a name="6KYU">6 KYU</a>
 * [Doors in the school](6KYU/Doors.py) - [CodeWars](https://www.codewars.com/kata/57c15d314677bb2bd4000017)
 * [Fizz / Buzz](6KYU/FizzBuzz.py) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
+* [Replace With Alphabet Position](6KYU/Replace.py) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
 ### <a name="BETA">Beta</a>
 * [Smart Traffic Lights 1](Beta/.py) - [CodeWars](https://www.codewars.com/kata/58587905ed1b4dad6e0000c6)
