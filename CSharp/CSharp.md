@@ -56,3 +56,4 @@
 * [Mexican Wave](Authored/wave.cs) - [CodeWars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
 * [Pigs in a Pen](Authored/Square.cs) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
 * [Hungry Hippos](Authored/Hippo.cs) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
+* [Plenty of Fish in the Pond](Authored/Fish.cs) - [CodeWars](https://www.codewars.com/kata/5904be220881cb68be00007d)
