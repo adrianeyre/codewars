@@ -201,6 +201,7 @@
 * [All Star Code Challenge #28](7KYU/AllStars28.rb) - [CodeWars](https://www.codewars.com/kata/5866e6992e8d9cdbcd00040a)
 * [Scrabble Score](7KYU/Scrabble.rb) - [CodeWars](https://www.codewars.com/kata/558fa34727c2d274c10000ae)
 * [Flatten and sort an array](7KYU/Flatten.rb) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+* [Ordering the words!](7KYU/Order.rb) - [CodeWars](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -290,6 +291,7 @@
 * [Street Fighter 2 - Character Selection](6KYU/StreetFighter2.rb) - [CodeWars](https://www.codewars.com/kata/5853213063adbd1b9b0000be)
 * [Collatz](6KYU/Collatz.rb) - [CodeWars](https://www.codewars.com/kata/5286b2e162056fd0cb000c20)
 * [Change Machine](6KYU/ChangeMachine.rb) - [CodeWars](https://www.codewars.com/kata/537ece6953efd95e9e000516)
+* [Guess the number!](6KYU/Guess.rb) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments](5KYU/Reversi.rb) - [CodeWars](https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -376,6 +378,7 @@
 * [Alex & snooker: scores.](beta/snooker.rb) - [CodeWars](https://www.codewars.com/kata/58b28e5830473070e5000007)
 * [Spanish Pirates off the Treasure Coast](beta/snooker.rb) - [CodeWars](https://www.codewars.com/kata/58b6d8ba1697a5655d00009b)
 * [Find something in an Array](beta/FindArray.rb) - [CodeWars](https://www.codewars.com/kata/53d56645ed770fb7c500085f)
+* [Is it an isogram?](beta/Isogram.rb) - [CodeWars](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2](Translation/StreetFighter2.rb) - [CodeWars](https://www.codewars.com/kata/58583922c1d5b415b00000ff)
@@ -417,3 +420,4 @@
 * [Pigs in a Pen](Authored/Square.rb) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
 * [Hungry Hippos](Authored/Hippo.rb) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
 * [Plenty of Fish in the Pond](Authored/Fish.rb) - [CodeWars](https://www.codewars.com/kata/5904be220881cb68be00007d)
+* [Fruit Machine](Authored/Fruit.rb) - [CodeWars](https://www.codewars.com/kata/590adadea658017d90000039)

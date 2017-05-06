@@ -10,6 +10,9 @@
 * [Calculate average](8KYU/CalAvg.js) - [CodeWars](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 * [Find the first non-consecutive number](8KYU/First.js) - [CodeWars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
 * [String cleaning](8KYU/Clean.js) - [CodeWars](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+* [Parse nice int from char problem](8KYU/Nice.js) - [CodeWars](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+* [Finish Guess the Number Game](8KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/568018a64f35f0c613000054)
+* [Folding your way to the moon](8KYU/Fold.js) - [CodeWars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
@@ -19,6 +22,9 @@
 * [Flatten and sort an array](7KYU/Flatten.js) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 * [Extending JavaScript Objects: Reverse String](7KYU/Extend.js) - [CodeWars](https://www.codewars.com/kata/581270cb4927602fc800005a)
 * [Merge two arrays](7KYU/Merge.js) - [CodeWars](https://www.codewars.com/kata/583af10620dda4da270000c5)
+* [Ordering the words!](7KYU/Order.js) - [CodeWars](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)
+* [Make the small words big!](7KYU/Words.js) - [CodeWars](https://www.codewars.com/kata/57b4dd38d2a31c75f7000299)
+* [Kooka-Counter](7KYU/Kooka.js) - [CodeWars](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -26,6 +32,7 @@
 * [Bingo Card](6KYU/Bingo.js) - [CodeWars](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
 * [Replace With Alphabet Position](6KYU/Replace.js) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 * [Count characters in your string](6KYU/CountChar.js) - [CodeWars](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+* [Guess the number!](6KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -64,3 +71,4 @@
 * [Pigs in a Pen](Authored/Square.js) - [CodeWars](https://www.codewars.com/kata/58fdcc51b4f81a0b1e00003e)
 * [Hungry Hippos](Authored/Hippo.js) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
 * [Plenty of Fish in the Pond](Authored/Fish.js) - [CodeWars](https://www.codewars.com/kata/5904be220881cb68be00007d)
+* [Fruit Machine](Authored/Fruit.js) - [CodeWars](https://www.codewars.com/kata/590adadea658017d90000039)
