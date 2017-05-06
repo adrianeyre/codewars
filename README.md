@@ -14,6 +14,9 @@
 ## C#
 ### [C# Solutions](CSharp/CSharp.md)
 
+## PHP
+### [PHP Solutions](PHP/PHP.md)
+
 ## SQL
 ### [SQL Solutions](SQL/SQL.md)
 
