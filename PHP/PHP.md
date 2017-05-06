@@ -6,4 +6,4 @@
 * [Folding your way to the moon](8KYU/Fold.php) - [CodeWars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
 
 ### <a name="7KYU">7 KYU</a>
-* [Jenny the youngest detective](8KYU/Jenny.php) - [CodeWars](https://www.codewars.com/kata/58b972cae826b960a300003e)
+* [Jenny the youngest detective](7KYU/Jenny.php) - [CodeWars](https://www.codewars.com/kata/58b972cae826b960a300003e)
