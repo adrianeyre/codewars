@@ -2,7 +2,7 @@
 
 [![CodeWars](https://www.codewars.com/users/adrian.eyre/badges/large)](https://www.codewars.com/users/adrian.eyre "My Honor Badge")
 
-## [Ruby Solutions](Ruby/ruby.md)
+[![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/ruby.png)](Ruby/ruby.md) [Ruby Solutions](Ruby/ruby.md)
 
 ## [Javascript Solutions](Javascript/Javascript.md)
 
