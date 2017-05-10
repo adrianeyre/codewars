@@ -12,6 +12,7 @@
 * [Parse nice int from char problem](8KYU/Nice.js) - [CodeWars](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 * [Finish Guess the Number Game](8KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/568018a64f35f0c613000054)
 * [Folding your way to the moon](8KYU/Fold.js) - [CodeWars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
+* [Simple Fun #261: Whose Move](8KYU/261.js) - [CodeWars](https://www.codewars.com/kata/59126992f9f87fd31600009b)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
@@ -24,6 +25,9 @@
 * [Ordering the words!](7KYU/Order.js) - [CodeWars](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)
 * [Make the small words big!](7KYU/Words.js) - [CodeWars](https://www.codewars.com/kata/57b4dd38d2a31c75f7000299)
 * [Kooka-Counter](7KYU/Kooka.js) - [CodeWars](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258)
+* [Check your arguments](7KYU/Args.js) - [CodeWars](https://www.codewars.com/kata/58dd98fe8d29b0f30d0002bd)
+* [Debug the functions EASY](7KYU/Debug.js) - [CodeWars](https://www.codewars.com/kata/5844a422cbd2279a0c000281)
+* [Convert Color image to greyscale](7KYU/Grey.js) - [CodeWars](https://www.codewars.com/kata/590ee3c979ae8923bf00095b)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -32,6 +36,7 @@
 * [Replace With Alphabet Position](6KYU/Replace.js) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 * [Count characters in your string](6KYU/CountChar.js) - [CodeWars](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 * [Guess the number!](6KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
+* [Simple Fun #259: Different Digits Number Search](6KYU/NumSearch.js) - [CodeWars](https://www.codewars.com/kata/59113da398dcd456270000a8)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -52,6 +57,10 @@
 * [Merge two sorted arrays into one](Beta/Merge.js) - [CodeWars](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 * [The Hidden Word](Beta/Hidden.js) - [CodeWars](https://www.codewars.com/kata/5906a218dfeb0dbb52000005)
 * [ASCII Fun #1: X- Shape](Beta/Shape.js) - [CodeWars](https://www.codewars.com/kata/5906436806d25f846400009b)
+* [Write Words with Love](Beta/Love.js) - [CodeWars](https://www.codewars.com/kata/58dbd0162ee7fcc74c0000da)
+* [Simple Fun #264: Compare Two Integers](Beta/264.js) - [CodeWars](https://www.codewars.com/kata/59127598c0f53a738f0000e0)
+* [Simple Fun #262: Case Unification](Beta/262.js) - [CodeWars](https://www.codewars.com/kata/59126cd3379de6ca5f00019c)
+* [Simple Fun #263: Even Numbers Before Fixed](Beta/263.js) - [CodeWars](https://www.codewars.com/kata/5912701a89fc3d0a6a000169)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

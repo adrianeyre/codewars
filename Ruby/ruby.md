@@ -201,6 +201,9 @@
 * [Scrabble Score](7KYU/Scrabble.rb) - [CodeWars](https://www.codewars.com/kata/558fa34727c2d274c10000ae)
 * [Flatten and sort an array](7KYU/Flatten.rb) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 * [Ordering the words!](7KYU/Order.rb) - [CodeWars](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070)
+* [Fruit string calculator](7KYU/Fruit.rb) - [CodeWars](https://www.codewars.com/kata/57b9fc5b8f5813384a000aa3)
+* [Incrementer](7KYU/Incrementer.rb) - [CodeWars](https://www.codewars.com/kata/590e03aef55cab099a0002e8)
+* [Two Oldest Ages](7KYU/Ages.rb) - [CodeWars](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -291,6 +294,9 @@
 * [Collatz](6KYU/Collatz.rb) - [CodeWars](https://www.codewars.com/kata/5286b2e162056fd0cb000c20)
 * [Change Machine](6KYU/ChangeMachine.rb) - [CodeWars](https://www.codewars.com/kata/537ece6953efd95e9e000516)
 * [Guess the number!](6KYU/Guess.rb) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
+* [Where is my parent!?(cry)](6KYU/Parent.rb) - [CodeWars](https://www.codewars.com/kata/58539230879867a8cd00011c)
+* [Arrh, grabscrab!](6KYU/Grab.rb) - [CodeWars](https://www.codewars.com/kata/52b305bec65ea40fe90007a7)
+* [Simple Fun #258: Is Divisible By 6](6KYU/Div6.rb) - [CodeWars](https://www.codewars.com/kata/5911385598dcd432ae000004)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments](5KYU/Reversi.rb) - [CodeWars](https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
