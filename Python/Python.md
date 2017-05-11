@@ -21,6 +21,7 @@
 * [Who ate the cookie?](Beta/Cookie.py) - [CodeWars](https://www.codewars.com/kata/55a996e0e8520afab9000055)
 * [Super Duper Easy](Beta/Easy.py) - [CodeWars](https://www.codewars.com/kata/55a5bfaa756cfede78000026)
 * [2 numbers, 1 solution](Beta/2Numbers.py) - [CodeWars](https://www.codewars.com/kata/58b81b350e8b4275530000c7)
+* [Number of Divisions](Beta/Div.py) - [CodeWars](https://www.codewars.com/kata/5913152be0b295cf99000001)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.py) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

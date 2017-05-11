@@ -204,6 +204,10 @@
 * [Fruit string calculator](7KYU/Fruit.rb) - [CodeWars](https://www.codewars.com/kata/57b9fc5b8f5813384a000aa3)
 * [Incrementer](7KYU/Incrementer.rb) - [CodeWars](https://www.codewars.com/kata/590e03aef55cab099a0002e8)
 * [Two Oldest Ages](7KYU/Ages.rb) - [CodeWars](https://www.codewars.com/kata/511f11d355fe575d2c000001)
+* [Scoring Tests](7KYU/Scoring.rb) - [CodeWars](https://www.codewars.com/kata/55d2aee99f30dbbf8b000001)
+* [The Office I - Outed](7KYU/Office1.rb) - [CodeWars](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
+* [The Office II - Boredom Score](7KYU/Office2.rb) - [CodeWars](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
+* [The Office III - Broken Photocopier](7KYU/Office3.rb) - [CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
