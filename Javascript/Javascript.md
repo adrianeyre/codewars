@@ -37,6 +37,7 @@
 * [Count characters in your string](6KYU/CountChar.js) - [CodeWars](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 * [Guess the number!](6KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
 * [Simple Fun #259: Different Digits Number Search](6KYU/NumSearch.js) - [CodeWars](https://www.codewars.com/kata/59113da398dcd456270000a8)
+* [Case Reversal of Consecutive Duplicates](6KYU/Duplicates.js) - [CodeWars](https://www.codewars.com/kata/577c2d68311a24132a0002a5)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)

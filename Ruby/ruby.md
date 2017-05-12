@@ -208,6 +208,7 @@
 * [The Office I - Outed](7KYU/Office1.rb) - [CodeWars](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)
 * [The Office II - Boredom Score](7KYU/Office2.rb) - [CodeWars](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
 * [The Office III - Broken Photocopier](7KYU/Office3.rb) - [CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
+* [Hit Count](7KYU/Hit.rb) - [CodeWars](https://www.codewars.com/kata/57b6f850a6fdc76523001162)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
