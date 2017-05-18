@@ -1,6 +1,6 @@
 # [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/csharp.png)](CSharp/CSharp.md) C#
 
-[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRAN) | [Authored](#AUTH)
+[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) | [BETA](#BETA) | [Translations](#TRANS) | [Authored](#AUTH)
 
 ### <a name="8KYU">8 KYU</a>
 * [Switch/Case - Bug Fixing #6](8KYU/switch.cs) - [CodeWars](https://www.codewars.com/kata/55c933c115a8c426ac000082)
