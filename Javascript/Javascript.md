@@ -28,6 +28,10 @@
 * [Check your arguments](7KYU/Args.js) - [CodeWars](https://www.codewars.com/kata/58dd98fe8d29b0f30d0002bd)
 * [Debug the functions EASY](7KYU/Debug.js) - [CodeWars](https://www.codewars.com/kata/5844a422cbd2279a0c000281)
 * [Convert Color image to greyscale](7KYU/Grey.js) - [CodeWars](https://www.codewars.com/kata/590ee3c979ae8923bf00095b)
+* [Only one](7KYU/OnlyOne.js) - [CodeWars](https://www.codewars.com/kata/5734c38da41454b7f700106e)
+* [ONE ONe One one](7KYU/OneOne.js) - [CodeWars](https://www.codewars.com/kata/588ac50727eb94c87700001f)
+* [Only One Gift Per Child](7KYU/Gift.js) - [CodeWars](https://www.codewars.com/kata/52af0d380fcae83a560008af)
+* [Put a Letter in a Column](7KYU/Column.js) - [CodeWars](https://www.codewars.com/kata/563d54a7329a7af8f4000059)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -38,6 +42,8 @@
 * [Guess the number!](6KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/5452113c699b538c18000b01)
 * [Simple Fun #259: Different Digits Number Search](6KYU/NumSearch.js) - [CodeWars](https://www.codewars.com/kata/59113da398dcd456270000a8)
 * [Case Reversal of Consecutive Duplicates](6KYU/Duplicates.js) - [CodeWars](https://www.codewars.com/kata/577c2d68311a24132a0002a5)
+* [Spelling Bee](6KYU/Bee.js) - [CodeWars](https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee)
+* [Simple Fun #283: Censor The Forbidden Words](6KYU/283.js) - [CodeWars](https://www.codewars.com/kata/591a86bfe76dc98f24000030)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -62,6 +68,7 @@
 * [Simple Fun #264: Compare Two Integers](Beta/264.js) - [CodeWars](https://www.codewars.com/kata/59127598c0f53a738f0000e0)
 * [Simple Fun #262: Case Unification](Beta/262.js) - [CodeWars](https://www.codewars.com/kata/59126cd3379de6ca5f00019c)
 * [Simple Fun #263: Even Numbers Before Fixed](Beta/263.js) - [CodeWars](https://www.codewars.com/kata/5912701a89fc3d0a6a000169)
+* [Cut it down!](Beta/Cut.js) - [CodeWars](https://www.codewars.com/kata/58be3d340f2c5d2ce5000056)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

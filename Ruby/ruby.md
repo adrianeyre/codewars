@@ -108,6 +108,7 @@
 * [Reversing Words in a String](8KYU/ReverseString.rb) - [CodeWars](https://www.codewars.com/kata/57a55c8b72292d057b000594)
 * [Get the mean of an array](8KYU/MeanOfArray.rb) - [CodeWars](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 * [Stringy Strings](8KYU/StringyString.rb) - [CodeWars](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
+* [Sentence Smash](8KYU/Smash.rb) - [CodeWars](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 
 ### <a name="7KYU">7 KYU</a>
 * [Suzuki needs help lining up his students](7KYU/Suzuki.rb) - [CodeWars](https://www.codewars.com/kata/5701800886306a876a001031)
@@ -209,6 +210,7 @@
 * [The Office II - Boredom Score](7KYU/Office2.rb) - [CodeWars](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)
 * [The Office III - Broken Photocopier](7KYU/Office3.rb) - [CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
 * [Hit Count](7KYU/Hit.rb) - [CodeWars](https://www.codewars.com/kata/57b6f850a6fdc76523001162)
+* [Find Count of Most Frequent Item in an Array](7KYU/Count.rb) - [CodeWars](https://www.codewars.com/kata/56582133c932d8239900002e)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)

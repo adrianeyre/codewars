@@ -42,6 +42,7 @@
 
 ### <a name="Beta">Beta</a>
 * [Number of Decimal Digits](Beta/Decimal.cs) - [CodeWars](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
+* [Guess the Word: Count Matching Letters](Beta/MissingLetters.cs) - [CodeWars](https://www.codewars.com/kata/5912ded3f9f87fd271000120)
 
 ### <a name="TRANS">Translations</a>
 * [Battle ships: Sunk damaged or not touched?](Translation/battleships.cs) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
