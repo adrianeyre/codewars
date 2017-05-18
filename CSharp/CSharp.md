@@ -40,7 +40,7 @@
 * [Valid Braces](4KYU/Braces.cs) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [Connect Four](4KYU/ConnectFour.cs) - [CodeWars](https://www.codewars.com/kata/56882731514ec3ec3d000009)
 
-### <a name="Beta">Beta</a>
+### <a name="BETA">Beta</a>
 * [Number of Decimal Digits](Beta/Decimal.cs) - [CodeWars](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
 * [Guess the Word: Count Matching Letters](Beta/MissingLetters.cs) - [CodeWars](https://www.codewars.com/kata/5912ded3f9f87fd271000120)
 
