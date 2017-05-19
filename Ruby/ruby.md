@@ -433,3 +433,4 @@
 * [Hungry Hippos](Authored/Hippo.rb) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
 * [Plenty of Fish in the Pond](Authored/Fish.rb) - [CodeWars](https://www.codewars.com/kata/5904be220881cb68be00007d)
 * [Fruit Machine](Authored/Fruit.rb) - [CodeWars](https://www.codewars.com/kata/590adadea658017d90000039)
+* [Car Park Escape](Authored/CarPark.rb) - [CodeWars](https://www.codewars.com/kata/591eab1d192fe0435e000014)

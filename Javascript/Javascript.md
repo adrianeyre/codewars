@@ -88,3 +88,4 @@
 * [Hungry Hippos](Authored/Hippo.js) - [CodeWars](https://www.codewars.com/kata/590300eb378a9282ba000095)
 * [Plenty of Fish in the Pond](Authored/Fish.js) - [CodeWars](https://www.codewars.com/kata/5904be220881cb68be00007d)
 * [Fruit Machine](Authored/Fruit.js) - [CodeWars](https://www.codewars.com/kata/590adadea658017d90000039)
+* [Car Park Escape](Authored/CarPark.js) - [CodeWars](https://www.codewars.com/kata/591eab1d192fe0435e000014)
