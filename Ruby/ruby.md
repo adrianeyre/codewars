@@ -304,6 +304,7 @@
 * [Where is my parent!?(cry)](6KYU/Parent.rb) - [CodeWars](https://www.codewars.com/kata/58539230879867a8cd00011c)
 * [Arrh, grabscrab!](6KYU/Grab.rb) - [CodeWars](https://www.codewars.com/kata/52b305bec65ea40fe90007a7)
 * [Simple Fun #258: Is Divisible By 6](6KYU/Div6.rb) - [CodeWars](https://www.codewars.com/kata/5911385598dcd432ae000004)
+* [Does my number look big in this?](6KYU/NumBig.rb) - [CodeWars](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments](5KYU/Reversi.rb) - [CodeWars](https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -417,6 +418,7 @@
 * [Ten-Pin Bowling](beta/Bowling.rb) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)
 * [Mount the Bowling Pins!](Translation/BowlingPins.rb) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
 * [Battle ships: Sunk damaged or not touched?](Translation/BattleShips.rb) - [CodeWars](https://www.codewars.com/kata/58d06bfbc43d20767e000074)
+* [Spelling Bee](Translation/Bee.rb) - [CodeWars](https://www.codewars.com/kata/spelling-bee)
 
 ### <a name="AUTH">Authored</a>
 * [Maze Runner](Authored/MazeRunner.rb) - [CodeWars](https://www.codewars.com/kata/58663693b359c4a6560001d6)

@@ -32,6 +32,10 @@
 * [ONE ONe One one](7KYU/OneOne.js) - [CodeWars](https://www.codewars.com/kata/588ac50727eb94c87700001f)
 * [Only One Gift Per Child](7KYU/Gift.js) - [CodeWars](https://www.codewars.com/kata/52af0d380fcae83a560008af)
 * [Put a Letter in a Column](7KYU/Column.js) - [CodeWars](https://www.codewars.com/kata/563d54a7329a7af8f4000059)
+* [Sum of odd numbers](7KYU/SumOdd.js) - [CodeWars](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+* [Digit Sum](7KYU/DigitSum.js) - [CodeWars](https://www.codewars.com/kata/56bcae6366a2ab99f10011ec)
+* [Sum of all the multiples of 3 or 5](7KYU/Sum35.js) - [CodeWars](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
+* [Remove duplication](7KYU/RemoveDup.js) - [CodeWars](https://www.codewars.com/kata/5904d222e1bfd3354e000026)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)

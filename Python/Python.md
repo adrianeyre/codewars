@@ -9,6 +9,7 @@
 ### <a name="7KYU">7 KYU</a>
 * [Flatten and sort an array](7KYU/Flatten.py) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 * [Spot the Differences](7KYU/Spot.py) - [CodeWars](https://www.codewars.com/kata/5881460c780e0dd207000084)
+* [Guess My Number](7KYU/GuessNum.py) - [CodeWars](https://www.codewars.com/kata/5654d2428be803670a000030)
 
 ### <a name="6KYU">6 KYU</a>
 * [Doors in the school](6KYU/Doors.py) - [CodeWars](https://www.codewars.com/kata/57c15d314677bb2bd4000017)
