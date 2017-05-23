@@ -25,7 +25,7 @@
 * [Simple Fun #124: Lamps](7KYU/Lamps.cs) - [CodeWars](https://www.codewars.com/kata/58a3c1f12f949e21b300005c3)
 * [Histogram - H1](7KYU/Histogram.cs) - [CodeWars](https://www.codewars.com/kata/57d532d2164a67cded0001c7)
 * [Simple Fun #28: Html End Tag By Start Tag](7KYU/Tag.cs) - [CodeWars](https://www.codewars.com/kata/5886f3713a111b620f0000dc)
-* [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.py) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
+* [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.cs) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
 
 ### <a name="6KYU">6 KYU</a>
 * [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)
