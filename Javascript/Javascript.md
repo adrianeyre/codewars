@@ -13,6 +13,7 @@
 * [Finish Guess the Number Game](8KYU/Guess.js) - [CodeWars](https://www.codewars.com/kata/568018a64f35f0c613000054)
 * [Folding your way to the moon](8KYU/Fold.js) - [CodeWars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
 * [Simple Fun #261: Whose Move](8KYU/261.js) - [CodeWars](https://www.codewars.com/kata/59126992f9f87fd31600009b)
+* [Broken Counter](8KYU/Broken.js) - [CodeWars](https://www.codewars.com/kata/526471539d52735c620000c6)
 
 ### <a name="7KYU">7 KYU</a>
 * [Number-Star ladder](7KYU/NumStarLadder.js) - [CodeWars](https://www.codewars.com/kata/5631213916d70a0979000066)
@@ -36,6 +37,8 @@
 * [Digit Sum](7KYU/DigitSum.js) - [CodeWars](https://www.codewars.com/kata/56bcae6366a2ab99f10011ec)
 * [Sum of all the multiples of 3 or 5](7KYU/Sum35.js) - [CodeWars](https://www.codewars.com/kata/57f36495c0bb25ecf50000e7)
 * [Remove duplication](7KYU/RemoveDup.js) - [CodeWars](https://www.codewars.com/kata/5904d222e1bfd3354e000026)
+* [Dictionary from two lists](7KYU/Dict.js) - [CodeWars](https://www.codewars.com/kata/5533c2a50c4fea6832000101)
+* [Number to digit tiers](7KYU/Tiers.js) - [CodeWars](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -48,6 +51,8 @@
 * [Case Reversal of Consecutive Duplicates](6KYU/Duplicates.js) - [CodeWars](https://www.codewars.com/kata/577c2d68311a24132a0002a5)
 * [Spelling Bee](6KYU/Bee.js) - [CodeWars](https://www.codewars.com/kata/57d6b40fbfcdc5e9280002ee)
 * [Simple Fun #283: Censor The Forbidden Words](6KYU/283.js) - [CodeWars](https://www.codewars.com/kata/591a86bfe76dc98f24000030)
+* [Sort the odd](6KYU/SortOdd.js) - [CodeWars](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+* [Unwanted dollars](6KYU/Dollars.js) - [CodeWars](https://www.codewars.com/kata/587309155cfd6b9fb60000a0)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)

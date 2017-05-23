@@ -10,12 +10,17 @@
 * [Flatten and sort an array](7KYU/Flatten.py) - [CodeWars](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 * [Spot the Differences](7KYU/Spot.py) - [CodeWars](https://www.codewars.com/kata/5881460c780e0dd207000084)
 * [Guess My Number](7KYU/GuessNum.py) - [CodeWars](https://www.codewars.com/kata/5654d2428be803670a000030)
+* [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.py) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
+* [How much will you spend?](7KYU/Spend.py) - [CodeWars](https://www.codewars.com/kata/585d7b4685151614190001fd)
 
 ### <a name="6KYU">6 KYU</a>
 * [Doors in the school](6KYU/Doors.py) - [CodeWars](https://www.codewars.com/kata/57c15d314677bb2bd4000017)
 * [Fizz / Buzz](6KYU/FizzBuzz.py) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
 * [Replace With Alphabet Position](6KYU/Replace.py) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 * [Your order, please](6KYU/Order.py) - [CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
+### <a name="3KYU">3 KYU</a>
+* [Calculator](3KYU/Calc.py) - [CodeWars](https://www.codewars.com/kata/5235c913397cbf2508000048)
 
 ### <a name="BETA">Beta</a>
 * [Smart Traffic Lights 1](Beta/.py) - [CodeWars](https://www.codewars.com/kata/58587905ed1b4dad6e0000c6)
