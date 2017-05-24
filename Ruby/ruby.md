@@ -392,6 +392,7 @@
 * [Spanish Pirates off the Treasure Coast](beta/snooker.rb) - [CodeWars](https://www.codewars.com/kata/58b6d8ba1697a5655d00009b)
 * [Find something in an Array](beta/FindArray.rb) - [CodeWars](https://www.codewars.com/kata/53d56645ed770fb7c500085f)
 * [Is it an isogram?](beta/Isogram.rb) - [CodeWars](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1)
+* [Friday the 13th Part 1](beta/Friday.rb) - [CodeWars](https://www.codewars.com/kata/5925acf31a9825d616000e74)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2](Translation/StreetFighter2.rb) - [CodeWars](https://www.codewars.com/kata/58583922c1d5b415b00000ff)
