@@ -211,6 +211,7 @@
 * [The Office III - Broken Photocopier](7KYU/Office3.rb) - [CodeWars](https://www.codewars.com/kata/57ed56657b45ef922300002b)
 * [Hit Count](7KYU/Hit.rb) - [CodeWars](https://www.codewars.com/kata/57b6f850a6fdc76523001162)
 * [Find Count of Most Frequent Item in an Array](7KYU/Count.rb) - [CodeWars](https://www.codewars.com/kata/56582133c932d8239900002e)
+* [Friday the 13th Part 1](7KYU/Friday.rb) - [CodeWars](https://www.codewars.com/kata/5925acf31a9825d616000e74)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -344,6 +345,7 @@
 * [Split hash by key(s)](5KYU/SplitHash.rb) - [CodeWars](https://www.codewars.com/kata/52d0f9bc48155f574c0001b7)
 * [80's Kids #6: Rock 'Em, Sock 'Em Robots](5KYU/Robots.rb) - [CodeWars](https://www.codewars.com/kata/566b490c8b164e03f8000002)
 * [Best travel](5KYU/BestTravel.rb) - [CodeWars](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
+* [Bulk up!](5KYU/Bulk.rb) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)
 
 ### <a name="4KYU">4 KYU</a>
 * [Valid Braces](4KYU/Brace.rb) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)

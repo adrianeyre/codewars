@@ -39,6 +39,8 @@
 * [Remove duplication](7KYU/RemoveDup.js) - [CodeWars](https://www.codewars.com/kata/5904d222e1bfd3354e000026)
 * [Dictionary from two lists](7KYU/Dict.js) - [CodeWars](https://www.codewars.com/kata/5533c2a50c4fea6832000101)
 * [Number to digit tiers](7KYU/Tiers.js) - [CodeWars](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)
+* [Loose Change!](7KYU/Change.js) - [CodeWars](https://www.codewars.com/kata/57e1857d333d8e0f76002169)
+* [Return a string's even characters.](7KYU/Even.js) - [CodeWars](https://www.codewars.com/kata/566044325f8fddc1c000002c)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -53,6 +55,12 @@
 * [Simple Fun #283: Censor The Forbidden Words](6KYU/283.js) - [CodeWars](https://www.codewars.com/kata/591a86bfe76dc98f24000030)
 * [Sort the odd](6KYU/SortOdd.js) - [CodeWars](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 * [Unwanted dollars](6KYU/Dollars.js) - [CodeWars](https://www.codewars.com/kata/587309155cfd6b9fb60000a0)
+* [Simple Fun #305: Typist](6KYU/305.js) - [CodeWars](https://www.codewars.com/kata/592645498270ccd7950000b4)
+* [Range function](6KYU/Range1.js) - [CodeWars](https://www.codewars.com/kata/584ebd7a044a1520f20000d5)
+* [The range() function](6KYU/Range2.js) - [CodeWars](https://www.codewars.com/kata/5298961d9ce954d77b0003a6)
+
+### <a name="5KYU">5 KYU</a>
+* [Bulk up!](5KYU/Bulk.js) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
