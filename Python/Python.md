@@ -13,12 +13,16 @@
 * [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.py) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
 * [How much will you spend?](7KYU/Spend.py) - [CodeWars](https://www.codewars.com/kata/585d7b4685151614190001fd)
 * [Python Checkerboard](7KYU/Check.py) - [CodeWars](https://www.codewars.com/kata/57785441311a24465e000025)
+* [No ifs no buts](7KYU/Ifs.py) - [CodeWars](https://www.codewars.com/kata/592915cc1fad49252f000006)
+* [isEven? - Bitwise Series](7KYU/IsEven.py) - [CodeWars](https://www.codewars.com/kata/592a33e549fe9840a8000ba1)
+* [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.py) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Doors in the school](6KYU/Doors.py) - [CodeWars](https://www.codewars.com/kata/57c15d314677bb2bd4000017)
 * [Fizz / Buzz](6KYU/FizzBuzz.py) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
 * [Replace With Alphabet Position](6KYU/Replace.py) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 * [Your order, please](6KYU/Order.py) - [CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+* [GA-DE-RY-PO-LU-KI cypher vol 2](6KYU/GA-DE-RY-PO-LU-KI2.py) - [CodeWars](https://www.codewars.com/kata/592b7b16281da94068000107)
 
 ### <a name="5KYU">5 KYU</a>
 * [Bulk up!](5KYU/Bulk.py) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)

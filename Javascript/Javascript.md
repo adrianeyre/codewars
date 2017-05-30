@@ -41,6 +41,10 @@
 * [Number to digit tiers](7KYU/Tiers.js) - [CodeWars](https://www.codewars.com/kata/586bca7fa44cfc833e00005c)
 * [Loose Change!](7KYU/Change.js) - [CodeWars](https://www.codewars.com/kata/57e1857d333d8e0f76002169)
 * [Return a string's even characters.](7KYU/Even.js) - [CodeWars](https://www.codewars.com/kata/566044325f8fddc1c000002c)
+* [Sort array by string length](7KYU/SortLen.js) - [CodeWars](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
+* [No ifs no buts](7KYU/Ifs.js) - [CodeWars](https://www.codewars.com/kata/592915cc1fad49252f000006)
+* [isEven? - Bitwise Series](7KYU/IsEven.js) - [CodeWars](https://www.codewars.com/kata/592a33e549fe9840a8000ba1)
+* [Random case](7KYU/RandomCase.js) - [CodeWars](https://www.codewars.com/kata/57073869924f34185100036d)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -61,6 +65,7 @@
 
 ### <a name="5KYU">5 KYU</a>
 * [Bulk up!](5KYU/Bulk.js) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)
+* [flatten()](5KYU/Flatten.js) - [CodeWars](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
 
 ### <a name="BETA">Beta</a>
 * [Mount the Bowling Pins!](Beta/BowlingPins.js) - [CodeWars](https://www.codewars.com/kata/mount-the-bowling-pins)
@@ -86,6 +91,7 @@
 * [Simple Fun #262: Case Unification](Beta/262.js) - [CodeWars](https://www.codewars.com/kata/59126cd3379de6ca5f00019c)
 * [Simple Fun #263: Even Numbers Before Fixed](Beta/263.js) - [CodeWars](https://www.codewars.com/kata/5912701a89fc3d0a6a000169)
 * [Cut it down!](Beta/Cut.js) - [CodeWars](https://www.codewars.com/kata/58be3d340f2c5d2ce5000056)
+* [Walk-up Stairs](Beta/Stairs.js) - [CodeWars](https://www.codewars.com/kata/566c3f5b9de85fdd0e000026)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

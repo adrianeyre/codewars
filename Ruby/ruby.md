@@ -212,6 +212,12 @@
 * [Hit Count](7KYU/Hit.rb) - [CodeWars](https://www.codewars.com/kata/57b6f850a6fdc76523001162)
 * [Find Count of Most Frequent Item in an Array](7KYU/Count.rb) - [CodeWars](https://www.codewars.com/kata/56582133c932d8239900002e)
 * [Friday the 13th Part 1](7KYU/Friday.rb) - [CodeWars](https://www.codewars.com/kata/5925acf31a9825d616000e74)
+* [sort array by last character](7KYU/SortChar.rb) - [CodeWars](https://www.codewars.com/kata/55aea0a123c33fa3400000e7)
+* [Flatten](7KYU/Flatten2.rb) - [CodeWars](https://www.codewars.com/kata/5250a89b1625e5decd000413)
+* [No ifs no buts](7KYU/Ifs.rb) - [CodeWars](https://www.codewars.com/kata/592915cc1fad49252f000006)
+* [isEven? - Bitwise Series](7KYU/IsEven.rb) - [CodeWars](https://www.codewars.com/kata/592a33e549fe9840a8000ba1)
+* [lucky number](7KYU/Ifs.rb) - [CodeWars](https://www.codewars.com/kata/55afed09237df73343000042)
+* [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.rb) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -306,6 +312,8 @@
 * [Arrh, grabscrab!](6KYU/Grab.rb) - [CodeWars](https://www.codewars.com/kata/52b305bec65ea40fe90007a7)
 * [Simple Fun #258: Is Divisible By 6](6KYU/Div6.rb) - [CodeWars](https://www.codewars.com/kata/5911385598dcd432ae000004)
 * [Does my number look big in this?](6KYU/NumBig.rb) - [CodeWars](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+* [GA-DE-RY-PO-LU-KI cypher vol 2](6KYU/GA-DE-RY-PO-LU-KI2.rb) - [CodeWars](https://www.codewars.com/kata/592b7b16281da94068000107)
+* [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](6KYU/GA-DE-RY-PO-LU-KI3.rb) - [CodeWars](https://www.codewars.com/kata/592bdf59912f2209710000e9)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments](5KYU/Reversi.rb) - [CodeWars](https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)

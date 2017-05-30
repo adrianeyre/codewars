@@ -26,6 +26,7 @@
 * [Histogram - H1](7KYU/Histogram.cs) - [CodeWars](https://www.codewars.com/kata/57d532d2164a67cded0001c7)
 * [Simple Fun #28: Html End Tag By Start Tag](7KYU/Tag.cs) - [CodeWars](https://www.codewars.com/kata/5886f3713a111b620f0000dc)
 * [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.cs) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
+* [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.cs) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)
@@ -33,6 +34,7 @@
 * [Find the odd int](6KYU/FindOdd.cs) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Build Tower](6KYU/BuildTower.cs) - [CodeWars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 * [Count the smiley faces!](6KYU/Smile.cs) - [CodeWars](https://www.codewars.com/kata/583203e6eb35d7980400002a)
+* [GA-DE-RY-PO-LU-KI cypher vol 2](6KYU/GA-DE-RY-PO-LU-KI2.cs) - [CodeWars](https://www.codewars.com/kata/592b7b16281da94068000107)
 
 ### <a name="5KYU">5 KYU</a>
 * [Convert string to camel case](5KYU/CamelCase.cs) - [CodeWars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)

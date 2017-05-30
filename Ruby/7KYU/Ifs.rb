@@ -1,0 +1,1 @@
+def no_ifs_no_buts(a, b) "#{a} is #{['smaller than', 'equal to', 'greater than'][(a <=> b) + 1]} #{b}" end
