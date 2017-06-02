@@ -218,6 +218,7 @@
 * [isEven? - Bitwise Series](7KYU/IsEven.rb) - [CodeWars](https://www.codewars.com/kata/592a33e549fe9840a8000ba1)
 * [lucky number](7KYU/Ifs.rb) - [CodeWars](https://www.codewars.com/kata/55afed09237df73343000042)
 * [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.rb) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
+* [Covfefe](7KYU/Covfefe.rb) - [CodeWars](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)

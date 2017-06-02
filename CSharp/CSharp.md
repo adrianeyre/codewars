@@ -27,6 +27,8 @@
 * [Simple Fun #28: Html End Tag By Start Tag](7KYU/Tag.cs) - [CodeWars](https://www.codewars.com/kata/5886f3713a111b620f0000dc)
 * [Count all the sheep on farm in the heights of New Zealand](7KYU/Sheep.cs) - [CodeWars](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
 * [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.cs) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
+* [Digital cypher vol 1](7KYU/Cypher1.cs) - [CodeWars](https://www.codewars.com/kata/592e830e043b99888600002d)
+* [Digital cypher vol 2](7KYU/Cypher2.cs) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
 
 ### <a name="6KYU">6 KYU</a>
 * [Simple Fun #135: Missing Alphabets](6KYU/MissingAlpha.cs) - [CodeWars](https://www.codewars.com/kata/58a664bb586e986c940001d5)

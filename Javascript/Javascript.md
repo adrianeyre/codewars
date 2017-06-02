@@ -45,6 +45,8 @@
 * [No ifs no buts](7KYU/Ifs.js) - [CodeWars](https://www.codewars.com/kata/592915cc1fad49252f000006)
 * [isEven? - Bitwise Series](7KYU/IsEven.js) - [CodeWars](https://www.codewars.com/kata/592a33e549fe9840a8000ba1)
 * [Random case](7KYU/RandomCase.js) - [CodeWars](https://www.codewars.com/kata/57073869924f34185100036d)
+* [Holiday X - Bintang Vests](7KYU/Vests.js) - [CodeWars](https://www.codewars.com/kata/57e93e4a2aee4974d4000c2f)
+* [Sum of Odd Cubed Numbers](7KYU/SumCube.js) - [CodeWars](https://www.codewars.com/kata/580dda86c40fa6c45f00028a)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -62,6 +64,7 @@
 * [Simple Fun #305: Typist](6KYU/305.js) - [CodeWars](https://www.codewars.com/kata/592645498270ccd7950000b4)
 * [Range function](6KYU/Range1.js) - [CodeWars](https://www.codewars.com/kata/584ebd7a044a1520f20000d5)
 * [The range() function](6KYU/Range2.js) - [CodeWars](https://www.codewars.com/kata/5298961d9ce954d77b0003a6)
+* [Find the unique number](6KYU/Unique.js) - [CodeWars](https://www.codewars.com/kata/55f81f9aa51f9b72a200002f)
 
 ### <a name="5KYU">5 KYU</a>
 * [Bulk up!](5KYU/Bulk.js) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)
