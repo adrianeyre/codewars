@@ -23,6 +23,7 @@
 * [Replace With Alphabet Position](6KYU/Replace.py) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 * [Your order, please](6KYU/Order.py) - [CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 * [GA-DE-RY-PO-LU-KI cypher vol 2](6KYU/GA-DE-RY-PO-LU-KI2.py) - [CodeWars](https://www.codewars.com/kata/592b7b16281da94068000107)
+* [Mr. Safety's treasures](6KYU/Treasure.py) - [CodeWars](https://www.codewars.com/kata/592c1dfb912f22055b000099)
 
 ### <a name="5KYU">5 KYU</a>
 * [Bulk up!](5KYU/Bulk.py) - [CodeWars](https://www.codewars.com/kata/5863f1c8b359c4dd4e000001)
@@ -38,6 +39,7 @@
 * [2 numbers, 1 solution](Beta/2Numbers.py) - [CodeWars](https://www.codewars.com/kata/58b81b350e8b4275530000c7)
 * [Number of Divisions](Beta/Div.py) - [CodeWars](https://www.codewars.com/kata/5913152be0b295cf99000001)
 * [Find the lucky numbers](Beta/Luck.py) - [CodeWars](https://www.codewars.com/kata/580435ab150cca22650001fb)
+* [Adding words - Part II](beta/AddWord2.py) - [CodeWars](https://www.codewars.com/kata/592eccf7d6a5403edf000aa1)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.py) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

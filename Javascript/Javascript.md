@@ -47,6 +47,7 @@
 * [Random case](7KYU/RandomCase.js) - [CodeWars](https://www.codewars.com/kata/57073869924f34185100036d)
 * [Holiday X - Bintang Vests](7KYU/Vests.js) - [CodeWars](https://www.codewars.com/kata/57e93e4a2aee4974d4000c2f)
 * [Sum of Odd Cubed Numbers](7KYU/SumCube.js) - [CodeWars](https://www.codewars.com/kata/580dda86c40fa6c45f00028a)
+* [Split camelcase](7KYU/SplitCase.js) - [CodeWars](https://www.codewars.com/kata/586c3070b98de0a57000012e)
 
 ### <a name="6KYU">6 KYU</a>
 * [Fizz / Buzz](6KYU/FizzBuzz.js) - [CodeWars](https://www.codewars.com/kata/51dda84f91f5b5608b0004cc)
@@ -95,6 +96,10 @@
 * [Simple Fun #263: Even Numbers Before Fixed](Beta/263.js) - [CodeWars](https://www.codewars.com/kata/5912701a89fc3d0a6a000169)
 * [Cut it down!](Beta/Cut.js) - [CodeWars](https://www.codewars.com/kata/58be3d340f2c5d2ce5000056)
 * [Walk-up Stairs](Beta/Stairs.js) - [CodeWars](https://www.codewars.com/kata/566c3f5b9de85fdd0e000026)
+* [Adding words - Part II](beta/AddWord2.js) - [CodeWars](https://www.codewars.com/kata/592eccf7d6a5403edf000aa1)
+* [Cancer cells](Beta/Cancer.js) - [CodeWars](https://www.codewars.com/kata/5931614bb2f657c18c0001c3)
+* [Are we alternate?](Beta/Alternate.js) - [CodeWars](https://www.codewars.com/kata/59325dc15dbb44b2440000af)
+* [number with 3 roots.](Beta/3Root.js) - [CodeWars](https://www.codewars.com/kata/5932c94f6aa4d1d786000028)
 
 ### <a name="TRAN">Translations</a>
 * [Ten-Pin Bowling](Beta/Bowling.js) - [CodeWars](https://www.codewars.com/kata/ten-pin-bowling)

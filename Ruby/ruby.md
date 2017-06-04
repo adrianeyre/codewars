@@ -219,6 +219,7 @@
 * [lucky number](7KYU/Ifs.rb) - [CodeWars](https://www.codewars.com/kata/55afed09237df73343000042)
 * [GA-DE-RY-PO-LU-KI cypher](7KYU/GA-DE-RY-PO-LU-KI.rb) - [CodeWars](https://www.codewars.com/kata/592a6ad46d6c5a62b600003f)
 * [Covfefe](7KYU/Covfefe.rb) - [CodeWars](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a)
+* [Split In Parts](7KYU/SplitParts.rb) - [CodeWars](https://www.codewars.com/kata/5650ab06d11d675371000003)
 
 ### <a name="6KYU">6 KYU</a>
 * [Proof Read](6KYU/ProofRead.rb) - [CodeWars](https://www.codewars.com/kata/583710f6b468c07ba1000017)
@@ -315,6 +316,7 @@
 * [Does my number look big in this?](6KYU/NumBig.rb) - [CodeWars](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 * [GA-DE-RY-PO-LU-KI cypher vol 2](6KYU/GA-DE-RY-PO-LU-KI2.rb) - [CodeWars](https://www.codewars.com/kata/592b7b16281da94068000107)
 * [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](6KYU/GA-DE-RY-PO-LU-KI3.rb) - [CodeWars](https://www.codewars.com/kata/592bdf59912f2209710000e9)
+* [Mr. Safety's treasures](6KYU/Treasure.rb) - [CodeWars](https://www.codewars.com/kata/592c1dfb912f22055b000099)
 
 ### <a name="5KYU">5 KYU</a>
 * [Reversi row rudiments](5KYU/Reversi.rb) - [CodeWars](https://www.codewars.com/kata/55aa92a66f9adfb2da00009a)
@@ -404,6 +406,7 @@
 * [Find something in an Array](beta/FindArray.rb) - [CodeWars](https://www.codewars.com/kata/53d56645ed770fb7c500085f)
 * [Is it an isogram?](beta/Isogram.rb) - [CodeWars](https://www.codewars.com/kata/586d79182e8d9cfaba0000f1)
 * [Friday the 13th Part 1](beta/Friday.rb) - [CodeWars](https://www.codewars.com/kata/5925acf31a9825d616000e74)
+* [Adding words - Part II](beta/AddWord2.rb) - [CodeWars](https://www.codewars.com/kata/592eccf7d6a5403edf000aa1)
 
 ### <a name="TRAN">Translations</a>
 * [Street Fighter 2 - Character Selection - Part 2](Translation/StreetFighter2.rb) - [CodeWars](https://www.codewars.com/kata/58583922c1d5b415b00000ff)
