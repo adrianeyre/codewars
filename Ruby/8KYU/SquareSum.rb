@@ -18,5 +18,6 @@ end
 
 # Better Solution
 def squareSum(numbers)
+  return 0 if numbers.empty?
   numbers.map {|n| n*n}.reduce(:+)
 end
